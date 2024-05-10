@@ -2,7 +2,7 @@
 tags: [Objeto Imposible, Perfil de Proyecto]
 title: Proyecto AGUA
 created: '2024-05-10T15:00:15.445Z'
-modified: '2024-05-10T18:00:33.678Z'
+modified: '2024-05-10T18:24:13.157Z'
 ---
 
 # Proyecto AGUA
@@ -17,7 +17,7 @@ modified: '2024-05-10T18:00:33.678Z'
 El _Archivo mnémico_ (conformado por imágenes, videos, sonídos del río Cautin, del gesto _extractivo/capital_ (maquinal), de sus gestos previos, de las palabras en voces de las personas que viven en el borde del río, hablando sobre el río, en el río, de sus archivos; quizás, gestos particulares relacionados al gesto _extractivo/desecho_ desde lo humano hacia el mundo) sirve de material, el cual desplazado hacia el sonido, permitirá hacer vibrar partículas del _Archivo extractivo_ dispuestos sobre una placa de Chladni. La resonancia configurará figuras. Estas figuras conformarán un _Archivo áptico_, dataset desde el cual se generarán las matrices que servirán para acuñar monedas (queda por entender como acuñar/moldear con material no metálico) del árido extraído. La apertura de proceso supone la exhibición del archivo multimedial, sus desplazamientos, y las monedas acuñadas, depositadas dentro de un recipiente con las aguas del _Archivo extractivo_ dispuesto sobre la placa de Chladni en funcionamiento. Ahí dentro, estas, proyectivamente, tenderían a deshacerse, volviendo a su estado granular/informe.
 
 ### Presupuesto
-1. Gastos de producción del Archivo (sensible, extractivo y háptico)
+1. Gastos de producción del Archivo (sensible, extractivo, háptico, cartográfico)
 2. Retribución para lxs investigadorxs
 3. Costos de digitalización, diseño y desarrollo del repositorio digital/web para el Archivo (sensible, extractivo y háptico)
 4. Retribución a los habitantes de la orilla de Chile/Costa Rica (?)
