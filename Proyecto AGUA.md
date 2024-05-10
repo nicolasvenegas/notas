@@ -2,7 +2,7 @@
 tags: [Objeto Imposible, Perfil de Proyecto]
 title: Proyecto AGUA
 created: '2024-05-10T15:00:15.445Z'
-modified: '2024-05-10T18:24:13.157Z'
+modified: '2024-05-10T18:32:26.379Z'
 ---
 
 # Proyecto AGUA
@@ -19,7 +19,7 @@ El _Archivo mnémico_ (conformado por imágenes, videos, sonídos del río Cauti
 ### Presupuesto
 1. Gastos de producción del Archivo (sensible, extractivo, háptico, cartográfico)
 2. Retribución para lxs investigadorxs
-3. Costos de digitalización, diseño y desarrollo del repositorio digital/web para el Archivo (sensible, extractivo y háptico)
+3. Costos de digitalización, diseño y desarrollo del repositorio digital/web para el Archivo
 4. Retribución a los habitantes de la orilla de Chile/Costa Rica (?)
 5. Fabricación de la placa de Chladni
 6. Fabricación de la matriz de acuñado
