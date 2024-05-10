@@ -2,12 +2,12 @@
 tags: [Objeto Imposible]
 title: Proyecto AGUA
 created: '2024-05-10T15:00:15.445Z'
-modified: '2024-05-10T17:33:13.945Z'
+modified: '2024-05-10T17:36:49.076Z'
 ---
 
 # Proyecto AGUA
 
-## _UN ARCHIVO/DATASET:
+## Un Archivo (Datasets):
 1. _MNÉMICO_: compuesto de material multimedial recopilado/elaborado/registrado junto a personas, comunidades, organizaciones que habitan/trabajan/usan/visitan? la orilla del río Cautin.
 2. _EXTRACTIVO_: recolección de muestras de aguas y áridos extraídos del río Cautin.
 3. _HÁPTICO_: resultados gráficos de las resonancias generadas con partículas de áridos extraídos del río Cautin, dispuetas sobre una placa de Chladni.
