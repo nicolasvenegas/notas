@@ -1,8 +1,8 @@
 ---
-tags: [Objeto Imposible]
+tags: [Objeto Imposible, Perfil de Proyecto]
 title: Proyecto AGUA
 created: '2024-05-10T15:00:15.445Z'
-modified: '2024-05-10T17:36:49.076Z'
+modified: '2024-05-10T17:44:43.715Z'
 ---
 
 # Proyecto AGUA
@@ -23,7 +23,7 @@ El _Archivo mnémico_ (conformado por imágenes, videos, sonídos del río Cauti
 4. Retribución a los habitantes de la orilla de Chile/Costa Rica (?)
 5. Fabricación de la placa de Chladni
 6. Fabricación de la matriz de acuñado
-7. Cajas de conservación para las piezas elaboradas
+7. Cajas de conservación para la sección física del archivo y las piezas elaboradas
 
 ### Enlaces
 - [Repositorio de Documentos del Proyecto](https://drive.google.com/drive/folders/1-kQqXorCk3hSv9bk3eVNX83sw08s6QAe?usp=sharing)
@@ -31,7 +31,8 @@ El _Archivo mnémico_ (conformado por imágenes, videos, sonídos del río Cauti
 - [_Sistema Nacional de Fiscalización Ambiental: Procedimiento sancionatorio Expediente D-174-2019 / Maqfront_](https://snifa.sma.gob.cl/Sancionatorio/Ficha/2072?utm_source=pocket_saves)
 - [_Calidad del ecosistema urbano del río Torres, San José, Costa Rica: factores bióticos y abióticos_](https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1659-42662020000200527)
 - [_Las piedras Rai, las curiosas monedas de piedra de Yap_](https://historia.nationalgeographic.com.es/a/piedras-rai-curiosas-monedas-piedra-yap_15807)
-- [_Figuras de Chladni_](https://es.wikipedia.org/wiki/Figuras_de_Chladni)  
+- [_Figuras de Chladni_](https://es.wikipedia.org/wiki/Figuras_de_Chladni) 
+- [_Sitio web Archivo AnAtlas_](http://anatlas.net/)
   
 
 
