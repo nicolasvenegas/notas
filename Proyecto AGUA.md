@@ -1,11 +1,11 @@
 ---
 tags: [Objeto Imposible]
-title: 'Proyecto AGUA {SIN/NOMBRE}'
+title: Proyecto AGUA
 created: '2024-05-10T15:00:15.445Z'
-modified: '2024-05-10T17:28:48.651Z'
+modified: '2024-05-10T17:33:13.945Z'
 ---
 
-# Proyecto AGUA {SIN/NOMBRE}
+# Proyecto AGUA
 
 ## _UN ARCHIVO/DATASET:
 1. _MNÉMICO_: compuesto de material multimedial recopilado/elaborado/registrado junto a personas, comunidades, organizaciones que habitan/trabajan/usan/visitan? la orilla del río Cautin.
