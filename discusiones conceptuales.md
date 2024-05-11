@@ -2,7 +2,7 @@
 tags: [Objeto Imposible]
 title: discusiones conceptuales
 created: '2024-05-10T22:14:36.690Z'
-modified: '2024-05-11T15:47:58.055Z'
+modified: '2024-05-11T15:55:48.022Z'
 ---
 
 # discusiones conceptuales
@@ -67,7 +67,7 @@ modified: '2024-05-11T15:47:58.055Z'
 -- minga por fuego
 - islas
 -- observatorio antártica
--  
+-- imágenes para cuando se acabe Chile 
 
 
 ### herramientas
