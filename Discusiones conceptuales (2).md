@@ -2,7 +2,7 @@
 tags: [Objeto Imposible]
 title: Discusiones conceptuales
 created: '2024-05-10T22:14:36.690Z'
-modified: '2024-05-11T01:33:28.841Z'
+modified: '2024-05-11T01:52:50.546Z'
 ---
 
 # Discusiones conceptuales
@@ -16,12 +16,18 @@ modified: '2024-05-11T01:33:28.841Z'
 - Entender la dinamica de los conceptos
 - Pensar en un ejercicio de estudio, que aborde esta idea similar que tenemos de busqueda conceptua, que tiene que ver con las vistas
 - Pensar en tarsladar la idea del Almanaque, el atlas como táctica para darle bajada a los conceptos que estan poblando el espacio común.
-- Avanzar en la discusión entre la idea de proyecto, proceso, programa
+- Avanzar en la discusión entre la idea de proyecto, proceso, programa.
+- Elaborar glosario de palabras a definir. Añadir __transdisciplina__.
+- El desplazamiento entendido
+  - Entre campos/disciplinas
+  - Entre lenguajes
+  - De relacion de distancia con el texto
+  - Traslados sinestésico
+  - Régimen material (analógico, digital, conceptual)
 
 ## Discusión general de proyectos e ideas
 
 ## Discusión sobre objeto imposible:  lineamientos, ejes, metodologías, materiales, herramientas, calendarizaciones
-
 
 ## Calendarizaciones
 - La idea de la salida como espacio que permita pensar posibles ejercicios que permitan situar los conceptos en prácticas colectivas.
@@ -30,3 +36,6 @@ modified: '2024-05-11T01:33:28.841Z'
 - Enrique Ramirez
 - Alfredo Jaar
 - Harun Farocki
+
+
+
