@@ -1,17 +1,17 @@
 ---
 tags: [La Lluviosa]
-title: Matrices de documentos de Producción/Comunicación
+title: Matriz de documentos de Producción/Comunicación
 created: '2024-05-11T01:35:11.664Z'
-modified: '2024-05-11T02:55:02.523Z'
+modified: '2024-05-11T15:29:41.446Z'
 ---
 
-# Matrices de documentos de Producción/Comunicación
+# Matriz de documentos de Producción/Comunicación
 
 ## Transversales 
 - __Documento lista de chequeo de producción situaciones en vivo__
   - _Necesidades de infraestructura_
     - Equipamiento: cámara, teléfono móvil, trípode, lentes, estabilizador, audífonos, micrófonos, grabadora de audio, cableado, adaptadores, cortaviento, fundas, paraguas, luces.
-    - Suministro de __energia__ y __almacenamiento__ necesarias en función de la duración de la sesión
+    - Suministro de __energía__ y __almacenamiento__ necesarias en función de la duración de la sesión
   - _Necesidades de contenidos_
     - __Fotografía fija__ y __videos__ que cubran ejes/acciones claves (acciones definidas en documento contingente del proyecto)
       - Imágenes de participantes directos del proyecto
