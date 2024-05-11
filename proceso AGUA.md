@@ -1,11 +1,11 @@
 ---
 tags: [Objeto Imposible, Perfil de Proyecto]
-title: proyecto ÁRIDOS
+title: proceso AGUA
 created: '2024-05-10T15:00:15.445Z'
-modified: '2024-05-11T15:30:05.580Z'
+modified: '2024-05-11T16:01:26.876Z'
 ---
 
-# proyecto ÁRIDOS
+# proceso AGUA
 
 ## Un Archivo (Datasets):
 1. _MNÉMICO_: compuesto de material multimedial recopilado/elaborado/registrado junto a personas, comunidades, organizaciones que habitan/trabajan/usan/visitan? la orilla del río Cautin.
