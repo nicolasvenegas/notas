@@ -2,7 +2,7 @@
 tags: [Objeto Imposible]
 title: discusiones conceptuales
 created: '2024-05-10T22:14:36.690Z'
-modified: '2024-05-11T15:23:03.058Z'
+modified: '2024-05-11T15:47:58.055Z'
 ---
 
 # discusiones conceptuales
@@ -59,7 +59,15 @@ modified: '2024-05-11T15:23:03.058Z'
 -- el tiempo real, las experiencias inmersivas
 -- el landart
 ### procesos e ideas
-- 
+- agua
+-- áridos
+-- estudio de un río
+- fuego
+-- incendio 1908
+-- minga por fuego
+- islas
+-- observatorio antártica
+-  
 
 
 ### herramientas
