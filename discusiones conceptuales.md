@@ -2,7 +2,7 @@
 tags: [Objeto Imposible]
 title: discusiones conceptuales
 created: '2024-05-10T22:14:36.690Z'
-modified: '2024-05-11T15:55:48.022Z'
+modified: '2024-05-11T16:25:45.470Z'
 ---
 
 # discusiones conceptuales
@@ -20,12 +20,25 @@ modified: '2024-05-11T15:55:48.022Z'
 - Pensar en tarsladar la idea del Almanaque, el atlas como táctica para darle bajada a los conceptos que estan poblando el espacio común.
 - Avanzar en la discusión entre la idea de proyecto, proceso, programa.
 - Elaborar glosario de palabras a definir. Añadir __transdisciplina__. Añadir __Transmedial__, __multimedial__, lo __mediatico__, la __mediación__
-- El desplazamiento entendido
-  - Entre campos/disciplinas
-  - Entre lenguajes
-  - De relacion de distancia con el texto
-  - Traslados sinestésico
-  - Régimen material (analógico, digital, conceptual)
+- el desplazamiento entendido
+  - entre campos/disciplinas
+  - entre lenguajes
+  - de relacion de distancia con el texto
+  - traslados sinestésico
+  - régimen material (analógico, digital, conceptual)
+- la idea de sentido
+  - 1. adj. Dicho de una cosa: Que incluye o expresa un sentimiento.
+  - 2. adj. Dicho de una persona: Que se ofende con facilidad.
+  - 3. m. Capacidad para percibir estímulos externos o internos mediante determinados órganos. Los sentidos corporales clásicos son vista, oído, olfato, gusto y tacto. Tiene afectado el sentido del equilibrio.
+  - 4. m. Capacidad de reconocer la realidad circundante y de relacionarse con ella. Fue un golpe tan fuerte que quedó sin sentido.
+  - 5. m. Capacidad de entender, apreciar o juzgar algo. El buen sentido aconseja esperar.
+  - 6. m. Modo particular de enfocar, de entender o de juzgar algo. Tiene un gran sentido del deber.
+  - 7. m. Habilidad o destreza para hacer algo o para juzgar bien en ello. Sentido del ritmo, de la orientación.
+  - 8. m. Razón de ser, finalidad o justificación de algo. Su conducta carecía de sentido.
+  - 9. m. Significado de una palabra o de un grupo de palabras. Una pasión, en el mejor sentido de la palabra.
+  - 10. m. Interpretación de que puede ser objeto un mensaje o una obra. Una novela con múltiples sentidos.
+  - 11. m. Tendencia o intención de algo. El sentido de su voto.
+  - 12. m. Cada una de las dos orientaciones opuestas de una misma dirección. La autovía tiene dos carriles por sentido.
 
 ## Discusión general campos de intereses, procesos
 - donde estan puestos los ojos y las energías
@@ -68,7 +81,6 @@ modified: '2024-05-11T15:55:48.022Z'
 - islas
 -- observatorio antártica
 -- imágenes para cuando se acabe Chile 
-
 
 ### herramientas
 - lista de guardado compartida de instagram > armar nico (hecho)
