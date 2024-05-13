@@ -2,7 +2,7 @@
 tags: [Objeto Imposible, Perfil de Proyecto]
 title: proceso AGUA
 created: '2024-05-10T15:00:15.445Z'
-modified: '2024-05-11T16:22:38.704Z'
+modified: '2024-05-12T14:31:55.238Z'
 ---
 
 # proceso AGUA
@@ -16,17 +16,17 @@ modified: '2024-05-11T16:22:38.704Z'
 ## procedimiento 
 nuestra metodologia de construccion de archivo se basa en la definición de nucleos de sentidos o clases que permiten organizar la recolección de vestigios de lo real. para el caso del proceso agua, se definen 4 clases: lo mnemico (relacionado a vestigios sobre memorias del rio), lo extractivo (muedstras materiales que den cuenta de los componentes fisico-naturales), lo hàtico (que permite entender de manera expandida las relaciones sensoriales de seres vivos y no vivos que habitan el rio) y lo cartografico (que otorga puntos de vista y miradas situadas historicamente)
 
-## Resumen
+## resumen
 El _Archivo mnémico_ (conformado por imágenes, videos, sonídos del río Cautin, del gesto _extractivo/capital_ (maquinal), de sus gestos previos, de las palabras en voces de las personas que viven en el borde del río, hablando sobre el río, en el río, de sus archivos; quizás, gestos particulares relacionados al gesto _extractivo/desecho_ desde lo humano hacia el mundo) sirve de material, el cual desplazado hacia el sonido, permitirá hacer vibrar partículas del _Archivo extractivo_ dispuestos sobre una placa de Chladni. La resonancia configurará figuras. Estas figuras conformarán un _Archivo áptico_, dataset desde el cual se generarán las matrices que servirán para acuñar monedas (queda por entender como acuñar/moldear con material no metálico) del árido extraído. La apertura de proceso supone la exhibición del archivo multimedial, sus desplazamientos, y las monedas acuñadas, depositadas dentro de un recipiente con las aguas del _Archivo extractivo_ dispuesto sobre la placa de Chladni en funcionamiento. Ahí dentro, estas, proyectivamente, tenderían a deshacerse, volviendo a su estado granular/informe.
 
-### Presupuesto
-1. Gastos de producción del Archivo (sensible, extractivo, háptico, cartográfico)
-2. Retribución para lxs investigadorxs
-3. Costos de digitalización, diseño y desarrollo del repositorio digital/web para el Archivo
-4. Retribución a los habitantes de la orilla de Chile/Costa Rica (?)
-5. Fabricación de la placa de Chladni
-6. Fabricación de la matriz de acuñado
-7. Cajas de conservación para la sección física del archivo y las piezas elaboradas
+### presupuesto
+1. gastos de producción del Archivo (sensible, extractivo, háptico, cartográfico)
+2. retribución para lxs investigadorxs
+3. costos de digitalización, diseño y desarrollo del repositorio digital/web para el Archivo
+4. retribución a los habitantes de la orilla de Chile/Costa Rica (?)
+5. fabricación de la placa de Chladni
+6. fabricación de la matriz de acuñado
+7. cajas de conservación para la sección física del archivo y las piezas elaboradas
 
 ### Enlaces
 - [Repositorio de Documentos del Proyecto](https://drive.google.com/drive/folders/1-kQqXorCk3hSv9bk3eVNX83sw08s6QAe?usp=sharing)

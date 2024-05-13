@@ -2,12 +2,12 @@
 tags: [La Lluviosa]
 title: Matriz de documentos de Producción/Comunicación
 created: '2024-05-11T01:35:11.664Z'
-modified: '2024-05-11T15:29:41.446Z'
+modified: '2024-05-13T00:08:22.799Z'
 ---
 
 # Matriz de documentos de Producción/Comunicación
 
-## Transversales 
+## Transversales
 - __Documento lista de chequeo de producción situaciones en vivo__
   - _Necesidades de infraestructura_
     - Equipamiento: cámara, teléfono móvil, trípode, lentes, estabilizador, audífonos, micrófonos, grabadora de audio, cableado, adaptadores, cortaviento, fundas, paraguas, luces.
@@ -48,6 +48,7 @@ modified: '2024-05-11T15:29:41.446Z'
   - Tutorías 
   - Lanzamiento Archivo
 - Carpeta de bibliografía/repositorio multimedia del Proyecto
+
 
 ### Contingentes especificos
 - Cuadro cronológico
