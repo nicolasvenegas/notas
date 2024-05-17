@@ -2,7 +2,7 @@
 tags: [La Lluviosa]
 title: Matriz de documentos de Producción/Comunicación
 created: '2024-05-11T01:35:11.664Z'
-modified: '2024-05-13T00:08:22.799Z'
+modified: '2024-05-17T18:32:24.196Z'
 ---
 
 # Matriz de documentos de Producción/Comunicación
@@ -35,18 +35,20 @@ modified: '2024-05-13T00:08:22.799Z'
   - Pronombre preferido
   - Profesión u oficio
   - Resumen biografía
+  - Curriculum PDF (cargar)
   - Fotografía de perfil
   - Link a repositorio de trabajos
   - Nombre usuario RRSS
+  - Logotipo agrupaciñón o proyecto
 
 ## Contingentes al proyecto _Investigación Archivo Danza_ 
 
 ### Contingentes generales
 - Documento Plan de Comunicaciones del Proyecto
 - Documento de ejes/acciones claves de contenidos de situaciones en vivo
-  - Sesiones de trabajo investigadorxs
-  - Tutorías 
-  - Lanzamiento Archivo
+  - _por ej_ Sesiones de trabajo investigadorxs
+  - _por ej_ Tutorías 
+  - _por ej_ Lanzamiento Archivo
 - Carpeta de bibliografía/repositorio multimedia del Proyecto
 
 
@@ -57,7 +59,6 @@ modified: '2024-05-13T00:08:22.799Z'
 - Correos electrónicos
   - De producción
   - De proyectos
-    - Solicitud de imagen para afiche y curriculum
     - Solicitud de nombre de las sesiones
     - Carta de cesión de derechos de autor explicitando usos del material
 
