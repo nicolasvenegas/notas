@@ -23,6 +23,8 @@ modified: '2024-05-17T18:32:24.196Z'
       - Declaraciones participantes del Proyecto
       - Declaraciones de públicos
 - __Carpeta de producción multimedia__
+  - documento lineamientos gráficos
+  - documento con claves de acceso cuentas RRSS 
   - _Subcarpeta Documentos de textos_
     - Documento textos corporativos
   - _Subcarpeta piezas gráficas Instagram_
