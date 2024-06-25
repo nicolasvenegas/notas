@@ -23,10 +23,6 @@ modified: '2024-05-17T18:32:24.196Z'
       - Declaraciones miembr+ de organización
       - Declaraciones participantes del Proyecto
       - Declaraciones de públicos
-- __Carpeta de producción multimedia__
-  - _Subcarpeta Documentos de textos_
-    - Documento textos corporativos
-  - _Subcarpeta piezas gráficas Instagram_
 - __Carpeta de documentos generales del Proyecto__
   - Documento de postulación
   - Documento de Protocolo de trabajo
@@ -47,6 +43,12 @@ modified: '2024-05-17T18:32:24.196Z'
 ### Contingentes generales
 
 - Documento Plan de Comunicaciones del Proyecto
+- __Carpeta de producción multimedia__
+  - documento lineamientos gráficos
+  - documento con claves de acceso cuentas RRSS 
+  - _Subcarpeta Documentos de textos_
+    - Documento textos corporativos
+  - _Subcarpeta piezas gráficas Instagram_
 - Documento de ejes/acciones claves de contenidos de situaciones en vivo
   - _por ej_ Sesiones de trabajo investigadorxs
   - _por ej_ Tutorías 
