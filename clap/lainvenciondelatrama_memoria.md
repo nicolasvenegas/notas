@@ -4,7 +4,11 @@ Documento de recopilación de materiales producidos en el proceso de investigaci
 
 **Abril 2024**
 
+---
+
 # Presentación
+
+---
 
 Tomando como punto de partida la tarea de realizar una memoria de proceso de *La Invención de la Trama*, me pregunto por todos los aspectos que se conjugaron para el desarrollo del montaje. Esto considera retomar algunas consideraciones basales de la creación, enraizadas en las preguntas sobre lo esencial y en lo telúrico entramado con las posibilidades de la máquina: ¿qué quería mostrar el dramaturgo con este trabajo?, ¿desde dónde nacen sus inquietudes para una propuesta retrofuturista, profundamente anclada en lo cósmico?, ¿es la trama, su invención, el tejido solo una parte del hilo que conduce a la necesidad, posibilidad humana de crear, destruir, armar? 
 
@@ -36,6 +40,8 @@ Esta memoria, si bien se encuentra separada en áreas para su mayor comprensió
 
 **Javiera Delgado**, *encargada de la memoria del proceso*
 
+---
+
 ## ¿Qué es la Invención de la Trama?
 
 Es una puesta en escena que plantea una investigación con resultado de obra, donde se imagina el origen de la trama: concepto que en su doble acepción – tanto dramatúrgica como textil - habilita el campo poético que escénicamente va entrelazando inventos tecnológicos con situaciones humanas, invitando a reflexionar sobre la importancia que tiene el tejido para el conocimiento y la vida en sociedad, poniendo de relieve una concepción de éste como tecnología. 
@@ -45,6 +51,8 @@ Para ello, considerando el género de la ciencia ficción regional y de una mane
 La investigación se basó en prácticas textiles locales y visitas al *menoko Juan Currin*, desde donde se contextualizaron las ideas presentes en el libro *Formas dramáticas y representación del mundo* (2017) del autor *Davide Carnevalli*, texto que orientó las búsquedas conceptuales de la dramaturgia y escenificación de la obra. 
 
 El proyecto reúne un equipo interdisciplinario regional que invita a cuestionar ciertos parámetros de lo convencional, con una estructura experimental, que se aleja de la tradición textual para acercarse a una idea atmosférica, donde los distintos componentes escénicos, más allá de las ideas que han sido vehiculizadas históricamente a través de la palabra, puedan cobrar relevancia a partir de texturas, gestos, sonidos, entre otros. Desde la ciencia ficción la obra aborda temas como la ecología, las relaciones humanas, el tejido como tecnología y los viajes en el tiempo.
+
+---
 
 ## Equipo de trabajo
 
@@ -92,7 +100,11 @@ El proyecto reúne un equipo interdisciplinario regional que invita a cuestionar
 
 **FOTOGRAFÍAS** *Paty Pichun, Richard Saavedra y Matías Vergara*
 
+---
+
 # Capítulo I. Producción
+
+---
 
 El despliegue del proceso de *La Invención de la Trama* estuvo bajo la producción de **Miguel Álvarez**, quien estuvo coordinando al equipo desde su gestación hasta su estreno. Concebido como un grupo estable de trabajo con experiencia previa en **La Lluviosa**, organización de la ciudad de **Temuco** que convoca a distintos artistas colectivizados bajo ideas de gestión y producción crítica en cultura con pertinencia territorial. La organización de las distintas áreas de esta primera experiencia de creación y producción teatral, bajo la figura de **Clap, clap, fantasma**, estuvo articulada de acuerdo al rol de cada quien y conforme las necesidades del desarrollo del montaje. La tarea básicamente se orientó a plantear de forma sistemática la organicidad de trabajo, quienes serían los responsables de cada área, las etapas y la comunicación entre las partes.
 
@@ -110,15 +122,19 @@ El trabajo a lo largo del año 2023 e inicios del 2024, se planteó como una tar
 
 La documentación producida para la organización de la labor expone la cantidad de horas y trabajo semanal y el calendario de trabajo a lo largo del año en un manuscrito llamado **La invención de la trama, resumen de participaciones**. Para fines de esta memoria, se comparte el documento elaborado por Miguel, ya que ofrece un ejemplo de la gestión y administración de propuestas de creación, es ilustrativo de la síntesis de tareas, que sin dejar de lado el rigor de la producción, se integra a la conceptualización y la creación de la obra. 
 
-![cuadernilloParticipaciones_trama.jpg](C:\Users\PC\Documents\GitHub\notes\clap\images\cuadernilloParticipaciones_trama.jpg)
+![cuadernilloParticipaciones_trama.jpg](https://github.com/nicolasvenegas/notes/blob/main/clap/images/cuadernilloParticipaciones_trama.jpg?raw=true)
 
 **Imagen 1**. *Cuadernillo de Participaciones. Documentación de Producción de La Invención de la Trama*
 
+---
+
 # Capítulo II. Dramaturgia
+
+---
 
 ## El tejido como una propuesta para observar el mundo
 
-![telarJacquard.jpg](C:\Users\PC\Documents\GitHub\notes\clap\images\telarJacquard.jpg)
+![telarJacquard.jpg](https://github.com/nicolasvenegas/notes/blob/main/clap/images/telarJacquard.jpg?raw=true)
 
 **Imagen 2**. *A mechanical Jacquard loom, front and rear elevations. Engraving by Pegard after L. Guiguet.*
 
@@ -137,6 +153,8 @@ De este modo, el texto nos presenta la existencia de personajes sin una identida
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfJZQOXT7l4W_i95M3-ZgXuGPZOqqYMpdldOtXDCAPIKGteb51gxYglLeBkE_dmWv9L34Srvap7U72ycuqTF5YHAwqmQ_ck7I1-qXZLIgs8QLxwC_LRX8hiQNbZPEPG2l42ta7GOOCeCscErG2bF9b28Ba6m77yLWa6Itwz5UkGGbGhwYPgfzs?key=4o0_5EM_PrPYsspAVZFEzg)
 
 **Imagen 4**. *Esquema visual Ficha técnica Escenografía. Fuente: Dirección La Invención de la Trama, 15 de diciembre 2023*.
+
+---
 
 ### Materiales de trabajo sobre dramaturgia
 
@@ -196,7 +214,11 @@ El espacio es entendido en el texto como un plano que es perforado a lo largo de
 
 **Imagen 7**. *imagen referencial*
 
+---
+
 # Capítulo III Dirección
+
+---
 
 La dirección general, como proyecto escénico complejo, estuvo a cargo de **José Isla**. La visión de la obra, basada en una perspectiva multidimensional y progresiva que considera el texto como *un medio de inmersión, una vehículo quizás hacia poéticas complejas, pero a la vez sencillas, íntimas y sensibles*.
 
@@ -207,6 +229,8 @@ Así, el problema que plantea el texto asume la importancia de la idea de tiempo
 La puesta en escena presenta un viaje de direcciones múltiples en el tiempo, configura distintos escenarios que van cambiando a medida que se despliega la narrativa. Se toma como punto de referencia la idea del tablero de ajedrez para configurar operaciones que permiten vislumbrar y darle forma a la idea escénica. Cada capítulo se construye en base a reglas distintas que funcionan bajo principios que le son propios, donde cada capítulo tiene un tratamiento espacial, rítmico, textual, corporal y estético específico. 
 
 Las acciones que configuran el espacio escénico son perforadas mediante operaciones donde texto y corporalidad convergen integrados o disonantes, a través de una búsqueda enfática en la corporalidad y las normas gestuales que atraviesan el cuerpo de los personajes que se despliegan en cada capítulo. Estos énfasis son la guía para presentar los cuerpos en escena.
+
+---
 
 ## Metodología de trabajo de ensayos
 
@@ -233,6 +257,8 @@ En la preparación de actores se aborda, por medio de sesiones de entrenamiento 
 
 6) Finalmente, se realizó el estreno de 3 funciones por la región de La Araucanía, las que fueron acompañadas de una mediación a cargo de la artista visual **Nicole Aliste**. 
 
+---
+
 ## Dirección de Actantes. Tres miradas esenciales para llevar a cabo la propuesta escénica
 
 El engranaje de las partes para llegar al todo, fue hilado de tal forma que permitió aunar los aportes que enriquecieron el proceso creativo. De este modo entraron en diálogo, la perspectiva integral de **José Isla**, quien impulsó el proceso desde la totalidad de los ámbitos  y fue apoyado por **Daniel Olivares** y **Verónica Capozzoli**, quienes se sumaron en momentos diferentes del proceso del montaje, en el rol de dirección de actantes. Esta tríada en la dirección no sólo permitió tener distintas visiones sobre la ejecución de las actantes, sino permear el trabajo de cada un+, sumando capas de sentidos y entendimientos a la puesta en escena, desbordando las interacciones habituales en la tradición teatral. 
@@ -240,6 +266,8 @@ El engranaje de las partes para llegar al todo, fue hilado de tal forma que perm
 Este enfoque multidireccional configuró posibilidades diversas a los tratamientos conceptuales y estéticos de la obra, que implicó desafíos a los prejuicios y prenociones de cómo llevar a cabo un montaje.  El abordaje estuvo documentado a partir de declaraciones en el caso de José, con una profundización teórica y una orientación más aplicada por Daniel y Verónica.  
 
 A continuación se exponen los documentos de trabajo y experiencias de esta propuesta de dirección conjunta, que se alimenta una de otra, utilizando metáforas propias, ya sea perforación,  rizoma o aproximándose desde la capitulación propuesta por la dramaturgia a través de registros actorales. Tal registro nos permite adentrarnos en los fundamentos teóricos en los cuales se respaldan y también en las inquietudes que sortearon cada un+ para planificar y orientar el trabajo de actuación. 
+
+---
 
 ## Documentos de proceso
 
@@ -377,11 +405,17 @@ El trabajo de **Veronica Capozzoli** surgió al final del proceso, una vez que D
 
 *Y estuvimos  todxs comprometidos con la necesidad de investigar nuevos lenguajes, nuevas composiciones, experimentar el desafío de salir de nuestra zona de confort por qué creemos que hacer arte es remover incesantemente las estructuras, desterritorializar las técnicas, provocar. Y provocar-nos.*
 
+---
+
 # Capítulo IV Asesoría coreográfica
+
+---
 
 La asesoría coreográfica forma parte del equipo de actuación. Estuvo a cargo de **Loreto García** y se realizó para dar apoyo a las actantes en la ejecución de la dramaturgia corporal y la composición coreográfica, en relación a las distintas decisiones que se asumieron en términos de secuencias de acciones y de composición de relaciones espacio-temporales.
 
 Los documentos de esta etapa dan cuenta de la planificación de ensayos, documentos técnicos como partituras coreográficas y guion de acciones, junto con imágenes de las capturas de pantalla de los ensayos. 
+
+---
 
 ## Breve relato sobre coreografía y movimiento en el proceso de La invención de la Trama
 
@@ -472,7 +506,11 @@ Cada capítulo sucede en distintos cuadrantes del espacio escénico, dividido en
 
 **Imágenes 14, 15, 16 y 17**. *Imágenes ensayos, facilitadas por Loreto García*.
 
+---
+
 # Capítulo V. Actantes
+
+---
 
 ## Perspectivas
 
@@ -508,7 +546,11 @@ Lo anterior se tradujo en materiales de trabajo que si bien tomaron como punto d
 
 **Imágenes 18, 19 y 20**. *Documentos de trabajo. Archivo Jasmine.*
 
+---
+
 # Capítulo VI. Diseño escénico
+
+---
 
 *La Invención de la Trama* instala una discusión sobre el rol del diseño escénico como un elemento transversal en la configuración de la obra tomando como eje central el texto dramatúrgico. Como lenguaje, el vestuario, iluminación, sonido, utilería y dispositivo escénico se configuran en atmósferas de acuerdo al desarrollo de los capítulos. Esto supuso un desafío al momento de crearlas, ya que cada una produce una afectación en la siguiente. Conforme lo anterior, en este capítulo se exponen los archivos correspondientes a propuestas textuales, visuales y objetuales que sostuvieron el proceso y desarrollo escenográfico, desde la conceptualización hasta su realización. Se incluyen también registros del proceso de diseño sonoro y multimedial.
 
@@ -521,6 +563,8 @@ Tal como se expone en los documentos de proceso, el diseño estuvo orientado hac
 Para iniciar esta reflexión en torno a lo orgánico-mecánico, la <u>propuesta visual se basa en la idea del tejido como creación tecnológica de la humanidad </u>y cómo ello ha significado un proceso de diferenciación con el mundo natural y los cambios en la relación con el medio ambiente, elementos relevantes para comprender la interacción entre humanos y no humanos  de manera múltiple.
 
 Basada en el proceso de investigación descrito previamente, esta propuesta se centra en la interacción de los cuerpos con objetos tecnológicos de origen diferenciado. Artefactos, proyecciones, sonidos, drones, que interactúan con los personajes en la escena, elementos que pueden ser considerados estructuras vivas a partir de objetos técnicos, y a la vez, elementos naturales con procesos artesanales en su producción.
+
+---
 
 ## Diseño integral
 
@@ -727,6 +771,8 @@ Un desafío fue alcanzar una precisión técnica en la construcción atmosféric
 
 **Imagen 60**. *Guion de luces*.
 
+---
+
 ## Diseño sonoro
 
 #### Texto de propuesta. Invención de la trama sonora (apuntes)
@@ -744,6 +790,8 @@ En relación al diseño sonoro se trabajó modificando el plan inicial y enfocan
 #### Enlaces
 
 <mark>Propuesta vincular el diseño sonoro a un link</mark>
+
+---
 
 ## Diseño multimedial
 
@@ -811,7 +859,11 @@ patches isadora
 
 2. screenshots flujos de control
 
+---
+
 # Capítulo VII. Mediación
+
+---
 
 Instancias ejecutadas por **Nicole Aliste**, con el propósito de generar espacios previos a la experiencia de las funciones de la obra, que <u>permitiesen aproximarse al diseño integral y multimedial</u>, como forma de generar interés y conocimiento en las audiencias por el uso de nuevas tecnologías y la ciencia ficción. 
 
@@ -825,6 +877,8 @@ En esta memoria se integran las características de esta mediación y los docume
 
 4. Invitaciones vía WhatsApp y correo a la base de contacto de La lluviosa, registro que se ha creado a partir de otros proyectos de artes escénicas. Junto a ello hubo una invitación especial a estudiantes de la carrera de Animación digital de la Universidad Mayor, gracias a la gestión de Paulina Cisternas Cisternas, docente en la carrera. 
 
+---
+
 ## Programa diario
 
 - **19:00 a 19:50hrs.** Mediación diseño de escenografía 
@@ -837,9 +891,13 @@ En esta memoria se integran las características de esta mediación y los docume
 
 - **21:45hrs.** Término de la obra, agradecimientos y cierre. 
 
+---
+
 ## Premisas para desarrollar el trabajo de mediación
 
 Al observar los ensayos para tomar elementos del proceso e incorporarlos tanto a la mediación sobre escenografía como para la instalación meditativa, tomé la premisa de la urdimbre que genera la obra en su totalidad por medio del entrelazado de cada área para llegar al resultado de la obra. Fui comprendiendo en el proceso de conocer en profundidad el trabajo que estaban desarrollando los equipos que todas las dimensiones: diseño de objetos, diseño de iluminación, diseño sonoro, diseño de vestuario, diseño multimedial, actuación y texto dramático tenían igual importancia, al conformarse como un tablón de ajedrez en el que cada movimiento altera la conformación del espacio. Tomé esta nomenclatura para revelar rasgos de la escenografía, sus etapas de producción, sus materialidades, reflexiones y poéticas al conformar la máquina del tiempo. Desde esa poética, la máquina del tiempo, propicia imaginarios en les espectadores para disponerse al viaje de La invención de la trama. 
+
+---
 
 ## Proceso escrito para develar la construcción de los elementos ligados a la mediación de La Invención de la Trama
 
@@ -905,7 +963,11 @@ Documento de mediación
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXc-T4Isgm3vqTYydW7lzPLYCwGbh9ddJ3gU05J6mQ5ZPatAFFOypSvOtp5NDjw9Z6bnYBi-lkJlJz87XdoPFfftV-nHjR0-4XgvceeXjzzpGjTf3f0pWbx50M13yKkC1lQqZls3jrT84_mjuj8vIsxD4hcOFT5YEL_KQ4LRG7Sr_jOlog3MIwc?key=4o0_5EM_PrPYsspAVZFEzg)
 
+---
+
 # Referencias citadas
+
+---
 
 <mark>(citar documentos de trabajo)</mark>
 
