@@ -148,7 +148,7 @@ De este modo, el texto nos presenta la existencia de personajes sin una identida
 
 ![DSC07878-Mejorado-NR.jpg](C:\Users\PC\Documents\GitHub\notes\clap\images\DSC07878-Mejorado-NR.jpg)
 
-**Imagen 3**. *[Insertada imagen de la escenografía para el estreno]*
+**Imagen 3**. Escenografía para el estreno.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfJZQOXT7l4W_i95M3-ZgXuGPZOqqYMpdldOtXDCAPIKGteb51gxYglLeBkE_dmWv9L34Srvap7U72ycuqTF5YHAwqmQ_ck7I1-qXZLIgs8QLxwC_LRX8hiQNbZPEPG2l42ta7GOOCeCscErG2bF9b28Ba6m77yLWa6Itwz5UkGGbGhwYPgfzs?key=4o0_5EM_PrPYsspAVZFEzg)
 
@@ -289,8 +289,6 @@ Para el trabajo práctico en la dirección de actantes entonces se buscó desarr
 
 #### Composición de atmósferas
 
-<mark>Imagen 8. *(Imagen de... ?)</mark>*
-
 Los ensayos y el trabajo resultante del proceso de creación de una obra no puede ser resumido en la suma de sus partes y en la repetición incansable en pos de un resultado. Esta linealidad teleológica, probablemente derivada de la cadena productiva fordista, se interrumpe (o se perfora) en la propuesta al considerar la idea de _composición,_ que se usa en artes musicales o visuales, para entender la aparición y articulación de sensaciones y regímenes sensibles que se habilitan a partir de una obra y la idea no materializada de atmósfera, una dramaturgia cambiante que genera agencias caleidoscópicas entre cada lenguaje escénico (textual, visual, sonoro y corporal). Hablar de atmósferas en sí desapega el trabajo de dramaturgia desde el nivel únicamente literaturizado - en la obra como vehículo de ideas - a una dramaturgia atmosférica donde se considera una estética del proceso (cifrada más ideas sobre el tiempo que sobre el espacio), de ritmos y duraciones que se proponen en su aparición sensible y no cerrada. En sí el trabajo de obra es una inmersión a la escena que requiere de cierto estado por parte de las actantes, marcación concreta y posición ética que habilita una relación acción-mirada. Las actrices pasan a ser actantes, pues componen desde sus corporalidades distintas relaciones con la mirada del público. El principal referente en este sentido podría ser *Gilles Deleuze* o las ideas de duración y de estéticas del proceso derivadas de *Henri Bergson*.  
 
 #### Territorios performáticos
@@ -379,7 +377,7 @@ Con el avance de los ensayos se dedicó cada vez menos tiempo al _training_ tran
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdilpDJTbLtgTSThspyWM4O02U_3YLo7gS7I3QmWtNK9bS1m1JgTkj4jYtNQ2xyR17MzwFUXUDR8NzQdyErE3TMsuXeN-yVPqSJYRTlzceteymXTot6tR6t3IXNHD7rtqZduz6VAG1aJ_r9HnehE2UKpmXcbv7evfiS5JcH9CoMcfGBh2sTqFo?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 9**. *Imágenes de ensayo 2023*
+**Imagen 9**. *Imágenes de ensayo 2023*.
 
 Ser parte de la invención de la trama significó un desafío en varios aspectos. Primero, el de encontrarme con gente con la que nunca había trabajado, intentando adaptarme rápido a la propuesta escénica planteada, concentrándome en comprender los aspectos estéticos y discursivos de interés del grupo. Segundo, el intentar desarrollar una propuesta de dirección de actuación que abarca los diversos momentos que el texto propone, entendiendo que cada capítulo hace parte de un todo, pero que, a la vez, cuentan con su propia independencia, se conforman como diversos universos poéticos que configuran el cosmos de la trama. 
 
@@ -388,8 +386,6 @@ En este sentido, en la propuesta de dirección de actuación, se plantea transit
 Me sentía como una especie de representante de la «tradición del teatro», sabiendo que otras personas eran las representantes de otras especialidades, y que cada una de estas cobraba un valor particular, en cierto sentido refrescado, en la interacción y la mezcla que el espacio de «La invención de la trama» ofreció. También significó encontrarme con un grupo de creadores emergentes, que están intentando desarrollar una propuesta artística seria, sensible y ambiciosa para la región.
 
 #### Dispositivo Rizomático. Propuesta de dirección de actantes Verónica Capozzoli
-
-**Imagen 10**. <mark>Imagen ensayo actantes</mark>
 
 El trabajo de **Veronica Capozzoli** surgió al final del proceso, una vez que Daniel retornó a España. Veronica, artista italiana residente en Chile, se integró en la etapa del final del proyecto en el rol de dirección de actantes. El resultado de ambos enfoques fue el  resultado de lo que se vio en la escenificación de la obra. A continuación el relato de la experiencia de la artista en el proceso. 
 
@@ -641,7 +637,7 @@ Otro elemento tecnológico es un dron que permanece oculto hasta la última esce
 
 #### Storyboard final
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeT26y_ov9Kjt0Ures7rat1ZyROGWpo3_5gP5M58BKNYqN69GcwyOMoVb8vmBeEBTIGyOgTi67kYcS4C2MSbJxdoXJK9zw2ko4Mhcjrd7sM-7-OSR25Vw20W_zhLfyoD8Mi5OUROkh1XLh_yC-X5wvi7TSx0woV-lEws9lxk0Tp8Z-f_hI1-dI?key=4o0_5EM_PrPYsspAVZFEzg)
+<img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXeT26y_ov9Kjt0Ures7rat1ZyROGWpo3_5gP5M58BKNYqN69GcwyOMoVb8vmBeEBTIGyOgTi67kYcS4C2MSbJxdoXJK9zw2ko4Mhcjrd7sM-7-OSR25Vw20W_zhLfyoD8Mi5OUROkh1XLh_yC-X5wvi7TSx0woV-lEws9lxk0Tp8Z-f_hI1-dI?key=4o0_5EM_PrPYsspAVZFEzg" title="" alt="" width="675">
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcrWHrEaU4_loelxU_aQGx4dKJGUzoDlTc5Az5Jy5AOsg5bRJR-MurxUL8iFtnVDbCEL8B6UcnuR9X9CmsfCrFDqKb2xQOxKGoLsncRdoNbaNfEavadLQjnHoUnhhK_hcJC7Oe9vQzsds-kJNO7n-qMYae7bjV2exh-eicf9g?key=4o0_5EM_PrPYsspAVZFEzg)
 
@@ -851,13 +847,59 @@ En relación al diseño sonoro se trabajó modificando el plan inicial y enfocan
    
    9. desde 5 a 8 encapsulados en *dispositivo en tiempo real*
 
-<mark>**imágenes</mark>**
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-13-22-image.png)
 
-patches isadora
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-13-34-image.png)
 
-1. renders 
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-16-01-image.png)
 
-2. screenshots flujos de control
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-16-21-image.png)
+
+![vlcsnap-2024-06-25-20h32m26s803.png](C:\Users\PC\Pictures\vlcsnap-2024-06-25-20h32m26s803.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-18-37-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-22-37-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-31-14-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-30-20-image.png)
+
+![trama_peces_fija1.png](D:\trama\trama_proyectoIsadora\assets\trama_peces_fija1.png)
+
+![vlcsnap-2024-06-25-20h38m24s708.png](C:\Users\PC\Pictures\vlcsnap-2024-06-25-20h38m24s708.png)
+
+![vlcsnap-2024-06-25-20h40m26s085.png](C:\Users\PC\Pictures\vlcsnap-2024-06-25-20h40m26s085.png)
+
+![nomellevennomevoy.jpg](D:\trama\trama_proyectoIsadora\assets\nomellevennomevoy.jpg)
+
+![Hoja-de-contacto-001.jpg](D:\trama\trama_proyectoIsadora\assets\cuerdas_4invert\Hoja-de-contacto-001.jpg)
+
+**Imágenes 63 a 76**. *Distintas líneas de trabajo y momentos del proceso de diseño multimedia.*
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-15-39-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-16-07-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-16-55-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-17-32-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-17-57-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-18-22-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-19-06-image.png)
+
+Imágenes 77 a 83. *Control de eventos escenas para operación en vivo.*
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-21-54-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-23-19-image.png)
+
+![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-23-51-image.png)
+
+Imágenes 84, 85 y 86. *Diagramas de relaciones de actores en un par de escenas de la obra*.
 
 ---
 
@@ -968,8 +1010,6 @@ Documento de mediación
 # Referencias citadas
 
 ---
-
-<mark>(citar documentos de trabajo)</mark>
 
 - Carnevalli, David. _Formas drámaticas y representación del mundo._ 2017.
 
