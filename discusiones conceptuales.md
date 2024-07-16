@@ -2,7 +2,7 @@
 tags: [Objeto Imposible]
 title: discusiones conceptuales
 created: '2024-05-10T22:14:36.690Z'
-modified: '2024-05-11T16:25:45.470Z'
+modified: '2024-05-19T22:57:54.159Z'
 ---
 
 # discusiones conceptuales
@@ -93,6 +93,9 @@ modified: '2024-05-11T16:25:45.470Z'
 - Enrique Ramirez
 - Alfredo Jaar
 - Harun Farocki
+
+### Conversaciones pendientes
+- bitacorizar el proceso: cuadernos, notas, registros de viajes
 
 
 
