@@ -33,3 +33,9 @@ la idea de tiempo machi / niños
 ## referencias
 1. ![sistema constructivo titeres de sombra](image.png) https://www.youtube.com/watch?v=xUqWM3Teem4
 2. cia lumiato de brasil https://www.youtube.com/@CiaLumiato
+
+Richard Bradshaw
+https://www.youtube.com/results?search_query=Richard+Bradshaw
+
+Making Shadow Landscapes with Jess Mabel Jones 
+https://www.youtube.com/watch?v=Efoa4pjbXtY
