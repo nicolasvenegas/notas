@@ -377,7 +377,7 @@ Con el avance de los ensayos se dedicó cada vez menos tiempo al _training_ tran
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdilpDJTbLtgTSThspyWM4O02U_3YLo7gS7I3QmWtNK9bS1m1JgTkj4jYtNQ2xyR17MzwFUXUDR8NzQdyErE3TMsuXeN-yVPqSJYRTlzceteymXTot6tR6t3IXNHD7rtqZduz6VAG1aJ_r9HnehE2UKpmXcbv7evfiS5JcH9CoMcfGBh2sTqFo?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 9**. *Imágenes de ensayo 2023*.
+**Imagen 8**. *Imágenes de ensayo 2023*.
 
 Ser parte de la invención de la trama significó un desafío en varios aspectos. Primero, el de encontrarme con gente con la que nunca había trabajado, intentando adaptarme rápido a la propuesta escénica planteada, concentrándome en comprender los aspectos estéticos y discursivos de interés del grupo. Segundo, el intentar desarrollar una propuesta de dirección de actuación que abarca los diversos momentos que el texto propone, entendiendo que cada capítulo hace parte de un todo, pero que, a la vez, cuentan con su propia independencia, se conforman como diversos universos poéticos que configuran el cosmos de la trama. 
 
@@ -494,13 +494,13 @@ Cada capítulo sucede en distintos cuadrantes del espacio escénico, dividido en
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdsnaCWYo0MK6uUxZqcEJuzAIWdnZZ4RHU8m8rnOIMMroKiK0KCqz-4cqBu8os6sGdEUryJMQIVjUi1S5IWkHWrP5MjT6bYue7J9iXlyVNm3UbMHAvznsr_JfmpE7hT24hgV4CCI13-6iY4enSQ9ClCfPz4D1u1eCoOxbx1?key=4o0_5EM_PrPYsspAVZFEzg)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeB3uDTWFmAuZtiV_eH7V0Gx9LSI5veMlOC8K5iePLZTL0CVRsKFBFo0LeMyGr1cb3Gi9GmNYUAZvxI8jNIgcCSzDGxlDjjoweQ1cPZmD7I-b3oZ1J5bJ2Upy-Z-CQXR4CHvWlcdQ3RCu73_KVy-4c-qr9mc3iXEL94Yh04Uw?key=4o0_5EM_PrPYsspAVZFEzg)
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfje9BcQCK2L6J37C3g8U-8SqWDDE9XpuwE5Uq11ShL-OCp60RLqIMCbwwudiub6JbAZ7jm2nWT3050i4EvDjQoGBmdSsJA_tD5Fcxehe6FixyiJOMOmxaibUeXQinAXlbTxru_ce1ve7ITxx9nznME8q34HgpMMThf7k9u?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 11, 12 y 13**. *Bocetos coreográficos facilitados por Loreto García*.
+**Imágenes 9, 10 y 11**. *Bocetos coreográficos facilitados por Loreto García*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfbgieo84tYf6l3WYAadZfXnJAhRDkt0ppaYUBonIyEj3D4Tw2-uxnheYWWiTLHe6-836Eb_ZyjXz09H3DWLXEKb20QTruRyZgf48VlrM6fMq7osal71bG8PPUfxjXnTI6PAIUMdg-8Td3R6Z2gJlJ0uEXtcw25xVIjaFTBiA?key=4o0_5EM_PrPYsspAVZFEzg)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdAT_8wzbjLyqn2aX_R3XTrqu8rUOwfxwKXPGf6HWT--oBWliWvCJF6Hx1naFRGzjQ1uTeCb4n_XR8D1DY1gCnlZPuWFdBZKABf-Hdp9ZA3uhYmBJPgc1P-n4ltCHDijFlQMJ2x_WlRVAXP_r_H23E2uE7Y1PXqS-pR9Mw4EQ?key=4o0_5EM_PrPYsspAVZFEzg)
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdDs6RsAzFogf2ojlOM4xlbbFbpHvdmD3ppVdj0xARCHHM4kbl2J6VNz4AkaDL5ovAUkLISwCrDsTUDnv-4D8I29ROCE248rQ6-VAC0U0Jgcr_ZMZeao5B5hDz-Z_Fs8tguMXY2Mo0IVc0ONGziI_XB6OWf_wkB1vjQFuiXNg?key=4o0_5EM_PrPYsspAVZFEzg)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXd8WePNYuHKoGc_vHdVRv-E49uFqIOOn219ecge4GHuLHsjCPWcZgknWF96ZeLSXCzklNTWnnlhzsRFsKjjarKTdyAWorMlgihfVRrBywW7y7b1sL_FGFVGKxwNalQHd6mxV8_g6GUJQyYw0xovNENDieYKpGwdtU8F35vp1g?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 14, 15, 16 y 17**. *Imágenes ensayos, facilitadas por Loreto García*.
+**Imágenes 12, 13, 14 y 15**. *Imágenes ensayos, facilitadas por Loreto García*.
 
 ---
 
@@ -540,7 +540,7 @@ Lo anterior se tradujo en materiales de trabajo que si bien tomaron como punto d
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfPFd1nfQBJVU9X9ZKJIuRNe3JYBjpMlvvLsxvI12YbtQZ1I7fpoX47ScT9tPTTcqMj7eMndF6qxVe5MaYSmVUdfhUBRAPvaApjsvnPUSfdzzXxK-W0WAfeloS4dQLCCsaQTSahR_BS5ltQU79s2uOtQ9KlrTJHiQK9c9x9etJfCH7li22DDw?key=4o0_5EM_PrPYsspAVZFEzg)   ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXffMpF6A88I2YQDKmiRcXteXQJ7WpbWNRrH9dOp0QBUhzMFSDRmRSBhyw9I-v7guY4ETZNDBySbQwD5IgUp6-Vcjrzd68ygDLljxsItXbWnONXW7zAPKXl7JOL_7s-RNQlTKBbWZQMlRW9ovLcgJlM4sEu_rd1IxvyXvOVKs3sH13bAswQH_O0?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 18, 19 y 20**. *Documentos de trabajo. Archivo Jasmine.*
+**Imágenes 16, 17 y 18**. *Documentos de trabajo. Archivo Jasmine.*
 
 ---
 
@@ -568,11 +568,7 @@ A cargo de **Consuelo Fernández**, quien organiza y da forma a todo el proceso 
 
 Esta parte de la memoria se inicia desde la conceptualización y diseño, que se articuló en un documento metodológico para el proceso de diseño escénico,  orientado a la elaboración de un prototipo tamaño real y que se basó en operaciones, premisas, en tanto bases desde la propuesta de dirección, con lo cual se construyen las propuestas definitivas de dispositivo escénico total, y más adelante una maqueta a escala donde se probaron las diferentes atmósferas, composiciones espaciales y lumínicas, entendidas como aquellas exploraciones y descubrimientos que surgieron a partir de la experimentación, y que fueron utilizadas como insumos. 
 
-**Imagen 21**. <mark>\[Agregar imagen de maqueta]</mark>
-
 ### Materiales de trabajo
-
-**Imágenes 21 y 22**. <mark>\[Incluir imágenes idealmente]</mark>
 
 **Prototipo**: como la materialización de un proceso de diseño que tiene el foco puesto en la manifestación de las operaciones que se pueden activar de manera premeditada o espontánea. La propuesta de los prototipos en cuanto a materialidad, forma, tamaño, disposición y cantidad está dada en función de las operaciones y las posibilidades de usabilidad. Las operaciones son el vehículo de la relación que se establece entre artefacto-actante-espacio-luz-máquina-objeto, y son las que constituyen la atmósfera.
 
@@ -594,19 +590,17 @@ Los cubos son independientes y están apilados a excepción de los del tipo a. t
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXf4nAprMzYea2D9cXV7vw5a6Y6wvh940FXvja1VRQu78gHmODXLOP98GcVP-DPObDdbOuT0qUvL0O8g9Wh817sCR4SZRmZIOFE82LAyYjXC5QAoOmHxZxIG3C4o5ut621fSk33zjqFjn5NWmzgZ3zULchlqHoO_Gm3uLNfjWg?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 23**. *Esquema técnico de dispositivo escénico*.
+**Imagen 19**. *Esquema técnico de dispositivo escénico*.
 
 La primera escena de la obra es el único momento en la cual el dispositivo escénico se encuentra cerrado de forma simétrica. Posteriormente durante las transiciones estos elementos son manipulados por las actantes, configurando unas imágenes finales/iniciales lo que, junto con la iluminación y la proyección de imágenes virtuales, determina la atmósfera de la propuesta dramatúrgica para cada capítulo.
 
 La visualidad de los materiales dispuestos en escena está determinada en un inicio por la neutralidad de sus formas, superficies y colores. Progresivamente, la obra avanza desde una atmósfera de menor a mayor interacción en cuanto a la relación entre los materiales análogos y digitales y su relación con los cuerpos lumínicos. Al interior y luego exterior conviven materialidades físicas como telas, texturas plásticas, rugosas, más o menos volumétricas; al exterior materialidades digitales tales como imágenes virtuales en movimiento, interactivas y la iluminación, de esta manera se permite cambiar totalmente de aspecto y por tanto de atmósfera. ****
 
-**Imágenes 24, 25 y 26**. <mark>Insertar imagenes de objetos usados en escena</mark>
-
 Algunas de las caras de estos dispositivos se abren durante el proceso de reconfiguración de las escenas para extraer elementos que se encuentran en su interior, o para descubrir materialidades que yacen en las caras internas.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdfxMcxLjM1yph6ZcSIswdojghuOjYWMpZq271DTyB4wIax2vw4-i7qwAQrsx3UGLWNrSPvXyFzfeMGrNm96N2-Rk9NXYEyHxpH0Fu-g07j085r8vc5155CmWDMz17miw1PFclBxujEMZ52d8_mg80ySMwt0WaFpLKtDqu9-LWbBQC-RIIwzA?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 27**. *Proceso de diseño La invención de la trama. Propuesta creativa  20-54 (Clap Clap Fantasma, 2023)*
+**Imagen 20**. *Proceso de diseño La invención de la trama. Propuesta creativa  20-54 (Clap Clap Fantasma, 2023)*
 
 La elección de las materialidades para la realización de los cubos se basa en la resistencia, peso y durabilidad, propuestas para las superficies son:
 
@@ -633,7 +627,7 @@ Otro elemento tecnológico es un dron que permanece oculto hasta la última esce
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdLPjV0KvKG_n_yNMJMnvSg5Zkgd1JGREzD-INFvruIvgVTl5Enxp3n529kc1H490WbKaNfpB2_rIF-e38RSDM_I9GMMhmJ9mh1H39yNeY3-D7opXhE31TwWluUcrSnvZ24JhQ2y5GOLAN7bMHcBUfFARRXvtHimlaJj0C-onlxw0hSr_--uw?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 28,29,30 y 31**. *Bocetos preliminares Fuente: Consuelo Fernández, Documento de proceso Invención de la Trama*.
+**Imágenes 21, 22, 23 y 24**. *Bocetos preliminares Fuente: Consuelo Fernández, Documento de proceso Invención de la Trama*.
 
 #### Storyboard final
 
@@ -643,7 +637,7 @@ Otro elemento tecnológico es un dron que permanece oculto hasta la última esce
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcqf86SLZfAYElvo-wcYs-M7ylLPV1IZNDhEvIQxmuQ8XF8kdmgceTyksT8UaQXqg-BeYLRBb1Z73Lex6kXv_U8t6HkkHmoY7WKIpV1pLBhr6iB9pGa4DFxdc1afPzXon946HgYVuJJB5ZLOlXLlWemajjgTXOgrMYfsRB-JrfQ4VEycF77F88?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 32, 33 y 34**.  *Imágenes de proceso Storyboard Fuente: Consuelo Fernández 2023*.
+**Imágenes 25, 26 y 27**.  *Imágenes de proceso Storyboard Fuente: Consuelo Fernández 2023*.
 
 #### Maquetación escenografía
 
@@ -651,7 +645,7 @@ Como parte del proceso de diseño escénico en su etapa final y paralelo a los e
 
 ****![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfCuZKWMbYvv4FAwVgeNc7njduPY1jYycTmyqH60bm23sCJ8RZEzeNnnVf-V9e4DxpTbi-P3nIS3E8ZnD0moKFZ_oGWOwPzDaJFMbWvSUBqkO1nwIW7Njhu-p5CfyMj42gzOw2dmhD615MJdw1-uvbQ4GEY2CAytp6z3SKHrv6fLkHC-Ffi65g?key=4o0_5EM_PrPYsspAVZFEzg)****
 
-**Imagen 35**. *Maquetación proceso. Imágenes, proyecciones y mapping interactivo.*
+**Imagen 28**. *Maquetación proceso. Imágenes, proyecciones y mapping interactivo.*
 
 El proceso de construcción de atmósfera incluyó imágenes de materiales físicos y proyecciones virtuales que comenzaron por aportar texturas hasta convertirse en elementos vivos integrados con algunas de las acciones de las actantes y el sonido. Se tomaron referencias para cada escena, tales como:
 
@@ -661,13 +655,13 @@ El proceso de construcción de atmósfera incluyó imágenes de materiales físi
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXewfnKhQikeRGSmaZZYcR1Gh_MbrzZa1W7xEIHBEID-a5TBLkjlJfl9G88ELWBJKUdQKj7c3CH6Rz95JEeAPKM0khONyDC-JolBEkd6tmwUxXMPmie7SvLoUMLwygPDRLKI9ZZ5hNvk4QQIKuEgFwlRkgx1IJBReOetWBZF2g?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 36, 37 y 38**. *Imágenes de referencia*.
+**Imágenes 29, 30 y 31**. *Imágenes de referencia*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdm6yWo2AyGETV0ajE66H2FezBBPiCaNWhFf2gG0raW3Fn7EktzJhg8yaaIbZHavQ-9LYy71-diZ3KC0StJNAQFfq2rzdATInznPdBbZTCed2j84Q-geDDvrpk5HmPK83Q0owXvM_AkeR1F5_kS9sfw-_uJoQA45f5MAS-N?key=4o0_5EM_PrPYsspAVZFEzg)
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcgrDSL8gqBddl2vmTKUT_hV4hkmJ2AClAXrtw0TSNyYxC4TBnbeiQwGRVHyo3N3cDKIKJgHyTaEGBgVYmXMjQpSo7K2EbGMpmyCg3eoQ4yoQjpmEMMsWLroUFD5xImW9G_DUP5dTDUVcYrJ-IqdoWDo9Q_s8UofeNlkqow6A?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 39 y 40**. *Imágenes escenas con mapping interactivo. Fotografías tercera función La Invención de la Trama en Centro cultural Padre Las Casas. Fuente: Paty Pichun, enero 2024.*
+**Imágenes 32 y 33**. *Imágenes escenas con mapping interactivo. Fotografías tercera función La Invención de la Trama en Centro cultural Padre Las Casas. Fuente: Paty Pichun, enero 2024.*
 
 El diseño de la imagen del capítulo final tomó una serie de reflexiones en torno a la construcción del menoko (humedal) de la obra, la atmósfera tenía que contener intimidad, oscuridad de amanecer, elementos orgánicos propios del lugar, para lo que se realizaron visitas a humedales dentro del territorio.
 
@@ -675,7 +669,7 @@ El diseño de la imagen del capítulo final tomó una serie de reflexiones en to
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcA9po8SWC5aC34YmAmgxajnTb1CswINU91pWtW-Ozh9PQMxi1iwQJcyC0_6h1P5Ax0c-aW-E8EZUZUvydcspI47yG9PGp6vo_ynOdZ7OtSNMmyJxGtoiRq59G3pvlSqaxF-esF39_pbbrR78ApyC_cWuhTsEKusWENUewNMw?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 41 y 42**. *Fotografías visita a terreno menoko Juan Currin, 2023*.
+**Imágenes 34 y 35**. *Fotografías visita a terreno menoko Juan Currin, 2023*.
 
 El diseño final fue una imagen compuesta por capas superpuestas, esta imagen fue proyectada sobre el dispositivo escénico conformado en ese momento por los 3 pilares rectangulares, con sus cubiertas desplegadas en forma de biombos y el interior al descubierto donde se encontraban formas realizadas a mano con alambre, papel y pintura asemejándose a formas orgánicas encontradas en la investigación en terreno.
 
@@ -683,13 +677,13 @@ El diseño final fue una imagen compuesta por capas superpuestas, esta imagen fu
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeGcpavAD8nMko-yu6wVpCv2EmAIBl1Y5FeqfNBB0UnfIthBLMGFnz7p9ay6uxWCfnMS8WqXz7daujy6UKSVAV8auYczTYWpQCh4PXeJgYAAzka7Uqxh4WcSOX_e8LKiABC8HpQ-gzvlYbf7cA4LcSqetp7yLPh1rLXDeox?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 43 y 44**. *Pastel al oleo sobre papel hilado.*
+**Imágenes 36 y 37**. *Pastel al oleo sobre papel hilado.*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeoqaMJHhC-RtOGKkQP0ld1OlpGqz8QRSCLBU6OEGNe0NiY5Pt65hy1LLc5Wq4gFvLWVAYC8yqf8iXvPIk9LDvJdqqPG15ObBuOMJJjHz2lKCaFAgi_k7xJK-wQjnXXM3yCiG0KUStdMe1oGVjqGYbHI5H0F6Zjnf0fcpbQ?key=4o0_5EM_PrPYsspAVZFEzg)
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfFnc6FbXS5asLfE2ttj8Afl1dY853Di4qLz-bG2saFYYFewrtotdnC885ySEeBTvCsNpgsOmC8x4DjdjOowKyDRXsjpwdw_FUEFaRdBXx48vHekX4uXsAYR9fBGWk7Tc-aZY50R0gqbjvHKLM0hYsB3XcqriwGHwMTK4UV?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 45 y 46**. *Fotografías función La Invención de la Trama en Centro cultural Padre Las Casas. Fuente: Paty Pichun, enero 2024.*
+**Imágenes 38 y 39**. *Fotografías función La Invención de la Trama en Centro cultural Padre Las Casas. Fuente: Paty Pichun, enero 2024.*
 
 ### Vestuario
 
@@ -697,25 +691,25 @@ En una primera propuesta se tomó como referencia el trabajo del diseñador de v
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcubnkKp9YtYkp0wQOWd5mmQ61Cde9dwCYWq7M2i0pmXNEffr0A7ICYORmrbJGlU4puyZvYDIzr_KYOUquGM4C0DN3w1MW5VGAbSKLKiaArfSHVyHO_ig28mHfTxWPdDYHfHzpgfwD8wOXhul1UIgq8-2nc5clSCuItiDBjUH9aahQX5Qk_X5g?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 47**.  *referentes visuales vestuario Fuente Clap clap Fantasma Propuesta Creativa 20 54*
+**Imagen 40**.  *referentes visuales vestuario Fuente Clap clap Fantasma Propuesta Creativa 20 54*
 
 La propuesta de vestuario consiste en piezas moldeadas al cuerpo de un material flexible que permita movilidad. La textura visual del vestuario base es de humedad mientras que la de la malla que lo cubre es de luminosidad, de esta manera ambas capas superpuestas generarían un efecto óptico de transparencia símil a la piel de una rana. 
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcgiA7Y35XuJKJPyKJtTSZ8k5LOR_6aq2HOWOAddYGjXt62XZe_oAzBrLBfeMBDxkJrXuXMf4_rrTgYXuRS45_nq8QWzlrhO6e6h_rIh02LLsYBMSPVtE5hfOYyW3AQziCQtsV_nGsBSRcWQxhPnLqfLa0j20p8LcZuN8jQIgyT1bHtMOHWHJE?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 48**. *Primera paleta cromática Fuente Clap clap Fantasma Propuesta Creativa 20 54*
+**Imagen 41**. *Primera paleta cromática Fuente Clap clap Fantasma Propuesta Creativa 20 54*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdE6MNtwvCo1J-62xT5DsGtP1FYRG8Q7H3iJGR6i3sGYsOEtDx3ZVgMgMdaLBaUtnD3BT7pxq2P6HPSBHSGbpiD-UW7UogJF_7PjihVAZR1p7nWbCJTR8Fv8-XdmbuEYGr5OK-2V3uySx4MTYLbHSCK4OUAVL34FCoReMJ8NuQGRiNLaY8BinQ?key=4o0_5EM_PrPYsspAVZFEzg)
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdrPPgFNcoG5p16ZlJ0ZEdClDLvWtsMEDFqbVcnEHmbFIb-lWM5JSX4v9_LTkGPVKtSWjAQlVbw2p4ZpWIYOUCdCjrWIw8chv8HK4E7hem3JL_fvl72_kWxuSmQGHgxd20JMjChfPWinTrmfBy4Do1x13DH53MlLHaunQDuciALsdYvACEyxYw?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 49 y 50**. *Bocetos de vestuario preliminares.*
+**Imágenes 42 y 43**. *Bocetos de vestuario preliminares.*
 
 El proceso de diseño de vestuario derivó hacia otras materialidades y formas. La realización estuvo a cargo de **Diva Castillo**, quien desde hace un tiempo lleva a cabo  investigación sobre el *caucho natural que es el látex para trabajar indumentaria que simula la piel humana... la Consu buscaba algo tipo rana, transparente que tuviera textura, incluso sonidos*. 
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeUzlSei4rgSUn7nFAB2Cjk80pzH_QMHC6Yplcf5O2Ushml4cVFknYLYriAczmlSWBY_n4Cp9LFERf9CNLedDkKXE3oeLRFG-VZWcW0vMLBxEDrykJ8g2ArJdkbJ-VZqFnQa7ydSstVsArdRYdGL_2CdeBueR_lg5TF343kSbIycCb75f8wlQ0?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 51**. *Referentes vestuario*.
+**Imagen 44**. *Referentes vestuario*.
 
 Para la composición final del vestuario se tomó la decisión de realizar un corpóreo completo sobre la mayor parte del cuerpo para que toda su cobertura pareciera ser una otra piel; semi transparente, flexible y viscosa, dejando los pies y las manos al descubierto para facilitar las acciones y desplazamientos, en el cuello una capucha recogida que pudiera cubrir la totalidad del rostro en la escena final. Encima del vestuario llevaría algunos elementos de vestuario y utilería tales como; collar, una capa, cinturones con pistolas y bolsillos para guardar elementos disponibles para algunas escenas. 
 
@@ -725,33 +719,33 @@ El maquillaje se diseñó en base a una propuesta visual cubista con el fin de r
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXejwTqLLgb0jCE7Ot_ekSGxK3KqnhGfVCbkPjHeoZN4CYGoW8R3qHnsRAgKfgqTP6UIxjMYuUVoWSQ_TmUUfU4AzpikSoJ6aPCCiFiZ2HnPkjiydDWsWB-JaAWV8FsMormdBYvtoMP8aNZaRD-2x7x0f7do_mOExqLsKN4eZw?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 52**. *Boceto final vestuario*.
+**Imagen 45**. *Boceto final vestuario*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdyQ_1Q28hE6u0z3vCqsz1BineFkJCE1MJS-e_Ov-rfJipuJHhsaiP03IoxwYgp1AcC3mzhUD8EumgDzaBI-mTiy1bqEfRuOcqQlAC9IKdXsjsRSniQSw5UKkTR8XCB9_2DTXaAwlVgWKYz4N_V_K15OGcohQAGzZrAUDSS?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 53**. *Exploración de material látex.*
+**Imagen 46**. *Exploración de material látex.*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXf86J0IWzQ_-NZdYSxfnKKET_V93b3Il_q50ZIzojyz8U0lYPjU5ym9F0E8eQt0_rIBSDumsU5_N3uFX2rNuDkEom0hHJydMJvzue0AvFFj2_LWM4P1BbE3j0p1dKWyh-FzM6MfZMrn_AaHF29VVW6OIjclonbsG9oSa6JNBw?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 53**. *Bocetos maquillaje.*
+**Imagen 47. *Bocetos maquillaje.*
 
 Para el peinado se tomaron referencias de la *princesa Leia* de la película *Star Wars* y de peinados más contemporáneos basados en modelos de los 90’s.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcdjcW0X6rngBCws3RZmjU09_2FmcIxxVCKgw3R4IyYjsKiKbpFWpoi6gsn5sdxj9gXkzNtjUgjQqqgXDyt-Fhs1Y-r1lQGKYCzZ7R9ZzDPSYkiH7vrGx_JLKe4R6F97OByapv5-9R9vaSWY_jLdUcISceeK63WJicRF8d0?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 54**. *Referencias de peinado*.
+**Imagen 48**. *Referencias de peinado*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfWt04upp8wSmgKiYexQsCeTjlGlHRlg5G5H0Ed7nqZv2-_2zN0M4e6eltMfN5B8JjRzd9jRvf4J1Gk68BzUfNi-2qsUeRLIFTMlfqFoMbs_j0ndn16WTc3XGYqQ1pHMNrm2m_zj1nEkpu7byjUA4psVusxh8qN-Tw55vG-4g0-ZJrhUg-a5Sk?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 55**. *Resultado vestuario Fuente: Archivo Diva Castillo*.
+**Imagen 49**. *Resultado vestuario Fuente: Archivo Diva Castillo*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfIFa2w647IxpAWNPTheGlASIqLhLfy5VmE3h9qeFQI4e2a5z-5_8_t6ImWKBqVh5vD1SEdWnuNRPxNqmazINyoumjAeaB9E-SWPxgXdZbXdbMnaAgkzxoN-k4HMP2LlyOnb4cP7b3L3vmRhJYqsl6D-1jI0vkFQo0kC7do?key=4o0_5EM_PrPYsspAVZFEzg)![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfAjdW215MRiDw3WeYltvUTkZo1xC5SLoB0xuRQZV-y6Vl_qqQkeoZdLqSuvMaG5vIXUVnXJr9n0Yb_KE1h6ZPv4drI2IR-vE4nnViAu9knwHYorcyarMZn2A7M63_X8FFOjvYGA8qaqEvYl7GbGkzFhKee5BbghbGmlGH9?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 56 y 57**. *Fotografías función La Invención de la Trama en Centro cultural Padre Las Casas. Fuente: Paty Pichun, enero 2024*.
+**Imágenes 50 y 51**. *Fotografías función La Invención de la Trama en Centro cultural Padre Las Casas. Fuente: Paty Pichun, enero 2024*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXc5PEur5r3TXSirBs4CiEPvzjf6URbE9Uh5Dao3uCWpURms7vDurdJSyHqJ5B259sghVd_bGEHfd2Jzzc1zPdbmKS_JqbQ9c_84is4xBc1Dl-o5Cr0fNFCwcF7mABW3e9-SfPoMb4M0oeAlfg7lokSznahivo0egpVoPqzFQQ?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 58**. *Maquillaje y pelo realizado por Macarena Díaz. Fuente: Macarena Díaz, enero 2024*.
+**Imagen 52**. *Maquillaje y pelo realizado por Macarena Díaz. Fuente: Macarena Díaz, enero 2024*.
 
 ### Iluminación y técnica
 
@@ -761,11 +755,11 @@ Un desafío fue alcanzar una precisión técnica en la construcción atmosféric
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXe9JFfQP0lzer_JBPivmclUSdXZh-EIStI7llieTENQrLwIoEpZtmWPyvjeN73_hbBDw0xihtRMhlyfplT5i214-Nd53rmHkhqW0Oq36e2v4tcXITEY1NOeJJEZzWsUJX8rOuvptS6RNf9PIoSA3bjMCMIJ_llQHMESYSMnuA?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 59**. *Planta de iluminación*.
+**Imagen 53**. *Planta de iluminación*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeuDr9qFeMAXl3-m8Als7CLtRNy-l9YSzHyRsUxAC36RTNNfw2FXf1D3b0A64_rqoQ1IcC8ZCm-6rcH92o0akmqsOGo8hAfvUpqVSESro4JdeOvfCHZs6r6-DcjWvZeEbVv-3Q4EL6Ja36hQNzdjUCze_9Lsuz9-rQL4pMSSw?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imagen 60**. *Guion de luces*.
+**Imagen 54**. *Guion de luces*.
 
 ---
 
@@ -781,11 +775,7 @@ En relación al diseño sonoro se trabajó modificando el plan inicial y enfocan
 
 ![https://lh7-us.googleusercontent.com/wfBJVYFKGdPbhK5gcDby4ct9\_lGssVX1pwjPRS4d82zQTXig1NRGxeoqeWQ7BqU7uwUpov8ED5KcHlRm4ICs4lePQ4OmetMUae4qemMIcI5P66VB8\_wOozWNnJJszypY95405hw355FI02FiBO3BXs0](https://lh7-us.googleusercontent.com/docsz/AD_4nXd9jM1ze-9tmJms_aTnuydizgAGvOmcB-I5u_zMk6W93Q2HSg5fZkrAnEkVqLJEp8gScIOXX258gqec1BqsyFl2sW3-D-90OcaT0XuXPGxrSH4LdCg15TNKv6MaaJ9UF3joqgNHwDQb8eLvBmUQV5FyTOmN5DhzHPR4BFXkSfvjdEH9NGriS4w?key=4o0_5EM_PrPYsspAVZFEzg)
 
-**Imágenes 61 y 62**. *Trabajo presencial y remoto diseño sonoro*.
-
-#### Enlaces
-
-<mark>Propuesta vincular el diseño sonoro a un link</mark>
+**Imágenes 55 y 56**. *Trabajo presencial y remoto diseño sonoro*.
 
 ---
 
@@ -855,8 +845,6 @@ En relación al diseño sonoro se trabajó modificando el plan inicial y enfocan
 
 ![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-16-21-image.png)
 
-![vlcsnap-2024-06-25-20h32m26s803.png](C:\Users\PC\Pictures\vlcsnap-2024-06-25-20h32m26s803.png)
-
 ![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-18-37-image.png)
 
 ![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-20-22-37-image.png)
@@ -875,7 +863,7 @@ En relación al diseño sonoro se trabajó modificando el plan inicial y enfocan
 
 ![Hoja-de-contacto-001.jpg](D:\trama\trama_proyectoIsadora\assets\cuerdas_4invert\Hoja-de-contacto-001.jpg)
 
-**Imágenes 63 a 76**. *Distintas líneas de trabajo y momentos del proceso de diseño multimedia.*
+**Imágenes 57 a la 69. *Distintas líneas de trabajo y momentos del proceso de diseño multimedia.*
 
 ![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-15-39-image.png)
 
@@ -891,7 +879,7 @@ En relación al diseño sonoro se trabajó modificando el plan inicial y enfocan
 
 ![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-19-06-image.png)
 
-Imágenes 77 a 83. *Control de eventos escenas para operación en vivo.*
+**Imágenes 77 a 83**. *Control de eventos escenas para operación en vivo.*
 
 ![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-21-54-image.png)
 
@@ -899,7 +887,7 @@ Imágenes 77 a 83. *Control de eventos escenas para operación en vivo.*
 
 ![](C:\Users\PC\AppData\Roaming\marktext\images\2024-06-25-21-23-51-image.png)
 
-Imágenes 84, 85 y 86. *Diagramas de relaciones de actores en un par de escenas de la obra*.
+**Imágenes 84, 85 y 86**. *Diagramas de relaciones de actores en un par de escenas de la obra*.
 
 ---
 
@@ -977,33 +965,33 @@ Posterior a la mediación quienes asistieron bajaron desde la sala de música de
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXd50uoCSkK7JA2sX_pbFYQ8N-Qysn65OQvIr53suz4RKDDlMYh1Vvki_fm52OWrwbVhu7JEHmOd-DBK8Z9cknkCWlLeyo8-ErH073PjIejwtgc6dVNWd3HNxG_8P7T4RTedS0msrP8M1aevuu61dvpUTGY0XaprHnMELefRmCdZG7_rH1w4Cg?key=4o0_5EM_PrPYsspAVZFEzg)
 
-Boceto preliminar de la instalación meditativa
+**Imagen 87**. *Boceto preliminar de la instalación mediativa.*
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXckUTHWImjYBukDGgMI-goKErocolsNj7lffXmj9DBHOAK9sMB02rhJTbke3I2v2lkqOwLKesNrElNqW0DYtucODM0JbDP9oT-14lIwQcIeWlbPywE7EUyD549-X_76BNvk8G391wbhbpB8S0Wlda6iyMrcRUfJzasAUNvlAd9mbCxydi5wn2U?key=4o0_5EM_PrPYsspAVZFEzg)Instalación meditativa en el hall del Centro Cultural de Padre Las Casas
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXckUTHWImjYBukDGgMI-goKErocolsNj7lffXmj9DBHOAK9sMB02rhJTbke3I2v2lkqOwLKesNrElNqW0DYtucODM0JbDP9oT-14lIwQcIeWlbPywE7EUyD549-X_76BNvk8G391wbhbpB8S0Wlda6iyMrcRUfJzasAUNvlAd9mbCxydi5wn2U?key=4o0_5EM_PrPYsspAVZFEzg)
+
+**Imagen 88**. *Instalación meditativa en el  Hall del Centro Cultural de Padre Las Casas.*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfXd4LoMzjWxpuNAYVTHowHiTP8UQkF0owkVPMPO0i8aP8v4nDhOEEBb47GHjYFQZk5nPK52sEfDi-rSvoimeB3SF2iH1insHQ8aqO61KzZNbSLzIRdDgQh4jDZ02hDnJxT4bHkc0seRj2mpkvCtJjHVx_DxTTxocduQepQpFKzLetZruInobs?key=4o0_5EM_PrPYsspAVZFEzg)
 
-Apuntes realizados en el ensayo del 5 de enero del 2024 en KOM
+**Imagen 89**. *Apuntes realizados en el ensayo del 5 de enero del 2024 en KOM*.
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeLVcljoe-W9IIzPF1szpmVZ-glqtPO5K0aAKB1fYDb4kdSGNVtNHvPehfebLJ6_qrpO18sloAnH7O_cMPV8DKnN0LASo0ZWabFIiuumQ6S7x4DhsOfAn9bbXGQ5DilRa4QzHh4HG7AJEp58-MbNZi8O5wtD6x7dLbhUnApufs1MstqEqcp6uU?key=4o0_5EM_PrPYsspAVZFEzg)
 
-Registro ensayo del 5 de enero del 2024, capítulo referente para la instalación mediativa 
+**Imagen 90.** *Registro ensayo del 5 de enero del 2024, capítulo referente para la instalación mediativa.*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcNIc0ku8_RVa_hPJKjoRE1vB48JUqiBQGEffrEc2k0ariI5KLpEHuIT--WU3tkt_MmdhcVjCsKKf5FpphNCIiPwbb1lE-k7axsTtNhbleaG8YvhNijLM0A_ZlF9_MLXzcczpHvE_pb3BIh9y_JnW4ZimynUlwi7IgWDsMehqDs45y-voDYDGI?key=4o0_5EM_PrPYsspAVZFEzg)
 
-Elementos dentro de uno de los cubículos donde se instaló la luz godox
+**Imagen 91.** *Elementos dentro de uno de los cubículos donde se instaló la luz Godox.*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeVd-jQu4HNmxpOlK70w-w7SRoaaXpMxSbfmC8veLX6qbEC8XKySiIbMgZnkbrCvHxh51rC_tCzDXyqVVKFe-P1LvGedzoEwhzgeIHsAexAzrEHhKpFABnbT6WW3EvhrHfCUywplalagfRf4sfX5m68Rym758tgSIjirvjvBx_mbuha6MsaNA?key=4o0_5EM_PrPYsspAVZFEzg)
 
-Soporte de plantas artificiales que inspiraron la instalación mediativa.![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfOB2DlJs5KhelN-NTRtibe2mmLa9DLRwLG76zdO0zQe708JqbE-pLoKznurQ3pi18ViEYco6-wAWxJBjdqB7Rr_oIZoRFYQgw4hct7-Oj-S1QcJb4AODYKVYcqdCkkXMSWgIVA-Xenk_CxBcksUWnh2tAkiuSXqRPtlnjZEBOSGx6CeG8B9PY?key=4o0_5EM_PrPYsspAVZFEzg) ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfWLz8s4xw9uiuEmsYg35rKM0v3rUpnB1r349OxTBarRZ6Xqibwa0aLkevcaTUiRK-vrOZ6239Owm7mDJAbb-Ix4L7LJbbe9el9DfXenBy4c7ndzkg_51-Cbn3-uRJjErKgOz02kGtD5eLwpKfHGX8RgeNHtvIW5VrvJdTb3Tu6dm15BgF79A?key=4o0_5EM_PrPYsspAVZFEzg)
+**Imagen 92.** *Soporte de plantas artificiales que inspiraron la instalación mediativa.*
 
-Documento de mediación
-
-Documento de mediación
-
-<https://drive.google.com/drive/folders/1yyN2zG2W6TNVyhY2aG1MSNVOO6g6ja6z>
+![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfOB2DlJs5KhelN-NTRtibe2mmLa9DLRwLG76zdO0zQe708JqbE-pLoKznurQ3pi18ViEYco6-wAWxJBjdqB7Rr_oIZoRFYQgw4hct7-Oj-S1QcJb4AODYKVYcqdCkkXMSWgIVA-Xenk_CxBcksUWnh2tAkiuSXqRPtlnjZEBOSGx6CeG8B9PY?key=4o0_5EM_PrPYsspAVZFEzg) ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfWLz8s4xw9uiuEmsYg35rKM0v3rUpnB1r349OxTBarRZ6Xqibwa0aLkevcaTUiRK-vrOZ6239Owm7mDJAbb-Ix4L7LJbbe9el9DfXenBy4c7ndzkg_51-Cbn3-uRJjErKgOz02kGtD5eLwpKfHGX8RgeNHtvIW5VrvJdTb3Tu6dm15BgF79A?key=4o0_5EM_PrPYsspAVZFEzg)
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXc-T4Isgm3vqTYydW7lzPLYCwGbh9ddJ3gU05J6mQ5ZPatAFFOypSvOtp5NDjw9Z6bnYBi-lkJlJz87XdoPFfftV-nHjR0-4XgvceeXjzzpGjTf3f0pWbx50M13yKkC1lQqZls3jrT84_mjuj8vIsxD4hcOFT5YEL_KQ4LRG7Sr_jOlog3MIwc?key=4o0_5EM_PrPYsspAVZFEzg)
+
+**Imagen 93, 94 y 95.** *Documentación mediación.*
 
 ---
 

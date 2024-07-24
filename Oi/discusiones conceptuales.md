@@ -7,9 +7,10 @@ modified: '2024-05-11T16:25:45.470Z'
 
 # discusiones conceptuales
 
-## sobre **Objeto Imposible**:  
+## sobre **Objeto Imposible**:
 
-### ideas iniciales 
+### ideas iniciales
+
 - Entender la idea de __archivo expandido__.
 - Trabajar con __materiales__ diversos. Los materiales entendidos, como cualquier __vestigio de entrada__ posible que permita problematizar lo que se esta mirando, pensando. Pueden ser datos, dibujos, caminatas, mapas, cosas que no quedan registradas como conversaciones. Existen cuatro posibilidaddes de partida: lo sonoro, lo visual, lo textual, lo háptico. 
 - En el __gesto de la disección__ surge la posibiliad de __busqueda interseccional__.
@@ -41,6 +42,7 @@ modified: '2024-05-11T16:25:45.470Z'
   - 12. m. Cada una de las dos orientaciones opuestas de una misma dirección. La autovía tiene dos carriles por sentido.
 
 ## Discusión general campos de intereses, procesos
+
 - donde estan puestos los ojos y las energías
 - hay una relacion con las sustancias de los materiales
 - los procesos como el foco de atención del trabajo
@@ -49,6 +51,7 @@ modified: '2024-05-11T16:25:45.470Z'
 - la exhibición, el espacio de lo vivo ya madurado en el ámbito de la música, es el lugar hacia donde se expandirán las formas de financiación de las prácticas artísticas en contextos locales
 
 ### Campos de intereses
+
 - nico
   - vivo / performático / la dimensión material espacializada/sometida al tiempo
   - investigación/creación
@@ -56,43 +59,44 @@ modified: '2024-05-11T16:25:45.470Z'
   - formas de entender lo multi/transmedial
   - tecnología / imbricación filosofía, arte y ciencia
 - paulina
--- investigación/creación como punto de partida
--- creación de archivos propios, el archivo como una fase primera: fuentes, materiales diversas. Abordaje de problemas que estan afuera nuestro. Todo visto como un problema, no como una contemplación del paisaje. Expandir el archivo como un gesto de retrotraer. pensar que ha hecho la propia disciplina en la construcción del contexto en el que estamos. Deshacer desde la propia disciplina
--- hacer con poco, cine doméstico. el cine como práctica de investigación. Salir  de la lógica del producto final llamado película. Consolidar una manera más seria y concreta de dar abordaje a estas perspectivas como cineasta
--- trabajo con comunidades, prácticas socioespaciales
--- diversificación de las maneras de salida de los procesos de investigación, no deterministas
--- arquitectura y economías extractivistas: la invención de futuros posibles
--- el trabajo con la naturaleza, las problemáticas medioambientales. Como llevar el regimen visual de lo autobiográfico, la ficción
--- hacer películas, como entendemos las películas de manera convencional, específicas, como partes de procesos, de campos de acción
--- trabajo teórico, generar teoría propia
--- trabajar transdisciplinarmente, capacitarse en nuevos lenguajes, nuevas herramientas, nuevos softwares
--- lo transmedial, como datos relacionados pero con independencia narrativa
--- volver al videoarte
--- las escalas: el espacio local, regional, lo planetario. el tiempo, procesos abiertos
--- el tiempo real, las experiencias inmersivas
--- el landart
-### procesos e ideas
+  -- investigación/creación como punto de partida
+  -- creación de archivos propios, el archivo como una fase primera: fuentes, materiales diversas. Abordaje de problemas que estan afuera nuestro. Todo visto como un problema, no como una contemplación del paisaje. Expandir el archivo como un gesto de retrotraer. pensar que ha hecho la propia disciplina en la construcción del contexto en el que estamos. Deshacer desde la propia disciplina
+  -- hacer con poco, cine doméstico. el cine como práctica de investigación. Salir  de la lógica del producto final llamado película. Consolidar una manera más seria y concreta de dar abordaje a estas perspectivas como cineasta
+  -- trabajo con comunidades, prácticas socioespaciales
+  -- diversificación de las maneras de salida de los procesos de investigación, no deterministas
+  -- arquitectura y economías extractivistas: la invención de futuros posibles
+  -- el trabajo con la naturaleza, las problemáticas medioambientales. Como llevar el regimen visual de lo autobiográfico, la ficción
+  -- hacer películas, como entendemos las películas de manera convencional, específicas, como partes de procesos, de campos de acción
+  -- trabajo teórico, generar teoría propia
+  -- trabajar transdisciplinarmente, capacitarse en nuevos lenguajes, nuevas herramientas, nuevos softwares
+  -- lo transmedial, como datos relacionados pero con independencia narrativa
+  -- volver al videoarte
+  -- las escalas: el espacio local, regional, lo planetario. el tiempo, procesos abiertos
+  -- el tiempo real, las experiencias inmersivas
+  -- el landart
+  
+  ### procesos e ideas
 - agua
--- áridos
--- estudio de un río
+  -- áridos
+  -- estudio de un río
 - fuego
--- incendio 1908
--- minga por fuego
+  -- incendio 1908
+  -- minga por fuego
 - islas
--- observatorio antártica
--- imágenes para cuando se acabe Chile 
+  -- observatorio antártica
+  -- imágenes para cuando se acabe Chile 
 
 ### herramientas
+
 - lista de guardado compartida de instagram > armar nico (hecho)
 - en las reuniones hay dos tareas: registrar apuntes, sistematizar apuntes.
 
 ## Calendarizaciones
+
 - La idea de la salida como espacio que permita pensar posibles ejercicios que permitan situar los conceptos en prácticas colectivas.
 
 ### Referentes
+
 - Enrique Ramirez
 - Alfredo Jaar
 - Harun Farocki
-
-
-
