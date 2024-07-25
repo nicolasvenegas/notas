@@ -8,6 +8,7 @@ modified: '2024-07-11T17:54:50.091Z'
 # proyectos cine 2025
 
 ## niveles
+
 * propuestas, desagregar: 
   * dispositivo fímico?
   * método de creación/diseño/producción?
@@ -16,16 +17,17 @@ modified: '2024-07-11T17:54:50.091Z'
 * imágenes
 
 ## {prioritario} rural > rodaje
+
 1. punto de vista
-  1. el protagonismo de marta
-  2. 
+   1. el protagonismo de marta
+   2. 
 
 ## los buitres > fortalecimiento
+
 1. rescritura de diálogos
 
-
-
 --- 
+
 * la idea de estándar de industria > estándar/singularidad
 * la propuesta se define dentro de un esquema estandarizado, en base a lo que hoy existe en la documentación de cada proyecto
 * las propuestas parten de lo hecho ¿qué cosas de las actuales propuestas de proyectos son perfectibles en términos de sus documentos en esta relación estándar/singularidad?
@@ -36,12 +38,9 @@ modified: '2024-07-11T17:54:50.091Z'
 * río arriba de la estandarización: en artes escénicas el proceso de investigación por departamentos diseña; en el cine la producción diseña acciones y departamentos, sus magnitudes y relaciones?
 * procedimiento: registro/observación > diálogo de referencialidades/lenguajes desplegados, jerarquización (criterios autorales)
 * desintegración del lenguaje cinematográfico en sus distintos códigos de composición
+
 ---
-
-
 
 * el inquilino, roman polanski [https://es.wikipedia.org/wiki/Le_locataire](https://es.wikipedia.org/wiki/Le_locataire)
 * repulsión, roman polanski [https://es.wikipedia.org/wiki/Repulsi%C3%B3n_(pel%C3%ADcula)](https://es.wikipedia.org/wiki/Repulsi%C3%B3n_(pel%C3%ADcula))
 * cleo de 5 a 7, agnes varda [https://es.wikipedia.org/wiki/Cleo_de_5_a_7](https://es.wikipedia.org/wiki/Cleo_de_5_a_7)
-
-
