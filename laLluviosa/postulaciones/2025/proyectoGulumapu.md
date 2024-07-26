@@ -1,3 +1,9 @@
+---
+title: proyectoGulumapu
+created: '2024-07-25T22:23:37.315Z'
+modified: '2024-07-25T22:33:43.260Z'
+---
+
 # gulumapu.artes 2025
 
 - **folio**: 761901     
@@ -9,9 +15,8 @@
 
 **Consolidar** la revista de difusión Gulumapu Artes como una plataforma digital integral a través del desarrollo de una estrategia editorial de impacto regional, con contenidos enfocados en las investigaciones, las prácticas, los procesos y circuitos culturales y artísticos de la región de La Araucanía durante el año 2024.
 
-### posibles verbos
 
-1. dotar de continuidad el trabajo editorial de Gulumapu.artes, 
+1. Consolidar la estrategia editorial y el desarrollo de audiencias de alcance regional de la revista digital Gulumapu Artes, a través de una propuesta editorial de contenidos enfocados en cartografiar la actuales formas de construir y entender las ideas de tiempo y memoria que componen el panorama artístico y cultural contemporáneo de la región de la araucanía durante el año 2025.
 
 2. 
 
@@ -38,11 +43,7 @@ El trabajo colectivo de los anteriores procesos de Gulumapu Artes abrieron la re
 
 - criterios sobre grupos excluidos > apuntaremos a cubrir más y mejor la realidad regional y mejorar el vínculo entre las audiencias y la revista. Funcionaremos a partir de un criterio de descentralización: el 50% de los contenidos de la revista estará orientado a cubrir realidades artístico-culturales de comunas por fuera de la capital regional. 
 
-- Si en el primer ciclo de la revista -durante 2021- los objetivos priorizados fueron el lanzamiento de la revista digital y su puesta en marcha. En este 2° ciclo, se busca:
 
-- la publicaciones como objetos editoriales, una forma de nombrar para acceder a una reflexión sobre las formas que toma hoy la relación de códigos digitalizados, herederos de la revista en tanto formato de producción y circulación. 
-
-- los discursos que se ven intermediados por una relación análogo/digital y de interrelación de códigos. 
 
 
 
