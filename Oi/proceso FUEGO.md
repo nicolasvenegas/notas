@@ -56,8 +56,12 @@ los recuerdos generados en la ultima iteración respondía a: "el momento en que
 
 ## Hallazgos
 
-![red global de satélites](img/vlcsnap-2024-08-12-17h25m46s729.png)
 
+![alt text](img/satelite1.png)
+
+![alt text](img/satelite2.png)
+
+![alt text](img/satelite4.png)
 
 
 
