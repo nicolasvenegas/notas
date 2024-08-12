@@ -53,12 +53,12 @@ _Un simulacro, operacion d-e-i-s-i de un futuro contado desde un futuro más lej
 
 los recuerdos generados en la ultima iteración respondía a: "el momento en que a una mujer se le cae una palangana con aceite el 18 enero 1908 a 12:40UT".
 
-![alt text](img/450_1000.jpeg)
-
-
 
 ## Hallazgos
-1. relación entre el fuego y la higiene energetica que supone la electrificación de las fuentes de energia
+
+![red global de satélites](img/vlcsnap-2024-08-12-17h25m46s729.png)
+
+
 
 
 ## Recursos
