@@ -109,3 +109,123 @@ modified: '2024-05-19T22:57:54.159Z'
 
 
 >>>>>>> 1e0129808fbfb835a9bef97a5ea91f049e9129d7
+
+
+11 de agosto
+
+I. Campos del hacer:
+
+Corto plazo
+
+1. Cuerpos de agua en la ciudad (rio, canales, pozas, humedales)
+trazabilidades, relaciones, intersecciones. 
+
+Se considera al rio cautin (considerar los materiales levantados hasta el momento)como la coordenada 1, por su condicion morfologica dentro de la ciudad de temuco y por, como cuerpo de agua y sus especificidades, nos permite ir venir hacia otros fenomenos vinculados con el agua en la ciudad mencionados anteriormente. 
+
+2. Fuego (incedio en temuco 1908, relacion con los incedios forestales)
+
+El proceso fuego, toma como lugar primero el incendio de 1908 (considerar el material levantado hasta el momento)este evento, se dispone como coordenada 1 para trasladarse hacia otros lugares, fenomemos, acontecimientos posibles como los incedios forestales u otros. La direccion es ida y vuelta al objeto inicial
+
+3. Geodesica:
+
+
+II. Puntos de observacion compartidos:
+
+AGUA:
+
+rio: las lineas de medicion, la cota. 
+aguas percoladas- relacion inter especies 
+geo posicionar las aguas percoladas 
+ficciones mobiliarias- ventas de las aguas de los cuerpos de agua 
+sonidos 
+tratamiento de aguas servida: piscina en el cerro
+
+GEODESICA:
+
+ir a los puntos geodesicos 
+instructivos geodesicos 
+mapas- cartografias 
+muestras materiales 
+foto muestra- foto ampliada de detalle- lugar
+eje de la tierra en funcion de los terremotos. observacion de fallas. 
+
+FUEGO:
+
+bosque rucamavida 
+
+suelo nativo- suelo monocultivo 
+
+
+MARCO ÉTICO POLITICO 
+- no afectacion de seres vivos 
+- muestras de todos los lugares sin generar modificaciones 
+
+MODOS DE APROXIMACION/la idea de forma
+
+GEODESICA:
+
+Trabajo mixto
+cartografear- ficcionar/terrenos
+fijar, pensar una relacion ficcional entre los lugares 
+zonas limitrofes urbano-rural
+sonidos 
+
+AGUA:
+
+mapear cuerpos de agua activos y no activos 
+sonorizar cuerpos de agua y las relaciones interespecies pajaros 
+sensorizacion- terreno
+
+FUEGO:
+
+incedio 1908
+
+OPERACIONALIZACION
+
+GEODESICA
+
+- cartografear puntos geodesicos en base a tres escalas (humana, cientifica y cultural)
+- cartografear puntos geodesicos por operacion de traslado
+- terreno como gesto
+
+
+
+AGUA:
+ 
+ir a terreno para mapear-mapear cuerpos de agua activos y no activos
+ficciones inmobiliarias-COMPLETAR CONSULTORIA PLAN MAESTRO RIO CAUTIN Y SUS BORDES
+
+
+
+FUEGO:
+
+INCEDIO 1908- REVISION DOCUMENTAL-TRAZABILIDAD MEDIANTE MAPEO- TERRENOS
+GEOREFERENCIAR CASAS QUEMADAS DE TEMUCO
+
+
+Terrenos:
+
+- BITACORAS COMPARTIDAS
+- BITACORAS EXPANDIDAS
+- REGISTRO AUDIOVISUAL 
+- REGISTRO SONORO
+- REGISTRO FOTOGRAFICO
+- SENSORIZACION
+- MUESTRAS 
+
+* PENSAR EN LAS VISTAS DE REGISTRO 
+
+
+
+Tiempos:
+
+
+
+
+
+
+
+
+
+
+
