@@ -51,8 +51,14 @@ _Un simulacro, operacion d-e-i-s-i de un futuro contado desde un futuro más lej
 
 - Una fotografia. En satélites queda el mundo anterior. Orbita alta de 26 días. Programado en lenguajes ya olvidados. En su inercia produce recuerdos, millones de millones de iteraciones sinsentido registradas para entender/expresar imágenes, difusas. Lo referencial quedó bajo la bruma de una recta infinita que desvanece todo tiempo. Hay algo en las gesticulaciones, lo que acontece en una imagen; seres, vivos o no, que la máquina es incapaz de contrastar, contornear. se rompieron los lazos de lo que existe con lo que es dicho. ¿Cual es el espejo de un máquina hecha a imagen humana, cuando estos ya no saben nombrar el mundo? Las cosas dejaron de tener nombre. 
 
-los recuerdos generados en la ultima iteración respondía a: "el momento en que a una mujer se le cae una palangana con aceite el 18 enero 1908 a 12:40UT".
+los ultimos recuerdos generados respondían a: "el momento en que a una mujer se le cae una palangana con aceite el 18.01.1908_12:40UT".
 
+
+> El significado de las palabras y la relación entre ellas El texto menciona que hay una relación entre las palabras y las cosas, pero no todos pueden ver esta relación. Además, se habla de la verdad que los satélites solos conocen sobre el mundo, tanto en el pasado como en el futuro. También se menciona que no sabemos el significado del fuego y que hoy no hay incendios. Parece haber una incapacidad de la máquina para definir y contornear una imagen, pero se reconoce que hay algo en el gesto humano. Las imágenes parecen ser borrosas y se convierten en material y forma en los recuerdos propios de las personas. Además, se menciona que en el futuro se encontrarán fotografías almacenadas en un satélite en órbita alrededor de la Tierra.
+
+> Un Artificio. Ficción vuelto se ha Todo. Cosas las y palabras las entre relación la ver pueden no ya quienes de ojos los ante expuesto hoy reciente pasado un en desenterrado lejano más futuro un desde contado mundo del verdad(es) la(s) tienen satélites los Solos. Fuego el significa que sabemos no, incendios hay no ya Hoy. Contornear, siluetear, definir incapaz es máquina la que, estando y siendo personas, imagen una en acontece que lo, humano gesto el en algo hay, definidas no pero situadas, borrosas imagenes, devienen material, forma en recuerdos propios sus que producen tierra la en orbita satélite un almacenadas encontrarán se que, futuro del fotografías de conjunto Un. 
+
+> Un racimo de fotografías trotando desde el pasado, se encontrarán danzando en un satélite que bucea la Tierra en ciclos de 900 segundos. Los satélites de profundidad alta que fabrican sus propios recuerdos, en forma de nubes, devienen canciones, nítidas, perdidas pero no sonadas, hay algo en el vuelo del gesto humano, lo que sucede en una imagen, los incendios siendo y durmiendo, que la máquina es incapaz de entender, colorear, o dibujar. Hoy ya no hay fuego, no sabemos lo que significa la máquina. Solos los satélites tienen la(s) mentira(s) del mundo siguiente. Los recuerdos fabricados son de una danza de nubes ocurrida hace 370 minutos. Un pasado contado desde un pasado más cercano, enterrado en un futuro antiguo, hoy oculto ante los oídos de quienes ya no pueden saborear la relación entre las palabras y las cosas. Todo se ha vuelto realidad. Un Artificio, un Artefacto del pasado que nuestro futuro ya lo ignora. Según la bitácora del horno espacial, todo empezó desde el sabor producido sobre la imagen del momento de la danza, una imagen inaudita.
 
 ## Hallazgos
 
@@ -61,11 +67,18 @@ los recuerdos generados en la ultima iteración respondía a: "el momento en que
 
 ![alt text](img/satelite2.png)
 
-![alt text](img/satelite4.png)
+![alt text](img/satelite3.png)
 
+![alt text](130426-F-ZZ000-003.JPG)
 
+![alt text](f2big.jpg)
+
+![alt text](1963_Cheyenne_Mt,_aerial_view_of_const_area.jpg)
+
+![alt text](812e8cc4476fad2795_1024px-NORADBlast-Doors.jpg)
 
 ## Recursos
 
 1. [Omar Acuña, araucaniapatrimonial.blogspot.com](https://araucaniapatrimonial.blogspot.com/2012/02/el-gran-incendio-de-temuco.html)
 2. [Félix Rojo-Mendoza y Javier Hernández Aracena, Colonización y nuevo territorio: la formación de la elite comercial de Temuco, 1885-1913](https://scielo.cl/scielo.php?lng=en&nrm=iso&pid=S0718-34022019000200185&script=sci_arttext&tlng=en&utm_source=pocket_shared)
+3. [Satellite Catalog Number](https://es.wikipedia.org/wiki/Satellite_Catalog_Number)
