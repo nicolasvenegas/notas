@@ -1,7 +1,7 @@
 # temuco 1908
 
 ## Antecedentes
-![Plano de la ciudad de Temuco - la parte marcada de negro corresponde a la incendiada](<img/Incendio Temuco2-1.jpg>)
+![Plano de la ciudad de Temuco - la parte marcada de negro corresponde a la incendiada](img/Incendio Temuco2-1.jpg)
 
 Plano de la ciudad de Temuco 1908 - la parte marcada de negro corresponde a la incendiada
 
