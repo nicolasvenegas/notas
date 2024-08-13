@@ -61,12 +61,14 @@ En satélites queda el mundo anterior, programados en lenguajes ya olvidados. En
 
 1. ¿cuáles son _las casas que servían de márjen_?  > terreno al perímetro del incendio (segun mapa)
 2. mapeo y registro de casas quemadas actuales
+3. Otros incendios importantes en la ciudad
 3. ¿cómo registra un fonógrafo?
 4. [www.bomberos.cl - 30 de Junio de 2020, Cuerpo de Bomberos de Temuco atendió un promedio de 13 emergencias diarias en el último año](https://www.bomberos.cl/contenidos/noticias-cuerpos-de-bomberos-la-araucania/cuerpo-de-bomberos-de-temuco-atendio-un-promedio-de-13-emergencias-diarias-en-el-ultimo-ano)
 5. [16 de febrero de 2023, Más de 50 kilómetros de cortafuegos, Temuco encabeza ciudades con las mejores acciones preventivas contra incendios](https://www.temuco.cl/mas-de-50-kilometros-de-cortafuegos-temuco-encabeza-ciudades-con-las-mejores-acciones-preventivas-contra-incendio)
 6. [14 feb 2024, Declaran alerta roja para Temuco por incendio forestal en cercanías del cerro Ñielol](https://www.latercera.com/nacional/noticia/declaran-alerta-roja-para-temuco-por-incendio-forestal-en-cercanias-del-cerro-nielol/ZHIDECLKFZDWVAFRIXC4LHSE5U/)
 7. [22 de April, 2016, Destrucción total del Mercado de Temuco frustra deseo de locatarios de rescatar enseres ](https://www.plataformaurbana.cl/archive/2016/04/22/destruccion-total-del-mercado-de-temuco-frustra-deseo-de-locatarios-de-rescatar-enseres/)
 8. [El mercado y las cenizas](http://www.quepasa.cl/articulo/actualidad/2016/07/el-mercado-y-las-cenizas.shtml/)
+9. [Gásfiter acusado por incendio en Mercado Municipal denuncia encubrimiento](https://araucaniadiario.cl/contenido/16298/gasfiter-acusado-por-incendio-en-mercado-municipal-denuncia-encubrimiento)
 
 ## imágenes
 
@@ -100,5 +102,6 @@ En satélites queda el mundo anterior, programados en lenguajes ya olvidados. En
 2. [Félix Rojo-Mendoza y Javier Hernández Aracena, Colonización y nuevo territorio: la formación de la elite comercial de Temuco, 1885-1913](https://scielo.cl/scielo.php?lng=en&nrm=iso&pid=S0718-34022019000200185&script=sci_arttext&tlng=en&utm_source=pocket_shared)
 3. [Satellite Catalog Number](https://es.wikipedia.org/wiki/Satellite_Catalog_Number)
 4. [Mapa Oi fuego](https://www.google.com/maps/d/u/6/edit?mid=1sDPlPaVz66rsNH03RG2flA7EZCYdHKI&usp=sharing)
+
 
 
