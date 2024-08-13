@@ -2,5 +2,6 @@
 Uno de cada cuatro sufre pérdida total de su dentadura.
 Radiografías
 
-- **IDEA** imagenes radiografias dentales
-publicidad de revistas antiguas sobre cosas de la boca
+- recolectar radiografias dentales
+- publicidad de revistas antiguas sobre cosas de la boca
+- 

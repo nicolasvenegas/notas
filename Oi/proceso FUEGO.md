@@ -1,6 +1,9 @@
+# Campo incendio 1908
+
 ## Antecedentes
-![Plano de la ciudad de Temuco - la parte marcada de negro corresponde a la incendiada](<Incendio Temuco2-1.jpg>)
-Plano de la ciudad de Temuco - la parte marcada de negro corresponde a la incendiada
+![Plano de la ciudad de Temuco - la parte marcada de negro corresponde a la incendiada](<img/Incendio Temuco2-1.jpg>)
+
+Plano de la ciudad de Temuco 1908 - la parte marcada de negro corresponde a la incendiada
 
 ## Reconstrucción histórica del blog __araucaniapatrimonial.blogspot.com__
 
@@ -40,28 +43,26 @@ Plano Sommermeier de Temuco, Comisión topográfica de 1892
 ![Cuadro actividades económicas 1895 Temuco](img/actividadesEconomicasTemuco1895.png)
 Cuadro actividades económicas, Temuco 1895, a partir del censo de población de 1895
 
-> entre los alemanes que tuvieron la posibilidad de un mayor crecimiento económico se encuentran las familias Krause y Dreves, los cuales controlaban molinos importantes en aquella época. Sin embargo, mientras los Krause desaparecen con el tiempo de la escena comercial de la ciudad, la familia Dreves se mantiene en este tipo de actividad hasta inicios del siglo XX28. Un alemán que si tiene una fuerte presencia en el rubro molino, y seguirá activo hasta principios del siglo XX, es Santiago Momberg, en posesión de la quinta 16 en el plano de Sommermeier.29
+>Entre los comerciantes más antiguos de la zona destaca Manuel Antonio Osses, quien aparece con las quintas 3 y 4 en el plano de 1892, el cual comerciaba con comunidades mapuche mucho antes de la llegada del ejército chileno a las orillas del río Cautín (Pino, 1969).
 
-> Otras actividades comerciales relevantes entre los alemanes dueños de quintas son aquellas relacionadas con los negocios de la familia Walper30 en cervecerías, Eduardo Menzel en carnicerías y la curtiembre de Luis Westermeyer31. Estos dos últimos alemanes tendrán además una activa participación en el mundo político y social de la ciudad, ya que mientras Menzel formará una sociedad para la llegada de la electricidad a las calles de la ciudad a principios del siglo XX32, Westermeyer, si bien deja las actividades comerciales33, será regidor en la administración municipal de la ciudad en 1888 (Pino, 1969), y presidente de la primera compañía de bomberos en 189934. La fuerte presencia de alemanes en la ciudad, tanto espacial según el plano de 1892 como comercial, se verá fuertemente potenciada además por el arribo de un cónsul de Alemania en 1897, y la creación del Banco Alemán Transatlántico en 190735, lo cual marcará un carácter distintivo a la colonización comercial alemana en términos de una constitución identitaria de la nueva elite local.
+![alt text](img/0718-3402-rgeong-73-00185-gf2.png)
+Concentración de actividades comerciales en la ciudad de Temuco, 1912-1913 
 
 
 ## Propuesta activador ficcional
 
 _Un simulacro, operacion d-e-i-s-i de un futuro contado desde un futuro más lejano, desenterrado en un pasado reciente, hoy expuesto ante los sentidos de quienes ya no podemos ver la relación que hubo entre las palabras y las cosas. Un artificio. La historia como un artefacto del futuro del cual nuestros pasados ya se han informado. porque el tiempo supone el peso de las historias y sus vectores, siempre reconfigurables, y ahora de nuevo. eso hemos aprendido. en su interior una imagen inexistente..._
 
-- Una fotografia. En satélites queda el mundo anterior. Orbita alta de 26 días. Programado en lenguajes ya olvidados. En su inercia produce recuerdos, millones de millones de iteraciones sinsentido registradas para entender/expresar imágenes, difusas. Lo referencial quedó bajo la bruma de una recta infinita que desvanece todo tiempo. Hay algo en las gesticulaciones, lo que acontece en una imagen; seres, vivos o no, que la máquina es incapaz de contrastar, contornear. se rompieron los lazos de lo que existe con lo que es dicho. ¿Cual es el espejo de un máquina hecha a imagen humana, cuando estos ya no saben nombrar el mundo? Las cosas dejaron de tener nombre. 
+- Una fotografia. En satélites queda el mundo anterior. Orbita alta de 26 días. Programado en lenguajes ya olvidados. En su inercia produce recuerdos, millones de millones de iteraciones sinsentido registradas para entender/expresar imágenes discontinuas. Lo referencial quedó bajo la bruma de una recta infinita que desvanece todo tiempo. Hay algo en las gesticulaciones, lo que acontece en una imagen; seres, vivos o no, que la máquina es incapaz de contrastar. se rompieron los lazos de lo que existe con lo que es dicho, lo que se sabe decir. ¿Cual es el espejo dsobre el que se refleja la máquina hecha a imagen humana, cuando estos ya no saben nombrar el mundo?
 
-los ultimos recuerdos generados respondían a: "el momento en que a una mujer se le cae una palangana con aceite el 18.01.1908_12:40UT".
-
-
-> El significado de las palabras y la relación entre ellas El texto menciona que hay una relación entre las palabras y las cosas, pero no todos pueden ver esta relación. Además, se habla de la verdad que los satélites solos conocen sobre el mundo, tanto en el pasado como en el futuro. También se menciona que no sabemos el significado del fuego y que hoy no hay incendios. Parece haber una incapacidad de la máquina para definir y contornear una imagen, pero se reconoce que hay algo en el gesto humano. Las imágenes parecen ser borrosas y se convierten en material y forma en los recuerdos propios de las personas. Además, se menciona que en el futuro se encontrarán fotografías almacenadas en un satélite en órbita alrededor de la Tierra.
-
-> Un Artificio. Ficción vuelto se ha Todo. Cosas las y palabras las entre relación la ver pueden no ya quienes de ojos los ante expuesto hoy reciente pasado un en desenterrado lejano más futuro un desde contado mundo del verdad(es) la(s) tienen satélites los Solos. Fuego el significa que sabemos no, incendios hay no ya Hoy. Contornear, siluetear, definir incapaz es máquina la que, estando y siendo personas, imagen una en acontece que lo, humano gesto el en algo hay, definidas no pero situadas, borrosas imagenes, devienen material, forma en recuerdos propios sus que producen tierra la en orbita satélite un almacenadas encontrarán se que, futuro del fotografías de conjunto Un. 
-
-> Un racimo de fotografías trotando desde el pasado, se encontrarán danzando en un satélite que bucea la Tierra en ciclos de 900 segundos. Los satélites de profundidad alta que fabrican sus propios recuerdos, en forma de nubes, devienen canciones, nítidas, perdidas pero no sonadas, hay algo en el vuelo del gesto humano, lo que sucede en una imagen, los incendios siendo y durmiendo, que la máquina es incapaz de entender, colorear, o dibujar. Hoy ya no hay fuego, no sabemos lo que significa la máquina. Solos los satélites tienen la(s) mentira(s) del mundo siguiente. Los recuerdos fabricados son de una danza de nubes ocurrida hace 370 minutos. Un pasado contado desde un pasado más cercano, enterrado en un futuro antiguo, hoy oculto ante los oídos de quienes ya no pueden saborear la relación entre las palabras y las cosas. Todo se ha vuelto realidad. Un Artificio, un Artefacto del pasado que nuestro futuro ya lo ignora. Según la bitácora del horno espacial, todo empezó desde el sabor producido sobre la imagen del momento de la danza, una imagen inaudita.
+los ultimos recuerdos generados respondían a "una mujer deja caer una palangana con aceite el 18.01.1908_12:40UT en ".
 
 ## Hallazgos
 
+1. ¿cuáles son _las casas que servían de márjen_? mapear perímetro
+2. 
+
+## imagenes
 
 ![alt text](img/satelite1.png)
 
@@ -69,13 +70,20 @@ los ultimos recuerdos generados respondían a: "el momento en que a una mujer se
 
 ![alt text](img/satelite3.png)
 
-![alt text](130426-F-ZZ000-003.JPG)
+![alt text](img/130426-F-ZZ000-003.JPG)
 
-![alt text](f2big.jpg)
+![alt text](img/812e8cc4476fad2795_1024px-NORADBlast-Doors.jpg)
 
-![alt text](1963_Cheyenne_Mt,_aerial_view_of_const_area.jpg)
+![alt text](img/1963_Cheyenne_Mt,_aerial_view_of_const_area.jpg)
 
-![alt text](812e8cc4476fad2795_1024px-NORADBlast-Doors.jpg)
+![alt text](img/f2big.jpg)
+
+![alt text](img/fonografo.jpg)
+
+![alt text](img/fonografodeEdison.png)
+
+
+
 
 ## Recursos
 
