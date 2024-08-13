@@ -1,11 +1,12 @@
-# Campo incendio 1908
+# temuco 1908
 
 ## Antecedentes
 ![Plano de la ciudad de Temuco - la parte marcada de negro corresponde a la incendiada](<img/Incendio Temuco2-1.jpg>)
 
 Plano de la ciudad de Temuco 1908 - la parte marcada de negro corresponde a la incendiada
 
-## Reconstrucción histórica del blog __araucaniapatrimonial.blogspot.com__
+## Reconstrucción histórica 
+del blog __araucaniapatrimonial.blogspot.com__
 
 > Mi ya desaparecido padre (__1927-2009__) me relató, ya hacen más de veinte años, una anécdota de su querido tío Domingo Aguilera Lagos, quien a inicios de los años 1900 residía en las cercanías del poblado de __Gorbea__. Domingo Aguilera era un hombre de trato agradable a quien le gustaba la música, por lo que era siempre invitado a las fiestas y reuniones, pues también poseía un artilugio llamado __Fonógrafo Edison__, con música "envasada" en cilindros. Al parecer las muchas oportunidades en que se hizo sonar la alegre música provocó que el artefacto se descompusiera, posiblemente por la ruptura de la __cuerda de acero__. El fonógrafo fue llevado para su reparación hasta una __tienda en la capital de La Frontera__, pero, lamentablemente, aquel noble aparato __sucumbió entre las llamas del gran incendio__ de Temuco, que comenzó el día _sábado_ 18 de enero de 1908.
 
@@ -83,10 +84,10 @@ los ultimos recuerdos generados respondían a "una mujer deja caer una palangana
 ![alt text](img/fonografodeEdison.png)
 
 
-
-
 ## Recursos
 
 1. [Omar Acuña, araucaniapatrimonial.blogspot.com](https://araucaniapatrimonial.blogspot.com/2012/02/el-gran-incendio-de-temuco.html)
 2. [Félix Rojo-Mendoza y Javier Hernández Aracena, Colonización y nuevo territorio: la formación de la elite comercial de Temuco, 1885-1913](https://scielo.cl/scielo.php?lng=en&nrm=iso&pid=S0718-34022019000200185&script=sci_arttext&tlng=en&utm_source=pocket_shared)
 3. [Satellite Catalog Number](https://es.wikipedia.org/wiki/Satellite_Catalog_Number)
+
+
