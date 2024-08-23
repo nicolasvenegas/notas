@@ -1,11 +1,11 @@
 ---
 tags: [Objeto Imposible, Perfil de Proyecto]
-title: proceso AGUA
+title: apuntes AGUA
 created: '2024-05-10T15:00:15.445Z'
 modified: '2024-05-12T14:31:55.238Z'
 ---
 
-# proceso AGUA
+# apuntes AGUA
 
 ## parte de un Archivo (Datasets), conformado por distintos núcleos de sentido ó clases:
 1. _MNÉMICO_: en una primera fase, abordada desde una dimension historiográfica, compuesto de material multimedial. En una segunda faase supone el recopilado/elaborado/registrado junto a personas, comunidades, organizaciones que habitan/trabajan/usan/visitan? la orilla del río Cautin.
