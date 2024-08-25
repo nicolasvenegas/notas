@@ -39,3 +39,24 @@ https://www.youtube.com/results?search_query=Richard+Bradshaw
 
 Making Shadow Landscapes with Jess Mabel Jones 
 https://www.youtube.com/watch?v=Efoa4pjbXtY
+
+
+
+
+# martes 13agosto2024 
+
+inge, consu, nicolas, migue
+
+1. esta definida la historia, aún no se inicia la escritura del guión, por definiciones técnicas necesarias
+2. composición de escenas
+3. los títeres actuales son muy planos
+4. titeres pintados
+5. capas de acrílicos
+
+
+1. caru, delgada, 1.50 cabello negro largo falfdads de lana botas de goma, mapuche extrovertida energica, le gusta estar con su abuela. 5tp basico
+2. abuela guillermina, 70 años, morena cabello gris con pañuelo de colores, contextura gruesa, vivia en comunidad, lawentuchefe, 
+3. luisa cabello negro corto, buso ropa suelta, 
+
+
+libro ilustrado voves en el parque, anthony brown

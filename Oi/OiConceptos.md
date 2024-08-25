@@ -220,6 +220,12 @@ Terrenos:
 Tiempos:
 
 
+GEODESICA
+
+- cartografear puntos geodesicos en base a tres escalas (humana, cientifica y cultural)
+- cartografear puntos geodesicos por operacion de traslado
+- terreno como gesto
+
 
 
 
