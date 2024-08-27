@@ -1,3 +1,22 @@
+
+# Temuco 
+
+1. Archivo Consejo de monumentos, Roberto Montandon paillard
+
+![alt text](img/mujerpuentetemuco.jpg)
+
+2. Triple fusilamiento en Temuco, viernes 9 de noviembre de 1906.
+
+![alt text](img/452587875_10162067866714225_2486174935696350462_n.jpg)
+
+3. El jardin de las delicias
+
+![alt text](<img/boscotemuco.jpg>)
+
+![alt text](<img/boscotemuco1.jpg>)
+
+--- 
+
 ## caries dentales
 
 > Un 90% de los adultos mayores presenta una alta prevalencia de caries dental y enfermedad periodontal. Seis de cada diez personas poseen caries cavitadas, es decir, con una discontinuidad o abertura clara en la superficie, perceptible a la vista o el tacto. El 30% de la población posee dentición no funcional.
@@ -33,15 +52,3 @@ Ardico magnini, jugador de la Fiorentina:
 
 ![alt text](img/embarcaciones.jpg)
 
-## Temuco El jardin de las delicias
-
-![alt text](<img/boscotemuco.jpg>)
-
-![alt text](<img/boscotemuco1.jpg>)
-
-
-## Indagaciones Temuco 
-
-![alt text](img/mujerpuentetemuco.jpg)
-
-- Archivo Consejo de monumentos, Roberto Montandon paillard
