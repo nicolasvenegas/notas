@@ -5,4 +5,12 @@
 ![alt text](img/PLB-001567.jpg)
 ![alt text](img/311889212_3213561055577860_6264292904250600016_n.jpg)
 
-2. 
+
+2. socavones con agua en la cancha atrás del gimnasio olímpico 
+3. antiguo canal en calle matta 
+4. Ojo de Agua a la orilla del puente nuevo 
+5. Ojos de agua detrás de la cancha de amanecer 
+
+
+tareas transversales a procesos
+la idea de lo situado, socioespacialidades
