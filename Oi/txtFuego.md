@@ -16,6 +16,12 @@ del blog __araucaniapatrimonial.blogspot.com__
 
 ## Revisión cobertura realizada por la revista _Zig Zag_ (editada en Santiago), número 152, Enero 26 de 1908
 
+![alt text](img/452405104_10162067825524225_442190020567294845_n.jpg)
+
+![alt text](img/452421135_10162067825624225_1706308453001706476_n.jpg)
+
+![alt text](img/452347764_10162067825804225_423071767283942122_n.jpg)
+
 > La floreciente ciudad de Temuco, de la cual hace algun tiempo dimos una serie de __vistas fotográficas interesantísimas__, ha estado a punto de ser totalmente destruida por un incendio. El fuego __principió en un edificio cercano a la Plaza de Armas__ e impulsado por un __fuerte viento del oeste__, tomó proporciones tales que llenó a la población de consternacion y espanto. __Veintiuna manzanas__ fueron totalmente reducidas a escombros. Las bombas del pueblo y las que pudieron ir de __Concepcion y otras ciudades de la frontera__ fueron impotentes para contener la impetuosidad de las llamas y se limitaron a defender de su voracidad _las casas que servían de márjen_ a aquel verdadero torrente de fuego. No ménos de __3.500 personas__ quedaron sin hogar y en la mas absoluta miseria. Las pérdidas avaluables en dinero pasan de __1.500.000 pesos__. El fuego abarcó una extensión de __quince cuadras de largo por ocho de ancho__ y terminó en la noche despues que hubo consumido todo el combustible que encontró en su derrotero, en el __Hotel Leguas por el sur__ y la __Bodega de Mac Kay__ por el norte...
 
 >... Al dia siguiente en la estensa y ancha Avenida abierta por el fuego, veíanse __palos carbonizados__, una que otra __chimenea de cal y ladrillo__, __troncos de árboles__ quemados, __postes de luz__ eléctrica carbonizados, __máquinas__, __alambres telefónicos__ por el suelo, __montones de zinc__ quemados, ruinas, desolacion y por todas partes __escombros humeantes__.
@@ -25,6 +31,7 @@ En medio de las ruinas se han visto escenas dolorosas. Mujeres pobres llorando a
 
 
 ## Revisión Cobertura de El Mercurio el 18 de Enero de 1908
+
 
 > El fuego había comenzado en la __casa de Simón Burruchaga__ a medio día en __forma lenta en un montón de tablas__. De allí se propagó a la __Proveedora del Hogar de Kuznetzoff__, en Prat esquina Puerto Montt (4), que ardió como un castillo. Pasó rápido al __edificio del frente, ocupado por la imprenta donde iba a fundarse El Sur__.
 
@@ -50,13 +57,6 @@ Cuadro actividades económicas, Temuco 1895, a partir del censo de población de
 
 ![alt text](img/0718-3402-rgeong-73-00185-gf2.png)
 Concentración de actividades comerciales en la ciudad de Temuco, 1912-1913 
-
-
-## activador
-
-_Un simulacro, operacion d-e-i-s-i de un futuro contado desde un futuro más lejano, desenterrado en un pasado reciente, hoy expuesto ante los sentidos de quienes ya no podemos ver la relación que hubo entre las palabras y las cosas. Un artificio. La historia como un artefacto del futuro del cual nuestros pasados ya se han informado. porque el tiempo supone el peso de las historias, sus distancias y vectores, siempre reconfigurables, y ahora de nuevo. en su interior una imagen inexistente..._
-
-En satélites queda el mundo anterior, programados en lenguajes ya olvidados. En su inercia produce recuerdos, millones de millones de iteraciones sinsentido registradas para entender/expresar imágenes. Lo referencial quedó bajo la bruma de una recta infinita que desvanece todo tiempo. Hay algo en las gesticulaciones, lo que acontece en una imagen; seres, vivos o no, que la máquina es incapaz de contrastar. se rompieron los lazos de lo que existe con lo que es dicho, lo que se sabe decir. ¿Cual es el espejo sobre el que se refleja la máquina hecha a imagen humana, cuando estos ya no saben nombrar el mundo?
 
 ## indagaciones
 

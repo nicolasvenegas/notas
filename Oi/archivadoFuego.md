@@ -63,3 +63,8 @@ archivo
 
 
 
+## activador
+
+_Un simulacro, operacion d-e-i-s-i de un futuro contado desde un futuro más lejano, desenterrado en un pasado reciente, hoy expuesto ante los sentidos de quienes ya no podemos ver la relación que hubo entre las palabras y las cosas. Un artificio. La historia como un artefacto del futuro del cual nuestros pasados ya se han informado. porque el tiempo supone el peso de las historias, sus distancias y vectores, siempre reconfigurables, y ahora de nuevo. en su interior una imagen inexistente..._
+
+En satélites queda el mundo anterior, programados en lenguajes ya olvidados. En su inercia produce recuerdos, millones de millones de iteraciones sinsentido registradas para entender/expresar imágenes. Lo referencial quedó bajo la bruma de una recta infinita que desvanece todo tiempo. Hay algo en las gesticulaciones, lo que acontece en una imagen; seres, vivos o no, que la máquina es incapaz de contrastar. se rompieron los lazos de lo que existe con lo que es dicho, lo que se sabe decir. ¿Cual es el espejo sobre el que se refleja la máquina hecha a imagen humana, cuando estos ya no saben nombrar el mundo?
