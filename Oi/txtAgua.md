@@ -12,5 +12,3 @@
 5. Ojos de agua detrás de la cancha de amanecer 
 
 
-tareas transversales a procesos
-la idea de lo situado, socioespacialidades
