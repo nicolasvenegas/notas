@@ -52,3 +52,6 @@ Ardico magnini, jugador de la Fiorentina:
 
 ![alt text](img/embarcaciones.jpg)
 
+### Vapor Cautin
+
+1. [http://ancestroschilenos.blogspot.com/2014/02/las-victimas-del-naufragio-del-vapor.html](http://ancestroschilenos.blogspot.com/2014/02/las-victimas-del-naufragio-del-vapor.html)
