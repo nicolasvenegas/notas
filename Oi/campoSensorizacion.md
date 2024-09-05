@@ -7,6 +7,8 @@ modified: '2024-07-22T14:42:03.497Z'
 
 # sensorizacion
 
-## fotocelda
 
-- the capacitor acts like a bucket and the resistor is like a thin pipe the capacitor acts like a bucket and the resistor is like a thin pipe (_el condensador actúa como un cubo y la resistencia es como un tubo delgado_)
+1. ¿Qué quieres medir? – Sensores
+2. ¿Cómo lo quieres conectar? – Comunicaciones /protocolos
+3. ¿Donde vas a almacenar los datos? – Plataformas
+4. ¿Qué quieres hacer con los datos? – Herramientas de procesado

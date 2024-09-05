@@ -5,6 +5,5 @@
    1. [Mapa Repetidores Zona Sur](https://www.ce6tc.cl/sitio/index.php/mapa-repetidores.html) 
    2. [version PDF] (https://www.ce6tc.cl/sitio/images/stories/mapa_rpt_zona_sur_febrero_2024.pdf) 
 
-3. 
-
+3. [Memoria Final Proyecto 2019 - Emisor SSTV con Arduino] (https://radio.clubs.etsit.upm.es/blog/2019-12-11-memoria-emisor-sstv/)
 

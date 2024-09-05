@@ -55,3 +55,4 @@ Ardico magnini, jugador de la Fiorentina:
 ### Vapor Cautin
 
 1. [http://ancestroschilenos.blogspot.com/2014/02/las-victimas-del-naufragio-del-vapor.html](http://ancestroschilenos.blogspot.com/2014/02/las-victimas-del-naufragio-del-vapor.html)
+2. el ultimo puerto del vapor fue la isla doña ines, en el río imperial - [https://www.pedrocayuqueo.cl/post/la-isla-dona-ines](https://www.pedrocayuqueo.cl/post/la-isla-dona-ines)
