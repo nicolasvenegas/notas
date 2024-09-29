@@ -11,11 +11,11 @@ modified: '2024-07-21T01:33:43.739Z'
 - posicionamiento GNSS (del IGM) tecnologia datos en lineas y coordenadas
 - estaciones pasivas, monumentos en terreno, **pin de 1cm de diametro en cada vertice**
 
-** luego de eventos catastroficos ¿surgen *** respecto a la reconstruccion que ocurre sobre la imagen de los territorios?**
+- luego de eventos catastroficos ¿surgen respecto a la reconstruccion que ocurre sobre la imagen de los territorios?**
 
-modifica tratados economicos
+- modifica tratados economicos
 
-RGDN (red geodesica )
+## RGDN (red geodesica )
 
 el terremoto en chile cambio el eje de la tierra, inclinado el eje haciendo que los dias sean mas cortos.
 
@@ -28,27 +28,12 @@ es un milisegundo: una millonésima parte de un segundo
 
 **epoca de referencia 2016.0**
 
-_geoide_
-dextrógiro, dextrógira
+_geoide_ dextrógiro, dextrógira
 
-    1.
-    adjetivo
-    Que gira en el mismo sentido de las agujas del reloj.
-    h
-    Similar:
-    dextrorso
+    1. adjetivo. Que gira en el mismo sentido de las agujas del reloj. Similar: dextrorso, horario. Antónimo: levógiro
+    2. adjetivo, física • química Dicho de una sustancia o de una disolución: Que desvía a la derecha el plano de la luz polarizada cuando se mira hacia la fuente. Usado también como sustantivo masculino.
 
-horario
-h
-Antónimo:
-levógiro
-2.
-adjetivo
-física•química
-Dicho de una sustancia o de una disolución: Que desvía a la derecha el plano de la luz polarizada cuando se mira hacia la fuente. Usado también como sustantivo masculino.
-
-antonimo 
-levógiro, levógira
+Antónimo. levógiro, levógira
 
 Los sistemas geodésicos de referencia: masa, tiempo, longitud
 
@@ -79,3 +64,5 @@ el terremoto del 2010 en chile, modificó las condiciones geodesicas del planeta
 la cartografia como sistema de ficcion en relacion de distancia a lo existente.
 
 --- 
+
+

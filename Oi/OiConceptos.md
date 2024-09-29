@@ -211,8 +211,16 @@ GEODESICA
 - los territorios y el habitar son cuestiones simbólicas
 - desde las representaciones visuales, estas pueden interpretar narrativas, formas de contar el territorio. 
 - micropolíticas, aspectos sociales culturales y politicos que ocurren localmente dentro de una cultura o un grupo cultural. (rodnik)
-- el mapeo
 4. la cartografia es el soporte abierto a cualquier forma posible
+
+metodologia
+1. marco cero: una circunferencia de 500mt alrededor del marco cero (punto cero, ampliable a 1km y 2km)
+2. levantamiento de datos micropoliticos en el área de trabajo a partir de 4 dimensiones fijas: recursos locales (amnbientales, infraestructura, conocimiento), expresiones culturales, perfiles claves, dinámicas sociales
+3. fases del mapeo: 1. premapeo 2. taller de consulta con agentes del territorio 3. investigacion de campo 4. organizacion y sistematizacion > elaboracion de cartografías 
+4. socialización de la investigación
+
+cartografias criticas > aluizo marino
+
 
 
 
