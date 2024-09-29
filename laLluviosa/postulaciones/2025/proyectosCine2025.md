@@ -44,3 +44,15 @@ modified: '2024-07-11T17:54:50.091Z'
 * el inquilino, roman polanski [https://es.wikipedia.org/wiki/Le_locataire](https://es.wikipedia.org/wiki/Le_locataire)
 * repulsión, roman polanski [https://es.wikipedia.org/wiki/Repulsi%C3%B3n_(pel%C3%ADcula)](https://es.wikipedia.org/wiki/Repulsi%C3%B3n_(pel%C3%ADcula))
 * cleo de 5 a 7, agnes varda [https://es.wikipedia.org/wiki/Cleo_de_5_a_7](https://es.wikipedia.org/wiki/Cleo_de_5_a_7)
+
+
+## redacción postulación rural 2025
+
+1. Rural permite establecer formas de mediación de las temporalidades sociológicas que chile ha vivido en las ultimas decadas
+2. Amplia el repertorio de los distintos tipos de configuración historica del micropoder en zonas alejadas de los nucleos urbanos de chile. 
+3. Estas caracteristicas socioespaciales propuestas en rural ofrecen un sitio particular de observación de la vida en dictadura. 
+
+
+35/50 años > por el genero, ofrece una mirada, un lenguae audiovisual sensible y novedoso sobre la tematica. Adultos mayores > que vivieron la dictadura, que se acercan a un nivel de experiencia vital, volver a habitar un lugar sociohistórico. Jóvenes > interesadxs en la producción de cine chileno de ficción producido en regiones, con abordajes diferentes a la producción audiovisual masiva; tambioén los lazos familiares como mecanismo de acercamiento desde una dimensión temática. 
+
+
