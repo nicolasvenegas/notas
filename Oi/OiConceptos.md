@@ -128,7 +128,6 @@ El proceso fuego, toma como lugar primero el incendio de 1908 (considerar el mat
 
 3. Geodesica:
 
-
 II. Puntos de observacion compartidos:
 
 AGUA:
@@ -142,7 +141,7 @@ tratamiento de aguas servida: piscina en el cerro
 
 GEODESICA:
 
-ir a los puntos geodesicos 
+ir a los puntos geodésicos 
 instructivos geodesicos 
 mapas- cartografias 
 muestras materiales 
@@ -156,55 +155,32 @@ bosque rucamavida
 suelo nativo- suelo monocultivo 
 
 
-MARCO ÉTICO POLITICO 
-- no afectacion de seres vivos 
+MARCO ÉTICO POLÍTICO 
+- no afectación de seres vivos 
 - muestras de todos los lugares sin generar modificaciones 
 
-MODOS DE APROXIMACION/la idea de forma
+MODOS DE APROXIMACIÓN / la idea de forma
 
-GEODESICA:
-
-Trabajo mixto
-cartografear- ficcionar/terrenos
-fijar, pensar una relacion ficcional entre los lugares 
-zonas limitrofes urbano-rural
-sonidos 
-
-AGUA:
-
-mapear cuerpos de agua activos y no activos 
-sonorizar cuerpos de agua y las relaciones interespecies pajaros 
-sensorizacion- terreno
-
-FUEGO:
-
-incedio 1908
-
-OPERACIONALIZACION
-
-GEODESICA
-
+GEODÉSICA:
+Trabajo mixto, cartografear- ficcionar/terrenos
+fijar, pensar una relacion ficcional entre los lugares, zonas limitrofes urbano-rural
+sonidos. 
 - cartografear puntos geodesicos en base a tres escalas (humana, cientifica y cultural)
 - cartografear puntos geodesicos por operacion de traslado
 - terreno como gesto
 
-
-
 AGUA:
- 
+mapear cuerpos de agua activos y no activos 
+sonorizar cuerpos de agua y las relaciones interespecies pajaros 
+sensorizacion- terreno
 ir a terreno para mapear-mapear cuerpos de agua activos y no activos
 ficciones inmobiliarias-COMPLETAR CONSULTORIA PLAN MAESTRO RIO CAUTIN Y SUS BORDES
 
-
-
 FUEGO:
-
 INCEDIO 1908- REVISION DOCUMENTAL-TRAZABILIDAD MEDIANTE MAPEO- TERRENOS
 GEOREFERENCIAR CASAS QUEMADAS DE TEMUCO
 
-
 Terrenos:
-
 - BITACORAS COMPARTIDAS
 - BITACORAS EXPANDIDAS
 - REGISTRO AUDIOVISUAL 
@@ -215,19 +191,35 @@ Terrenos:
 
 * PENSAR EN LAS VISTAS DE REGISTRO 
 
-
-
-Tiempos:
-
-
 GEODESICA
-
 - cartografear puntos geodesicos en base a tres escalas (humana, cientifica y cultural)
 - cartografear puntos geodesicos por operacion de traslado
 - terreno como gesto
 
 
+--- 
 
+
+1. proceso de mapeo & proceso de realizacion
+2. la cartografía audiovisual como metodología de realización cinematográfica > mapeo cartográfico territorial
+3. el mapeo es un método específico
+- se fundamenta en la micropolitica territorial
+- entrega un diagnostico sobre un territorio, una comunidad, o fenomenos especificos asociados 
+- es un conocimiento teorico/empirico
+- tiene herramientas tecnicas: una metodología y herramientas de reconocimiento
+- el territorio es una conceción, una porcion de espacio sobre la que no hay demarcacion. tiene que ver con el control, se define por limites fisicos y imaginarios (cultural), que definen las relaciones de dominio. Hace sentir pertenencia, es mas que una simple colección de objetos.
+- los territorios y el habitar son cuestiones simbólicas
+- desde las representaciones visuales, estas pueden interpretar narrativas, formas de contar el territorio. 
+- micropolíticas, aspectos sociales culturales y politicos que ocurren localmente dentro de una cultura o un grupo cultural. (rodnik)
+4. la cartografia es el soporte abierto a cualquier forma posible
+
+metodologia
+1. marco cero: una circunferencia de 500mt alrededor del marco cero (punto cero, ampliable a 1km y 2km)
+2. levantamiento de datos micropoliticos en el área de trabajo a partir de 4 dimensiones fijas: recursos locales (amnbientales, infraestructura, conocimiento), expresiones culturales, perfiles claves, dinámicas sociales
+3. fases del mapeo: 1. premapeo 2. taller de consulta con agentes del territorio 3. investigacion de campo 4. organizacion y sistematizacion > elaboracion de cartografías 
+4. socialización de la investigación
+
+cartografias criticas > aluizo marino
 
 
 
