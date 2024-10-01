@@ -70,6 +70,8 @@ Concentración de actividades comerciales en la ciudad de Temuco, 1912-1913
 7. [22 de April, 2016, Destrucción total del Mercado de Temuco frustra deseo de locatarios de rescatar enseres ](https://www.plataformaurbana.cl/archive/2016/04/22/destruccion-total-del-mercado-de-temuco-frustra-deseo-de-locatarios-de-rescatar-enseres/)
 8. [El mercado y las cenizas](http://www.quepasa.cl/articulo/actualidad/2016/07/el-mercado-y-las-cenizas.shtml/)
 9. [Gásfiter acusado por incendio en Mercado Municipal denuncia encubrimiento](https://araucaniadiario.cl/contenido/16298/gasfiter-acusado-por-incendio-en-mercado-municipal-denuncia-encubrimiento)
+10. ¿qué significa la combustión/congestión vehicular en la realidad ambiental, cotidiana, que pasa cuando el auto no arranca/enciende/no da chispa? miles de litros diarios de combustible fósil carburizado. el traslado del fuego desde el centro del hogar al mecanismo de ignición en el motor de miles de autos unipersonales. 
+
 
 ## imágenes
 
@@ -106,3 +108,22 @@ Concentración de actividades comerciales en la ciudad de Temuco, 1912-1913
 
 
 
+# [Incendio] trihue 1422
+
+![](img/IMG_0334.JPG)
+
+# Antecedentes
+1. Un incendio afectó a dos viviendas pareadas de dos pisos y deja a 11 personas damnificadas en Temuco.
+2. esquina de las calles Trihue y Huincul
+3. 
+
+## fuentes
+1. [Incendio destruye dos viviendas y deja a once damnificados en Temuco ](https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2018/10/26/incendio-destruye-dos-viviendas-y-deja-a-cuatro-damnificados-en-temuco.shtml)
+
+# Hallazgos
+1. [Incendio en céntrico edificio de Temuco deja una víctima fatal. Siniestro se registró en el piso 15 de la Torre del Bosque, ubicada en Bello con Vicuña Mackenna. Fallecido, de 84 años, era exoficial del Ejército y perteneció a la DINA. general (r) Pianel Valdivieso Cervantes. telecomunicaciones, miembro del estado mayor de la DINA](https://www.soychile.cl/Temuco/Policial/2020/11/24/683162/Incendio-en-centrico-edificio-de-Temuco-deja-una-victima-fatal.aspx?utm_source=twitter&utm_medium=ttr&utm_campaign=Followers)
+2. [Pedro de Valdivia. Bomberos tuvo problemas para llegar al lugar debido a que un puente de acceso se encontraba en mal estado. Al arribar al sitio del incendio, los voluntarios se vieron enfrentados a otro gran problema como fue la falta de grifos, quedando rápidamente los carros sin agua debiendo ser asistidos por camiones aljibe de la Municipalidad de Temuco.](https://www.soychile.cl/Temuco/Policial/2013/06/03/178017/Un-incendio-afecta-a-al-menos-dos-viviendas-en-la-villa-Los-Olivos-de-Temuco.aspx?fb_comment_id=477227045697487_68054381)
+3. [Incendio deja casa destruida y 2 lesionados: hombre saltó de techo para salvarse y cayó sobre bombero. Seis compañías y a más de 100 voluntarios de Bomberos acudieron al lugar. Inmueble en desuso ubicado en calle Bulnes, entre Miraflores y Balmaceda. ](https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2024/08/19/incendio-deja-casa-destruida-y-2-lesionados-hombre-salto-de-techo-para-salvarse-y-cayo-sobre-bombero.shtml)
+
+![alt text](img/busesbiobio.png)
+[Incendio en taller mecánico quemó ocho buses en Temuco](https://cooperativa.cl/noticias/pais/policial/incendios/incendio-en-taller-mecanico-quemo-ocho-buses-en-temuco/2024-02-13/133928.html)
