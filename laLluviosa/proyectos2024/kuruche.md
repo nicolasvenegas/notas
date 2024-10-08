@@ -1,5 +1,10 @@
 ![alt text](img/kuruche2024_1.png)
 
+## Indagaciones
+1. **Poligonias** de quilombos
+2. Lineaturas en los **patrones de vuelos** de las abejas
+3. el texto como dispotivo cosmo**gráfico**
+
 ## Texto Curatorial 
 
 Hay un dicho africano que dice: **mientras la historia de la caza al león sea contada por los cazadores, los leones serán siempre perdedores**. En este sentido, se hace necesario y urgente ampliar y profundizar la visión en torno a cuestiones relacionadas con temáticas raciales que nos permitan discutir y analizar la posibilidad de construcción de otras poéticas. Poéticas que puedan reflexionar sobre cómo los cuerpos racializados, especialmente los cuerpos negros, excluidos de la producción simbólica hegemónica y del discurso sobre sí,  produzcan narrativas, amplíen el repertorio de representación existente sobre sí mismos y nombren sus experiencias desafiando el mundo que limita su habla o ignora sus vidas. Ya que **las bases históricas de la descolonización se establecieron en 1955, en la Conferencia de Bandung**, siendo
@@ -31,7 +36,19 @@ futuros posibles en el ahora. De esta forma, ***el festival se convierte en un m
 ![alt text](img/30bb8b1ee69cbf0c882142eef593b9b2.avif)
 
 
-## Indagaciones
-1. **poligonias** de quilombos
-2. Lineaturas en los **patrones de vuelos** de las abejas
-3. el texto como dispotivo cosmo**gráfico**
+## Patrones de vuelo de Levy 
+
+![alt text](img/protadadosssier.png)
+
+1. El patrón consiste en alternar una serie de movimientos cortos al azar de tipo browniano (movimiento aleatorio que se observa en las partículas que se hallan en un medio fluido (líquido o gas), como resultado de choques contra las moléculas de dicho fluido) con otros de trayectorias más largas.
+2. Geometría fractal de la naturaleza
+3. Se define como una implementación de los procesos de Markov, en los que la distribución de probabilidad del valor futuro de una variable aleatoria depende únicamente de su valor presente, siendo independiente de la historia de dicha variable. 
+
+![alt text](img/220px-Brownian_motion_large.gif)
+
+movimiento browniano
+
+![alt text](img/levy1a-580x279.png)
+
+patron de levy a la izq. movimiento browniano a la der.
+
