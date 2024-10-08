@@ -39,6 +39,8 @@ futuros posibles en el ahora. De esta forma, ***el festival
 se convierte en un movimiento de fuga, un momento de
 celebración de libertades**.
 
+![alt text](img/kuruche2024_2.png)
+
 ## QUILOMBOS EN BRASIL: UN ANÁLISIS DE LA IDENTIDAD, DERECHOS Y RECONFIGURACIÓN HISTÓRICA
 
 1. "Al categorizar al otro, se crea una diferencia y una distancia con el yo" (Bourdieu, 1989).
@@ -50,9 +52,9 @@ celebración de libertades**.
 7. "En 1982, el Grupo de Asesoría y Participación del Gobierno del Estado de São Paulo propuso un informe que defendía la esterilización de mujeres negras y pardas. La justificación se basaba en proyecciones demográficas que indicaban el aumento de la población negra, lo que podría llevar a una mayor representatividad política de los afrodescendientes".
 8. "Quilombo de Machadinha, situado en Quissamã, en el Estado de Río de Janeiro (Brasil). Una práctica antigua era enterrar el cordón umbilical del bebé en el patio trasero de la casa o lanzarlo al tejado cuando nacía un niño. Cuando se les preguntaba sobre el territorio, los habitantes afirmaban que nunca abandonarían ese lugar, ya que sus cordones umbilicales estaban enterrados en la tierra (Alves, 2016)". 
 9. Beatriz Nascimento (apud RATTS, 2006), mujer quilombola y negra, define el quilombo de manera amplia, describiéndolo como **una historia** (entramado de herencia cultural, social y económica).
-10. 
+10. Según Little (2002), para entender la relación específica que un grupo social mantiene con su territorio, es fundamental utilizar el concepto de **cosmografía**. La cosmografía de un grupo abarca su sistema de propiedad, los vínculos emocionales que establece con su territorio específico, la historia de su ocupación preservada en la memoria colectiva, la utilización social del territorio y los métodos de defensa adoptados por él.
+11. 
 
-![alt text](img/kuruche2024_2.png)
-
+![alt text](img/30bb8b1ee69cbf0c882142eef593b9b2.avif)
 
 ## 
