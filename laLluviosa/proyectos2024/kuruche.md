@@ -2,42 +2,13 @@
 
 ## Texto Curatorial 
 
-Hay un dicho africano que dice: **mientras la historia de la 
-caza al león sea contada por los cazadores, los leones serán 
-siempre perdedores**. En este sentido, se hace necesario y 
-urgente ampliar y profundizar la visión en torno a cuestiones 
-relacionadas con temáticas raciales que nos permitan discutir 
-y analizar la posibilidad de construcción de otras poéticas. 
-Poéticas que puedan reflexionar sobre cómo los cuerpos 
-racializados, especialmente los cuerpos negros, excluidos de 
-la producción simbólica hegemónica y del discurso sobre sí, 
-produzcan narrativas, amplíen el repertorio de representación 
-existente sobre sí mismos y nombren sus experiencias 
-desafiando el mundo que limita su habla o ignora sus vidas.
- Ya que **las bases históricas de la descolonización se 
-establecieron en 1955, en la Conferencia de Bandung**, siendo 
-uno de sus objetivos deconstruir las principales macronarrativas 
-occidentales, y que Fanon (1961) en _Condenados de la Tierra_ 
-sentó las bases políticas y epistémicas del mismo, se abrieron 
-nuevas posibilidades para el desarrollo del pensamiento crítico y para la creación de nuevas narrativas. **Según el filósofo y escritor Dénètem Touam Bona, desde el siglo XVI, en los márgenes de las colonias del Nuevo Mundo, han surgido sociedades de esclavos fugitivos**: palenques y cumbes en Hispanoamérica, quilombos y mocambos en Brasil, comunidades de cimarrones en Jamaica y Florida, Campus en Guyana y Surinam.
+Hay un dicho africano que dice: **mientras la historia de la caza al león sea contada por los cazadores, los leones serán siempre perdedores**. En este sentido, se hace necesario y urgente ampliar y profundizar la visión en torno a cuestiones relacionadas con temáticas raciales que nos permitan discutir y analizar la posibilidad de construcción de otras poéticas. Poéticas que puedan reflexionar sobre cómo los cuerpos racializados, especialmente los cuerpos negros, excluidos de la producción simbólica hegemónica y del discurso sobre sí,  produzcan narrativas, amplíen el repertorio de representación existente sobre sí mismos y nombren sus experiencias desafiando el mundo que limita su habla o ignora sus vidas. Ya que **las bases históricas de la descolonización se establecieron en 1955, en la Conferencia de Bandung**, siendo
+uno de sus objetivos deconstruir las principales macronarrativas occidentales, y que Fanon (1961) en _Condenados de la Tierra_ sentó las bases políticas y epistémicas del mismo, se abrieron nuevas posibilidades para el desarrollo del pensamiento crítico y para la creación de nuevas narrativas. **Según el filósofo y escritor Dénètem Touam Bona, desde el siglo XVI, en los márgenes de las colonias del Nuevo Mundo, han surgido sociedades de esclavos fugitivos**: palenques y cumbes en Hispanoamérica, quilombos y mocambos en Brasil, comunidades de cimarrones en Jamaica y Florida, Campus en Guyana y Surinam.
 
-Argumenta que más allá de sus diferencias, **estas comunidades
-boscosas comparten el mismo arte de escapar**: los desechos
-en el bosque constituyen la matriz de sus culturas. Así, la
-fuga se compone siempre en contrapunto a las máquinas de
-captura. Al sistema colonial que fomenta su necropolítica en
-relación a los cuerpos racializados.
+Argumenta que más allá de sus diferencias, **estas comunidades boscosas comparten el mismo arte de escapar**: los desechos en el bosque constituyen la matriz de sus culturas. Así, la fuga se compone siempre en contrapunto a las máquinas de captura. Al sistema colonial que fomenta su necropolítica en relación a los cuerpos racializados.
 
-La historiadora brasileña **Beatriz Nascimento** establece que los quilombos en Brasil articularon nuevas formas de organización, tanto políticas como sociales, con implicaciones ideológicas muy fuertes en la vida de la población negra en el pasado y que se proyecta después de la abolición, en el siglo XX.
-Entendiendo el tiempo en su perspectiva en espiral, donde se
-desmantela una idea colonial lineal del tiempo, la 3ra edición
-del Festival Kuruche se convierte en un palenque/quilombo, se
-constituye como **un espacio/tiempo para la elaboración de un
-nuevo paisaje y la producción de poéticas**, reuniendo a artistas
-que en sus obras reflexionan sobre el pasado, construyendo
-futuros posibles en el ahora. De esta forma, ***el festival
-se convierte en un movimiento de fuga, un momento de
-celebración de libertades**.
+La historiadora brasileña **Beatriz Nascimento** establece que los quilombos en Brasil articularon nuevas formas de organización, tanto políticas como sociales, con implicaciones ideológicas muy fuertes en la vida de la población negra en el pasado y que se proyecta después de la abolición, en el siglo XX. Entendiendo el tiempo en su perspectiva en espiral, donde se desmantela una idea colonial lineal del tiempo, la 3ra edición del Festival Kuruche se convierte en un palenque/quilombo, se constituye como **un espacio/tiempo para la elaboración de un nuevo paisaje y la producción de poéticas**, reuniendo a artistas que en sus obras reflexionan sobre el pasado, construyendo
+futuros posibles en el ahora. De esta forma, ***el festival se convierte en un movimiento de fuga, un momento de celebración de libertades**.
 
 ![alt text](img/kuruche2024_2.png)
 
@@ -53,8 +24,14 @@ celebración de libertades**.
 8. "Quilombo de Machadinha, situado en Quissamã, en el Estado de Río de Janeiro (Brasil). Una práctica antigua era enterrar el cordón umbilical del bebé en el patio trasero de la casa o lanzarlo al tejado cuando nacía un niño. Cuando se les preguntaba sobre el territorio, los habitantes afirmaban que nunca abandonarían ese lugar, ya que sus cordones umbilicales estaban enterrados en la tierra (Alves, 2016)". 
 9. Beatriz Nascimento (apud RATTS, 2006), mujer quilombola y negra, define el quilombo de manera amplia, describiéndolo como **una historia** (entramado de herencia cultural, social y económica).
 10. Según Little (2002), para entender la relación específica que un grupo social mantiene con su territorio, es fundamental utilizar el concepto de **cosmografía**. La cosmografía de un grupo abarca su sistema de propiedad, los vínculos emocionales que establece con su territorio específico, la historia de su ocupación preservada en la memoria colectiva, la utilización social del territorio y los métodos de defensa adoptados por él.
-11. 
+11. Antes de la constitucion de 1988: “terras de santo”, “terras de indias” (que no deben confundirse con las tierras indígenas), “terras de negros”, “fondos de pasto” y “pastos comunales”, invisibles ante el ordenamiento jurídico.
+12. La Comunidad conocida como Mumbuca está ubicada en la zona rural del municipio de Mateiros, en el estado de Tocantins, y está compuesta por alrededor de 150 miembros resultado de la mezcla de negros e indígenas (posiblemente Xerente). Su nombre proviene de las abejas mumbuca, nativas de la región. Las primeras casas construidas estaban rodeadas por colmenas de esta especie.
+13. Tres características distintivas definen a la Comunidad Mumbuca: 1) la habilidad en la artesanía con buriti y capim dourado; 2) una fuerte conexión religiosa; y 3) un liderazgo femenino sólido.
 
 ![alt text](img/30bb8b1ee69cbf0c882142eef593b9b2.avif)
 
-## 
+
+## Indagaciones
+1. **poligonias** de quilombos
+2. Lineaturas en los **patrones de vuelos** de las abejas
+3. el texto como dispotivo cosmo**gráfico**
