@@ -52,3 +52,11 @@ movimiento browniano
 
 patron de levy a la izq. movimiento browniano a la der.
 
+
+## Cosmografías
+
+1. Ciencia que describe las características del universo en forma de cartografías combinando elementos de la geografía y la astronomía.
+2. El Imaginario geográfico definido por los avances en las tecnicas de navegación de portugueses en el siglo XV y el descubrimiento de América 
+3. El trabajo de Ptolomeo, redescubierto en el siglo XV con la masificación de la imprenta, posibilitó avances en las tecnicas de cálculo de latitudes y longitudes (sistema de coordenadas), posibilitando la navegación a mar abierto en base a la observación astronómica.
+4. Casa de Contratación, organismo de control e investigación cartográfica de la monarquía española
+
