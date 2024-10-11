@@ -213,17 +213,22 @@ GEODESICA
 - micropolíticas, aspectos sociales culturales y politicos que ocurren localmente dentro de una cultura o un grupo cultural. (rodnik)
 4. la cartografia es el soporte abierto a cualquier forma posible
 
-metodologia
+## Metodología
 1. marco cero: una circunferencia de 500mt alrededor del marco cero (punto cero, ampliable a 1km y 2km)
 2. levantamiento de datos micropoliticos en el área de trabajo a partir de 4 dimensiones fijas: recursos locales (amnbientales, infraestructura, conocimiento), expresiones culturales, perfiles claves, dinámicas sociales
 3. fases del mapeo: 1. premapeo 2. taller de consulta con agentes del territorio 3. investigacion de campo 4. organizacion y sistematizacion > elaboracion de cartografías 
 4. socialización de la investigación
 
-cartografias criticas > aluizo marino
+Actualización dde la metodología segun criterios formales propuestas:
+
+1. Investigación previa (2 semanas)
+2. Taller de consulta (1 semana)
+3. Trabajo de campo (3 jornadas)
+4. Trabajo de escritorio (3 jornadas)
+5. Presentación de resultados (1 jornada)
 
 
+## Bibliografía
 
-
-
-
+1. cartografias criticas > Aluizo Marino
 
