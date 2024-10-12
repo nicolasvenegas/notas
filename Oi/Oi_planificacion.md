@@ -31,8 +31,13 @@
     3. Fuego
     4. Geodésica 
 4. **Tropitemuco**
-    1. 
+    1. creación de personaje: yo weera una niña muy pequela, y cuando ñlniña vivia jugando en el mundo. vivia cerca del mar, en el mar me gustaba mucho viña y valparaiso por los ascensoers. el mar se escuchaba desde mi pieza, y las gaviotas tambien me gustaba jugar el tina con mis juguetes, conejos y animales. cuando tenia 7 años aparecio la idea en tv de que vendria un terremoto, lo que causaria la salida del mar en ese mismo lugar apaciibke donde viivia, el lugar se transformo en otro lugar para, de terror y catastrofe. de una niña que le guustaba jugar pase a ser una mujer asustada por las catastrofes, pendiente de las cosas que podian pasar. ahora que soy una mujer mas grande, empece a pensar que seria lo que me gustaria hacer, trabajar. aparecio el fuego, como un lugar complejo de donde vivo. invente la idea de un lugar refugiio en el mundo, una casa que flotara en  el agua. vivir en el mar en una casa.
+    2. **Mujer planta** es un diario auudiovisual de como me convertí en mujer planta y todas las fotosintesis que vivi. mujer plkanta vive en tropitemuco ¿que es el tropicalismo?
+    3. Mujer planta tiene un oficio, desmalezadora
+    4. **Antropofagia**. **fotosintesis**. **desmalezamiento**. **poda**.  Indagar. Abrir teóricamente las categorías que están vinculadas en el documento inicial. 
+    5. Publicación del proceso de desmalezamiento > fotolibro.   
 5. **Laboratorio UFRO**
+6. **Playa de Ratas**
 
 ## Tareas
 - Armado de taller: resolver flete y compra de maderas para bancas
