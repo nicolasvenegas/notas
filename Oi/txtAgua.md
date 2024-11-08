@@ -1,20 +1,31 @@
-## mapeo
+# metodologia 
 
-1. La pileta de los patos chinos, Avda. Balmaceda. Vista parque, pileta cuadrada y en los costados una escalera de tres peldaños. Senderos rodeados de pasto. Un busto en altura de perfil al centro de los pastos. https://culturadigital.udp.cl/index.php/fotografia/chile-temuco-av-balmaceda/
+## bibliografia
+1. [HACER VISIBLE: LA CONTRIBUCIÓN DE LA ARQUITECTURA FORENSE PARA LA LECTURA DE LOS EVENTOS CONTEMPORÁNEOS Y LA EXPERIENCIA LATINOAMERICANA](https://revistas.ulima.edu.pe/index.php/Limaq/article/view/6582/6845)
+
+# zonas
+
+## La pileta de los patos chinos, Avda. Balmaceda / Biblioteca Galo Sepúlveda 
 
 ![alt text](img/PLB-001567.jpg)
 ![alt text](img/311889212_3213561055577860_6264292904250600016_n.jpg)
+Vista parque, pileta cuadrada y en los costados una escalera de tres peldaños. Senderos rodeados de pasto. Un busto en altura de perfil al centro de los pastos. https://culturadigital.udp.cl/index.php/fotografia/chile-temuco-av-balmaceda/
 
+### acciones posibles
 1. elevacion 1:1 pileta (pre estudio > buscar planos en municipio, OOPP)
 2. medicion volumetrica del agua
-3. flora y fauna circundante / microscopia de no humanidades
-4. mapa de humedad relativa
-5. replica material de componentes
+3. identificacion de flora y fauna circundante / microscopia de no humanidades
+4. diagrama de humedad relativa
+5. replica material de componentes 
 6. catalogo botanico
-7. 
 
 
-6. piscina vacia en el borde del ñielol
+## Sistema de agua potable de Temuco
+1. piscina vacia en el borde del ñielol
+2. 
+
+### bibliografia
+1. [ESTUDIO DE FACTIBILIDAD PARA AMPLIAR O DOTAR DE AGUA POTABLE Y ALCANTARILLADO DE AGUAS SERVIDAS, EN RELACION CON EL CRECIMIENTO URBANO PROYECTADO](https://www.temuco.cl/wp-content/uploads/2022/04/EST-Factibilidad-Sanitaria.pdf)
 
 
 2. socavones con agua en la cancha atrás del gimnasio olímpico 
@@ -22,6 +33,7 @@
 3. antiguo canal en calle matta 
 
 4. Ojo de Agua a la orilla del puente nuevo 
+
 5. Ojos de agua detrás de la cancha de amanecer 
 
 Sacar el rollo > > > > >
@@ -31,16 +43,6 @@ Sacar el rollo > > > > >
 10. Canal tapado con tapas de madera en calle prieto
 11. laguna los patos el carmen
 12. 
-
-
-lore gimenes visuales, como pse puede llegar a entender la visualidad a distintas escalas. interesa como levantamiento de evidencia desde distintas escalas posibles. trabajar con cartografias y mapas permite entender el mundo de una manera sintetica y expandida, determinado esto por una imagen. 
-
-
-la datificacion de la realidad
-el dato como ficcion
-proceso de acumulación
-el mapa como objeto intermedial
-
 
 
 1. presentar requerimiento de transparencia de la municipalidad respecto a la situacion de la pileta enterrada e balmaceda, tras las obras de mejoramiento urbano del año pasado.
@@ -61,3 +63,13 @@ el mapa como objeto intermedial
 [se trataría de una estructura dependiente de un establecimiento educacional, ya que el preinforme de Bomberos establece que se trata de fuego multicompartimental en un recinto educacional, ubicado dentro del perímetro de la Avenida San Martín, calle Aldunate, Bello y General Mackenna. Con el correr de los minutos, trascendió que se trata de una edificación que está destinada al nivel de enseñanza preescolar de la Escuela Francia de Temuco.](https://uatv.cl/2024/05/23/incendio-afecta-a-inmueble-en-pleno-centro-de-temuco/)
 
 ---
+
+
+https://www.fcjs.unl.edu.ar/cursosvirtuales/la-interdisciplina-forense-conceptos-introductorios/
+https://revistas.ulima.edu.pe/index.php/Limaq/article/view/6582/6845
+https://www.temuco.cl/wp-content/uploads/2022/04/EST-Factibilidad-Sanitaria.pdf
+https://www.temuco.cl/wp-content/uploads/2022/04/Cap7-Ambiental.pdf
+https://www.temuco.cl/wp-content/uploads/2022/04/planregulador_Antecedentes-inicio-EAE.pdf
+https://comunicacionysociedad.cucsh.udg.mx/index.php/comsoc/article/view/6840/0?articlesBySimilarityPage=3
+https://www.doctoradoencomunicacion.cl/comunicacion-indisciplinada/
+https://interytransdisciplina.ufro.cl/proyecto/
