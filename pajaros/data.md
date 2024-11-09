@@ -7,3 +7,4 @@
 ![alt text](image-1.png)
 - acertivxs entre el fin del invierno e inicio de primavera, y al inicio de verano
 -  [](https://blog.structuralia.com/hubfs/Imported_Blog_Media/AISLADOR-CAMPANA-5.jpg)
+apoyos aisladores rigidos
