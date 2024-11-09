@@ -1,7 +1,0 @@
-site_name: La Invención de la Trama - Memoria 2023/24
-site_author: Clap, clap fantasma
-site_description: Documento de recopilación de materiales producidos en el proceso de investigación-creación de la obra de teatro La Invención de la Trama
-theme:
-  name: gitbook
-plugins:
-  - gitbook2mkdocs
