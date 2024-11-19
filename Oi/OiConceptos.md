@@ -13,19 +13,19 @@ modified: '2024-05-19T22:57:54.159Z'
 
 - Entender la idea de __archivo expandido__.
 - Trabajar con __materiales__ diversos. Los materiales entendidos, como cualquier __vestigio de entrada__ posible que permita problematizar lo que se esta mirando, pensando. Pueden ser datos, dibujos, caminatas, mapas, cosas que no quedan registradas como conversaciones. Existen cuatro posibilidaddes de partida: lo sonoro, lo visual, lo textual, lo háptico. 
-- En el __gesto de la disección__ surge la posibiliad de __busqueda interseccional__.
-- __Gestos alquímicos__ como procesos de transformación: algo entra, le suceden distintas, y emerge algo; un __programa__.
+- En el __gesto de la disección__ surge la posibilidad de __busqueda interseccional__.
+- __Gestos alquímicos__ como procesos de transformación: algo entra, le suceden distintas cosas, y emerge algo; un __programa__.
 - Dueña de casa, costurera, orfebre, gasfiter digital.
-- Entender la dinamica de los conceptos
-- Pensar en un ejercicio de estudio, que aborde esta idea similar que tenemos de busqueda conceptua, que tiene que ver con las vistas
-- Pensar en tarsladar la idea del Almanaque, el atlas como táctica para darle bajada a los conceptos que estan poblando el espacio común.
+- Entender la dinámica de los conceptos
+- Pensar en un ejercicio de estudio, que aborde esta idea similar que tenemos de busqueda conceptual, que tiene que ver con las vistas
+- __Pensar en tarsladar la idea del Almanaque, el atlas como táctica para darle bajada a los conceptos que estan poblando el espacio común.
 - Avanzar en la discusión entre la idea de proyecto, proceso, programa.
 - Elaborar glosario de palabras a definir. Añadir __transdisciplina__. Añadir __Transmedial__, __multimedial__, lo __mediatico__, la __mediación__
 - el desplazamiento entendido
   - entre campos/disciplinas
   - entre lenguajes
   - de relacion de distancia con el texto
-  - traslados sinestésico
+  - traslados sinestésicos
   - régimen material (analógico, digital, conceptual)
 - la idea de sentido
   - 1. adj. Dicho de una cosa: Que incluye o expresa un sentimiento.
@@ -44,10 +44,10 @@ modified: '2024-05-19T22:57:54.159Z'
 ## Discusión general campos de intereses, procesos
 
 - donde estan puestos los ojos y las energías
-- hay una relacion con las sustancias de los materiales
+- hay una __relacion con las sustancias de los materiales__
 - los procesos como el foco de atención del trabajo
 - una mirada más estratégica en términos de las dinámicas de circulación de los _objetos culturales_  
-- al principio del camino tiene que ver con voluntad, autogestión, pero pensando en términos tácticos los hitos de apertura o muestra de resultado de las investigaciones, que permitan tener un campo diversificado de espacios de acción, para así también diversificar las posibilidades de exhibición de las obras
+- al principio del camino tiene que ver con voluntad, autogestión, pero pensando en términos tácticos los hitos de apertura o muestra de resultado de las investigaciones, que permitan tener un campo diversificado de espacios de acción, para así también diversificar las posibilidades de exhibición de obras
 - la exhibición, el espacio de lo vivo ya madurado en el ámbito de la música, es el lugar hacia donde se expandirán las formas de financiación de las prácticas artísticas en contextos locales
 
 ### Campos de intereses
@@ -74,6 +74,14 @@ modified: '2024-05-19T22:57:54.159Z'
   -- las escalas: el espacio local, regional, lo planetario. el tiempo, procesos abiertos
   -- el tiempo real, las experiencias inmersivas
   -- el landart
+
+#### actualizacion de campos 17nov2024
+
+- paulina
+  - (pendiente)
+- nico
+  - (pendiente)
+
   
   ### procesos e ideas
 - agua
@@ -88,7 +96,7 @@ modified: '2024-05-19T22:57:54.159Z'
 
 ### herramientas
 
-- lista de guardado compartida de instagram > armar nico (hecho)
+- lista de guardado compartida de instagram
 - en las reuniones hay dos tareas: registrar apuntes, sistematizar apuntes.
 
 ## Calendarizaciones
