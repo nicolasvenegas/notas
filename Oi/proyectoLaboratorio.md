@@ -47,11 +47,19 @@
 4. Sensoramiento: piezoeléctricos, movimiento, infrasonidos, láser, temperatura, entre otros
 
 ### Aportes institucionales internos
-#### UFRO
+#### Doctorado
 1. Espacio fisico
 2. Marco de validación institucional
 3. Acceso a recursos no económicos: bibliotecas, laboratorios
-
+4. Financiamiento directo
+#### UFRO
+1. Participación en fondos concursables
+##### Internos
+1. CIICA
+2. Otros
+##### Externos
+1. Fondos nacionales
+2. Fondos internacionales
 
 ### Aportes institucionales externos
 1. 
