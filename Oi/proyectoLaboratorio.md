@@ -39,17 +39,23 @@
 3. Estudiantes en práctica UFRO
 4. Artistas, academic@s e investigador@s invitad@s
 
-## Infraestructura
-### Aportes propios (a disposición contingente)
+## financiamiento
+### Aportes propios (herramientas de trabajo a disposición contingente)
 1. Sonido: line array de sonido (800W), tarjeta de sonido, mixer, microfonia cardioide y condensador 
 2. Imagen: proyector 6.000 lumens laser para proyecciones de gran formato
 3. Software: edicion de video, vectorial, sonido, programación creativa, programación visual, síntesis de video y sonido, 
 4. Sensoramiento: piezoeléctricos, movimiento, infrasonidos, láser, temperatura, entre otros
 
-## Aportes institucionales
+### Aportes institucionales internos
+#### UFRO
 1. Espacio fisico
 2. Marco de validación institucional
 3. Acceso a recursos no económicos: bibliotecas, laboratorios
+
+
+### Aportes institucionales externos
+1. 
+
 
 ## Formas / fuentes de financiamiento
 1. Fondos concursables internos
