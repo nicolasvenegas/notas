@@ -40,6 +40,7 @@
 4. Artistas, academic@s e investigador@s invitad@s
 
 ## financiamiento
+
 ### Aportes propios (herramientas de trabajo a disposición contingente)
 1. Sonido: line array de sonido (800W), tarjeta de sonido, mixer, microfonia cardioide y condensador 
 2. Imagen: proyector 6.000 lumens laser para proyecciones de gran formato
@@ -47,30 +48,24 @@
 4. Sensoramiento: piezoeléctricos, movimiento, infrasonidos, láser, temperatura, entre otros
 
 ### Aportes institucionales internos
-#### Doctorado
+#### Doctorado en Comunicación
 1. Espacio fisico
 2. Marco de validación institucional
 3. Acceso a recursos no económicos: bibliotecas, laboratorios
 4. Financiamiento directo
 #### UFRO
 1. Participación en fondos concursables
-##### Internos
-1. CIICA
-2. Otros
-##### Externos
-1. Fondos nacionales
-2. Fondos internacionales
-
+    - Internos
+        1. CIICA
+        2. Otros
+    - Externos
+        1. Fondos nacionales
+        2. Fondos internacionales
+2. Financiamiento directo
 ### Aportes institucionales externos
 1. 
 
-
-## Formas / fuentes de financiamiento
-1. Fondos concursables internos
-2. Fondos nacionales
-3. Fondos internacionales
-4. Aportes vinculados al doctorado de comunicaciones
-5. Recursos potenciales asociados al sistema de bibliotecas UFRO
+    
 
 ## Vinculación interna / externa
 1. Talleres, muestras y exposiciones dentro y fuera de la universidad y de la región
