@@ -49,10 +49,35 @@
 
 ### Aportes institucionales internos
 #### Doctorado en Comunicación
-1. Espacio fisico
-2. Marco de validación institucional
-3. Acceso a recursos no económicos: bibliotecas, laboratorios
+1. Marco de validación institucional
+2. Espacio físico 
+    1. oficina
+        1. espacio cerrado
+        2. espacio ventilado
+        3. espacio que se pueda oscurecer
+        4. espacio que brinde minima aislación acustica
+        5. 2 escritorios
+        6. 1 pizarra
+        7. 1 mesa de reunión
+        8. 4 sillas 
+        9. 2 tomas de corriente o más
+        10. 1 impresora
+        11. accceso plotter impresión planos
+        12. papel de impresión y croqueras
+        13. lápices, plumones, destacadores 
+        14. Licencias de softwares
+            1. QGis (cartografías)
+            2. Isadora (proyecciones en vivo)
+        15. 
+3. Acceso a recursos no económicos
+    1. bibliotecas
+    2. laboratorios
 4. Financiamiento directo
+    1. transporte a lugares fisicos de las investigaciones
+    2. financiación a investigadores, ayudantes/tesistas
+    3. condiciones de financiamiento temporal para residentes
+    4. insumos de consumo colectivo para visitas y reuniones con grupos y comunidades
+    5. 
 #### UFRO
 1. Participación en fondos concursables
     - Internos
@@ -64,6 +89,9 @@
 2. Financiamiento directo
 ### Aportes institucionales externos
 1. 
+
+
+
 
     
 
