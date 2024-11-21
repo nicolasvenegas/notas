@@ -126,9 +126,9 @@ Marcha blanca: Enero 2025
 6. Definicion final fecha inicio del trabajo
 
 ## Tareas acordadas
-1. **Enviar correo** con solicitud de reunión durante la primera quincena de diciembre
-2. **Adición de textos** para bibliografia compartida en Drive
-3. **Hacer presentación** para reunión con listado de topicos a conversar
+1. **Enviar correo** con solicitud de reunión durante la primera quincena de diciembre > paulina
+2. **Adición de textos** para bibliografia compartida en Drive > compartida
+3. **Hacer presentación** para reunión con listado de topicos a conversar > nico
 
 ![Diagrama de organización](img/oiLab_diagrama1.jpg)
 
