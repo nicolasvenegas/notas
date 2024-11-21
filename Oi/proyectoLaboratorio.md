@@ -132,3 +132,7 @@ Marcha blanca: Enero 2025
 4. Elaboración documento científico en torno a la meotología de investygación del Laboratorio
 5. Definición del nombre del Laboratorio
 6. Definicion final fecha inicio del trabajo
+
+## Tareas pendientes
+1. Enviar correo con solicitud de reunión durante la primera quincena de diciembre
+
