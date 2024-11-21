@@ -120,3 +120,15 @@ Marcha blanca: Enero 2025
 2. Taller de consulta. Articular con la comunidad
 3. Investigacion de campo.  
 4. Trabajo de escritorio.
+
+
+
+
+## propuesta reunión pre marcha blanca
+
+1. Presentación diagrama de trabajo
+2. Listado de requerimientos
+3. Propuestas de proyectos de investigación asignadas al Laboratorio
+4. Elaboración documento científico en torno a la meotología de investygación del Laboratorio
+5. Definición del nombre del Laboratorio
+6. Definicion final fecha inicio del trabajo
