@@ -111,3 +111,12 @@
 Marcha blanca: Enero 2025
 
 
+
+## Metodologia
+1. __Investigación previa__: definición de perímetro de lectura inicial y pre-mapeo de infraestructuras vinculadas a la cultura
+    - Definición de un punto cero, siempre es físico, siempre geolocalizable, es existente en el tiempo (no necesariamente en el presente), el acceso puede ser físico o remoto al punto.
+    - Alrededor del punto cero se establece un perimetro inicial de busqueda (el canon habla de 500mt en zonas uurbanas y de 2km (en zonas rurales).
+    - la infraestructura vinculada a la cultura, son dimensiones de observacion: arquitectonica, objetual, practicas, relaciones, sujetos politicos, sociales y culturales;  
+2. Taller de consulta. Articular con la comunidad
+3. Investigacion de campo.  
+4. Trabajo de escritorio.

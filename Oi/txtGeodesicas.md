@@ -12,3 +12,7 @@
 
 el terremoto del 2010 en chile, modificó las condiciones geodesicas del planeta. las proyecciones cartograficas como sistemas de representaciones de regimenes visuales especificos, permiten acceder a la costura en la relación entre lo real y sus hegemonias historicas: **1.26 microsegundos** menos cada dia en la tierra. 
 
+
+## 20nov2024
+1. Eratostenes, mediciones con sombras
+2. 
