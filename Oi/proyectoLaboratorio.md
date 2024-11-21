@@ -87,13 +87,6 @@
         1. Fondos nacionales
         2. Fondos internacionales
 2. Financiamiento directo
-### Aportes institucionales externos
-1. 
-
-
-
-
-    
 
 ## Vinculación interna / externa
 1. Talleres, muestras y exposiciones dentro y fuera de la universidad y de la región
@@ -110,8 +103,6 @@
 ## Propuesta de calendario de implementación
 Marcha blanca: Enero 2025
 
-
-
 ## Metodologia
 1. __Investigación previa__: definición de perímetro de lectura inicial y pre-mapeo de infraestructuras vinculadas a la cultura
     - Definición de un punto cero, siempre es físico, siempre geolocalizable, es existente en el tiempo (no necesariamente en el presente), el acceso puede ser físico o remoto al punto.
@@ -121,18 +112,23 @@ Marcha blanca: Enero 2025
 3. Investigacion de campo.  
 4. Trabajo de escritorio.
 
+---
 
-
+# jueves 21 de noviembre 2024
 
 ## propuesta reunión pre marcha blanca
 
 1. Presentación diagrama de trabajo
 2. Listado de requerimientos
 3. Propuestas de proyectos de investigación asignadas al Laboratorio
-4. Elaboración documento científico en torno a la meotología de investygación del Laboratorio
+4. Elaboración documento científico en torno a la metodología de investigación del Laboratorio
 5. Definición del nombre del Laboratorio
 6. Definicion final fecha inicio del trabajo
 
-## Tareas pendientes
-1. Enviar correo con solicitud de reunión durante la primera quincena de diciembre
+## Tareas acordadas
+1. **Enviar correo** con solicitud de reunión durante la primera quincena de diciembre
+2. **Adición de textos** para bibliografia compartida en Drive
+3. **Hacer presentación** para reunión con listado de topicos a conversar
+
+![Diagrama de organización](img/oiLab_diagrama1.jpg)
 
