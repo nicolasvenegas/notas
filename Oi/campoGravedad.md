@@ -7,7 +7,7 @@ modified: '2024-07-21T01:33:43.739Z'
 
 # gravedad
 
-- la red geodesica es un conjunto de vertices y esytaciones distribuidas homogeneas por chile.
+- la red geodesica es un conjunto de vertices y estaciones distribuidas homogeneas por chile.
 - posicionamiento GNSS (del IGM) tecnologia datos en lineas y coordenadas
 - estaciones pasivas, monumentos en terreno, **pin de 1cm de diametro en cada vertice**
 
