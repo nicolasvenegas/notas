@@ -65,4 +65,11 @@ la cartografia como sistema de ficcion en relacion de distancia a lo existente.
 
 --- 
 
-
+## Apuntes sobre cartografía social
+1. Todos los seres humanos necesitamos ubicarnos en el espacio (XYZ).
+2. Pregunta activadora *¿de dónde eres?* Todos, de cierta forma, somos cartógrafos que dibujamos nuestro espacio. Todos tenemos distintos mapas en nuestra cabeza.
+3. La construcción de mapas produce nuevos sentidos (!) espaciales, a partir de historias.
+4. Lo importante son la singularidad de las marcas que se crean.
+5. El mapa es un texto, sin punto de partida ni final (como el atlas, mensaje v/s montaje)
+6. El mapa como herramienta de poder: asi como podemos leerlo, podemos escribirlo, rescribirlo, impactando en como vivimos y experimentamos el territorio.
+7. "el mapa permite que una informaci+on que era secreta, deje de serlo" (Antonio Crespo, Docor en geografía)
