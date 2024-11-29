@@ -119,12 +119,12 @@ Marcha blanca: Enero 2025
 ## propuesta reunión pre marcha blanca
 
 1. Presentación diagrama de trabajo
-2. Listado de requerimientos
+2. REVISAR > Listado de requerimientos
 3. Propuestas de proyectos de investigación asignadas al Laboratorio
 4. Enunciar la propuesta de la Elaboración de documento científico en torno a la metodología de investigación del Laboratorio
-5. Definición del nombre del Laboratorio
-6. Definicion final fecha inicio del trabajo, mantener enero o postergar a marzo
-7. Agregar experiencia EDUMEET
+5. REVISAR > Definición del nombre del Laboratorio
+6. REVISAR > Definicion final fecha inicio del trabajo, mantener enero o postergar a marzo
+7. AÑADIR > experiencia EDUMEET
 
 ## Tareas acordadas
 1. **Enviar correo** con solicitud de reunión durante la primera quincena de diciembre > paulina
