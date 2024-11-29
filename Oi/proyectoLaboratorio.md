@@ -70,11 +70,14 @@
 3. Acceso a recursos no económicos
     1. bibliotecas
     2. laboratorios
+    3. transporte a lugares fisicos de las investigaciones
 4. Financiamiento directo
-    1. transporte a lugares fisicos de las investigaciones
-    2. Asignación de ayudantes de investigación / tesistas
-    3. condiciones de financiamiento temporal para residentes (potenciales)
-    4. insumos de producción en terreno (deseable)
+    1. Asignación de ayudantes de investigación / tesistas
+    2. condiciones de financiamiento temporal para residentes (potenciales)
+    3. Insumos de producción en terreno.
+    4. **Honorarios Investigadores Laboratorio por investigación**
+
+
 #### UFRO
 1. Participación en fondos concursables
     - Internos
