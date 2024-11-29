@@ -124,11 +124,15 @@ Marcha blanca: Enero 2025
 4. Elaboración documento científico en torno a la metodología de investigación del Laboratorio
 5. Definición del nombre del Laboratorio
 6. Definicion final fecha inicio del trabajo
+7. Agregar experiencia EDUMEET
 
 ## Tareas acordadas
-1. OK **Enviar correo** con solicitud de reunión durante la primera quincena de diciembre > paulina
+1. **Enviar correo** con solicitud de reunión durante la primera quincena de diciembre > paulina
 2. OK **Adición de textos** para bibliografia compartida en Drive > tarea compartida en carpeta de Oi Drive *bibliografía > laboratorio*
 3. **Hacer presentación** para reunión con listado de topicos a conversar > nico
-
+4. 
 ![Diagrama de organización](img/oiLab_diagrama1.jpg)
 
+
+
+diagrama
