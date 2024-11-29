@@ -73,9 +73,8 @@
 4. Financiamiento directo
     1. transporte a lugares fisicos de las investigaciones
     2. Asignación de ayudantes de investigación / tesistas
-    3. condiciones de financiamiento temporal para residentes
-    4. insumos de consumo colectivo para visitas y reuniones con grupos y comunidades
-    5. 
+    3. condiciones de financiamiento temporal para residentes (potenciales)
+    4. insumos de producción en terreno (deseable)
 #### UFRO
 1. Participación en fondos concursables
     - Internos
