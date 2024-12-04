@@ -73,3 +73,6 @@ la cartografia como sistema de ficcion en relacion de distancia a lo existente.
 5. El mapa es un texto, sin punto de partida ni final (como el atlas, mensaje v/s montaje)
 6. El mapa como herramienta de poder: asi como podemos leerlo, podemos escribirlo, rescribirlo, impactando en como vivimos y experimentamos el territorio.
 7. "el mapa permite que una informaci+on que era secreta, deje de serlo" (Antonio Crespo, Docor en geografía)
+
+
+## inicio proceso POST EDUMEET

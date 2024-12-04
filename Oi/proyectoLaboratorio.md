@@ -39,6 +39,34 @@
 3. Estudiantes en práctica UFRO
 4. Artistas, academic@s e investigador@s invitad@s
 
+## Vinculación interna / externa
+1. Talleres, muestras y exposiciones dentro y fuera de la universidad y de la región
+2. Aperturas de procesos de investigación desde prácticas asociadas a nuevos medios
+3. Vinculación a espacios de formación de pregrado en unidades académicas de la universidad
+4. Publicación en revistas indexadas y libros 
+5. Participación en congresos nacionales e internacionales
+6. Participación en Festivales de cine nacionales e internacionales 
+
+## Ejemplos de procesos en curso: 
+1. Edumeet (Chile/España) Edumeet Ecotopías International Scientific Congress. Architectures in/for/before/against the climate crisis  27+28 Organiza: Trans / DPA ETSAM. Universidad Politécnica de Madrid En colaboración con: UDLA. Universidad de las Américas (Chile)
+2. Tercer Encuentro Latinoamericano de Cine Casero, Amateur y Huérfano.  ULTRAcinema. Mexico
+
+## Propuesta de calendario de implementación
+Marcha blanca: Enero 2025
+
+## Metodologia
+1. __Investigación previa__: definición de perímetro de lectura inicial y pre-mapeo de infraestructuras vinculadas a la cultura
+    - Definición de un punto cero, siempre es físico, siempre geolocalizable, es existente en el tiempo (no necesariamente en el presente), el acceso puede ser físico o remoto al punto.
+    - Alrededor del punto cero se establece un perimetro inicial de busqueda (el canon habla de 500mt en zonas uurbanas y de 2km (en zonas rurales).
+    - la infraestructura vinculada a la cultura, son dimensiones de observacion: arquitectonica, objetual, practicas, relaciones, sujetos politicos, sociales y culturales;  
+2. Taller de consulta. Articular con la comunidad
+3. Investigacion de campo.  
+4. Trabajo de escritorio.
+
+---
+
+# Contenidos reunión de inicio de ejecución de Laboratorio
+
 ## financiamiento
 
 ### Aportes propios (herramientas de trabajo a disposición contingente)
@@ -88,35 +116,9 @@
         2. Fondos internacionales
 2. Financiamiento directo
 
-## Vinculación interna / externa
-1. Talleres, muestras y exposiciones dentro y fuera de la universidad y de la región
-2. Aperturas de procesos de investigación desde prácticas asociadas a nuevos medios
-3. Vinculación a espacios de formación de pregrado en unidades académicas de la universidad
-4. Publicación en revistas indexadas y libros 
-5. Participación en congresos nacionales e internacionales
-6. Participación en Festivales de cine nacionales e internacionales 
-
-## Ejemplos de procesos en curso: 
-1. Edumeet (Chile/España) Edumeet Ecotopías International Scientific Congress. Architectures in/for/before/against the climate crisis  27+28 Organiza: Trans / DPA ETSAM. Universidad Politécnica de Madrid En colaboración con: UDLA. Universidad de las Américas (Chile)
-2. Tercer Encuentro Latinoamericano de Cine Casero, Amateur y Huérfano.  ULTRAcinema. Mexico
-
-## Propuesta de calendario de implementación
-Marcha blanca: Enero 2025
-
-## Metodologia
-1. __Investigación previa__: definición de perímetro de lectura inicial y pre-mapeo de infraestructuras vinculadas a la cultura
-    - Definición de un punto cero, siempre es físico, siempre geolocalizable, es existente en el tiempo (no necesariamente en el presente), el acceso puede ser físico o remoto al punto.
-    - Alrededor del punto cero se establece un perimetro inicial de busqueda (el canon habla de 500mt en zonas uurbanas y de 2km (en zonas rurales).
-    - la infraestructura vinculada a la cultura, son dimensiones de observacion: arquitectonica, objetual, practicas, relaciones, sujetos politicos, sociales y culturales;  
-2. Taller de consulta. Articular con la comunidad
-3. Investigacion de campo.  
-4. Trabajo de escritorio.
-
 ---
 
-# jueves 21 de noviembre 2024
-
-## propuesta reunión pre marcha blanca
+## propuesta contenidos reunión pre marcha blanca
 
 1. Presentación diagrama de trabajo
 2. REVISAR > Listado de requerimientos
@@ -124,7 +126,7 @@ Marcha blanca: Enero 2025
 4. Enunciar la propuesta de la Elaboración de documento científico en torno a la metodología de investigación del Laboratorio
 5. REVISAR > Definición del nombre del Laboratorio
 6. REVISAR > Definicion final fecha inicio del trabajo, mantener enero o postergar a marzo
-7. AÑADIR > experiencia EDUMEET
+7. AÑADIR > experiencia EDUMEETd
 
 ## Tareas acordadas
 1. **Enviar correo** con solicitud de reunión durante la primera quincena de diciembre > paulina
@@ -132,7 +134,3 @@ Marcha blanca: Enero 2025
 3. **Hacer presentación** para reunión con listado de topicos a conversar > nico
 4. 
 ![Diagrama de organización](img/oiLab_diagrama1.jpg)
-
-
-
-diagrama
