@@ -46,6 +46,6 @@
 - hacer proceso de transversalizar el manejo abierto de datos con github
 - 
 
-![Diagrama de organización](img/oiLab_diagrama1.jpg)
+![Diagrama de organización](img/oiLab_diagrama2.jpg)
 
 
