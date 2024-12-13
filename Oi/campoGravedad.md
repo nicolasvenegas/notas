@@ -75,4 +75,4 @@ la cartografia como sistema de ficcion en relacion de distancia a lo existente.
 7. "el mapa permite que una informaci+on que era secreta, deje de serlo" (Antonio Crespo, Docor en geografía)
 
 
-## inicio proceso POST EDUMEET
+## 
