@@ -15,6 +15,12 @@
 
 ![alt text](<img/boscotemuco1.jpg>)
 
+3. Futura expropiación
+![alt text](img/{2543685D-9330-428B-B153-767B6EFE552A}.png)
+
+4. _las intervenciones contempladas en la vialidad transversal a Av. Alemania corresponden a la alineación de 18 de Septiembre con Trizano_ [pagina 6-62](https://www.temuco.cl/wp-content/uploads/2022/04/Cap9-1-Capacidad-Vial.pdf )
+
+
 --- 
 
 ## caries dentales
@@ -56,3 +62,7 @@ Ardico magnini, jugador de la Fiorentina:
 
 1. [http://ancestroschilenos.blogspot.com/2014/02/las-victimas-del-naufragio-del-vapor.html](http://ancestroschilenos.blogspot.com/2014/02/las-victimas-del-naufragio-del-vapor.html)
 2. el ultimo puerto del vapor fue la isla doña ines, en el río imperial - [https://www.pedrocayuqueo.cl/post/la-isla-dona-ines](https://www.pedrocayuqueo.cl/post/la-isla-dona-ines)
+
+
+### Contaminacion
+1. estaciones de muestreo calidad del aire temuco y padre las casas: https://sinca.mma.gob.cl/index.php/
