@@ -58,6 +58,7 @@ LANDSAT (NASA) > 30 metros, datso desde el 85
 3. landsat 7 (sensor ETM Plus y TIIRS)
 4. landsat 8 y 9 (oli,Operational land imagery,  y tiirs)
 5. este año se pone en orbita la version 10
+6. 150km x 150km cada imagen
 
 (altas resoluciones)
 comerciales
@@ -87,3 +88,39 @@ BOA (bottom of atmosphere)
 
 
 fenomenologia de la vegetacion?
+
+instagram del diplomado dirigidopor el profe, con manuales y mas info > https://www.instagram.com/diplomado_tig_udec/
+
+geopackage o geojson son los formatos que usaran, shapefile se descontinuara
+
+mapoteca DGA > https://dga.mop.gob.cl/estudiospublicaciones/mapoteca/Paginas/Mapoteca-Digital.aspx
+
+los DEM
+
+se solicitan al minvu via ley de transparencia
+
+area portante?
+
+https://www.ide.cl/ infraestructura de datos geospaciales de chile
+
+sistema de informacion territorial CONAF https://sit.conaf.cl/
+
+Sistema Integrado de Información CONADI https://siic.conadi.cl/
+
+https://ide.minvu.cl/ Geoportal MINVU
+
+Office for Outer Space Affairs UN-SPIDER Knowledge Portal https://www.un-spider.org/es
+
+easy download DEMS https://ee-sigeduca.projects.earthengine.app/view/easy-download-dems
+
+incendios
+intensidad: medida en watts
+severidad: daño ecosistema (dNBR)
+
+ejercicios: pesquisa de anomalis tecnias en VIRS
+
+COLORBREWER 2.0 color advice for cartography https://colorbrewer2.org/
+
+punto de vista espectral
+
+bandas: 5-4-3 / 4-3-2
