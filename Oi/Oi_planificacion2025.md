@@ -14,28 +14,19 @@
 ## geodesica
 1. apertura de proceso (temuco, otro lugar)
 2. archivo falso (web)
-3. articulo cientifico (proceso investigacion creacion > el archivo falso como metodo de trabajo)
-Notas: paulina compartira referentes del archivo falso
-4. postulacion agendada
+3. artículo científico (proceso investigacion creación > el archivo falso como método de trabajo)
+Notas: paulina compartirá referentes del archivo falso
+4. postulación agendada
 ---
 ## fuego
-- poeticas del fuego (cartografias de la catastrofe)
-- arquitectura forense (metodologcaimente, investigacion periodistica, 3d, cartografia, reconstitucion, levantamiento de archivo)
-1. publicacion 
-2. cartografia en video
-3. exposicion
-4. postulacion
-    - short description of the work (max. 150 words)
-• Long description of the work (max. 500 words)
-• Visualization of the work: technical drawings and/or
-script of execution of the work, max. 2 pages
-• Total production budget of the artwork (including
-build-up and removal of the artwork)
-• CV with contact information including name, phone
-number, email address and links (if existing), max. 1 page
+- poéticas del fuego (cartografías de la catástrofe)
+- arquitectura forense (metodológicamente, investigación periodística, 3d, cartografía, reconstitución, levantamiento de archivo)
+1. publicación 
+2. cartografía en video
+3. exposición
 ---
 ## pjrs  
 1. texto
-2. pelicula en tiempo real 
+2. película en tiempo real 
 ---
-## Falla Lanalhue
+
