@@ -10,4 +10,6 @@
 
 ---
 
-Al inicio solo había llegado un hipopótamo. Era un parque zoológico privado con milquinientos animales de todas partes, gratis para la gente. cienmil dólares para tener un guacamayo azul, se extinguió hace unos años. Cientificos brasileños los envian con científicos alemanes que los crian para enviarlos de vuelta para ser _reintroducidos progresivamente en la naturaleza_. Los 27 lagos artificiales llenos de cisnes, gansos, patos, pelícanos, delfines rosados del Amazonas. 
+Al inicio solo había llegado un hipopótamo. Era un parque zoológico privado con milquinientos animales de todas partes, gratis para la gente. Cien mil dólares para tener un guacamayo azul, se extinguió hace unos años. Cientificos brasileños los envian con científicos alemanes que los crian para enviarlos de vuelta para ser _reintroducidos progresivamente en la naturaleza_. veintisiete lagos artificiales llenos de cisnes, gansos, patos, pelícanos, delfines rosados del Amazonas. 
+
+Contruir un proceso de investigación que siente su relación desde una _axiomática de las ciencias humanas basada sobre una ciencia de las operaciones_

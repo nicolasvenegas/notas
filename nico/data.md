@@ -60,10 +60,8 @@ El **éxito evolutivo de las aves** se debe a:
 
 ### monitoreo de aves
 
-1. El monitoreo de fauna silvestre consiste en el seguimiento y registro datos de un individuo, población o comunidad animal en el tiempo, con
-el fin de observar cambios espaciales y temporales en su abundancia distribución o características generales que ayuden a un mayor
-entendimiento de su ecología y de los factores que influyen positiva o negativamente sobre ellos.
-2. E l monitoreo de fauna silvestre consiste en el seguimiento y registro de datos de un individuo, población o comunidad animal en el tiempo, con el fin de observar cambios espaciales y temporales en su abundancia, distribución o características generales que ayuden a un mayor
+1. El monitoreo de fauna silvestre consiste en el seguimiento y registro datos de un individuo, población o comunidad animal en el tiempo, con el fin de observar cambios espaciales y temporales en su abundancia distribución o características generales que ayuden a un mayor entendimiento de su ecología y de los factores que influyen positiva o negativamente sobre ellos.
+2. El monitoreo de fauna silvestre consiste en el seguimiento y registro de datos de un individuo, población o comunidad animal en el tiempo, con el fin de observar cambios espaciales y temporales en su abundancia, distribución o características generales que ayuden a un mayor
 entendimiento de su ecología y de los factores que influyen positiva o negativamente sobre ellos.
 3. Para _diseñar un monitoreo a largo plazo_ de la fauna es necesario determinar, en primera instancia, los **objetivos**, luego los **componentes a medir**, las **metodologías** que se usarán y los **responsables** del monitoreo.
 
