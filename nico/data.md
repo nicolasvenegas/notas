@@ -117,3 +117,33 @@ A pesar de haber frenado la persecución, el daño causado por el aniquilamiento
 ![alt text](Kill_bird_and_insect.jpg)
 
 
+Contruir un proceso de investigación sentado sobre relaciones, desde una _axiomática de las ciencias humanas basada sobre una táctica de las operaciones_ que permitan diseccionar la mirada que articula lenguaje.
+
+
+> __el ser en el lugar__: tenemos relaciones metabólicas y urbanas: las personas y las cosas están biológicamente constituidas o fabricadas, y luego se re-crean de nuevo en relaciones ontogenéticas, la primera “creación” tiene que ver con procesos que uno podría llamar “transformaciones de la naturaleza”, mientras que el segundo es en su totalidad un “sistema de devenir” que es también un “sistema de conocimiento y agenciamiento” que pone las cosas en marcha, de tal forma que estas estén disponibles a la mano, para que cualquier ser humano pueda utilizarlas. Así, las cosas y las personas definen su “ser”, en primer lugar, en virtud de sus transformaciones de los materiales y la energía asociada a su metabolización o fabricación, y, en segundo lugar, en virtud de sus “dónde” (lugar y espacio de las cosas), que en nuestro caso remite a lo urbano. Puesto de otro modo, el carpintero no es un carpintero sin sus herramientas y las mantiene a tal condición de que estén ubicadas y disponibles, colocándolas y organizándolas en su lugar después de haberlas usado. Por el contrario, si pones sus herramientas en una zanja se convertirán en pedazos de acero oxidado. (Stephen Read)
+
+> __la energía__: Haff es un geólogo y él vio esta tecnosfera artificial a escala global como algo que se asentaba entre la atmósfera, la biósfera y la geósfera. El modelo que estaba desarrollando Haff me dejó claro que la tecnosfera se ha unido parasitariamente a la biósfera y la geósfera y se mantiene a través del consumo de materiales y energía de estos, acelerando masivamente la pérdida entrópica en ellos. (Stephen Read)
+
+> __las lógicas__: que organizan la tecnosfera se dividen [...] en dos. Por un lado, __como una organización__, en la cual los carpinteros ajustan sus bancos de trabajo, los bibliotecarios mantienen los libreros organizados, los supermercados nos presentan productos básicos y las casas, pueblos, ciudades y regiones, estaciones de tren, estacionamientos y aeropuertos se mantienen en relaciones apropiadas y utilizables entre sí. Luego, al mismo tiempo, está la organización comprendida __como flujos de materiales y energía y sus transformaciones en formas simbólicas y de productos__ que eventualmente encajarán en los espacios de la primera lógica. Es significativo que la primera lógica sea comprendida como ver, conocer y actuar en el mundo. La segunda lógica no necesita ser vista o entendida necesariamente, al menos no en una vida activa cotidiana. En efecto, ocultamos los flujos de electricidad y agua en nuestras casas en paredes y ductos y tenemos poca idea de dónde provienen las verduras que compramos en el supermercado. Este “ocultamiento” tiene el efecto de hacer que la naturaleza se retraiga, se invisibilice y se subordine, a la vez que esté justo “allí” para nosotros en el punto de entrega, cada vez que lo necesitemos.  Los conductos, cables y tuberías, los materiales que se transportan y las mercancías que se entregan, constituyen así una especie de “inframundo” junto a los espacios de conocimiento y actuación. (Stephen Read)
+
+> __los automoviles y el estado__: a medida que los sistemas se escalan, producen nuevos órdenes y lógicas de nuevos sistemas ampliados, como cosas y poblaciones que existen en estas escalas más amplias. El Estado, por ejemplo, tiene sus propias lógicas y racionalidades, que se imponen al carpintero en formas que lo obligan o lo dirigen dentro de estos nuevos órdenes. Todo carpintero, panadero o agricultor o cualquier otra persona, se convierte localmente en un sujeto estatal y se le obliga – por la fuerza si es necesario – a que contribuya a la conservación de este nuevo orden en una interminable batalla contra la entropía. Por lo tanto, las demandas de la maquinaria estatal no son tan sólo racionalidades internalizadas, sino también en lo que respecta a su durabilidad [...] El “_sistema-dónde_” humano técnico da a conocer las racionalidades del Estado moderno y sus demandas en espacios estatales, lugares y prácticas. De esta forma, el Estado exigirá que todo el mundo tenga un vehículo cuando uno viva en una ciudad difusa, pero también impondrá los requerimientos de energía del vehículo, incluyendo su fabricación, las carreteras y todo el resto de los edificios y barrios asociados al automóvil. Al mantenerse como un orden autónomo, la maquinaria del Estado extrae cantidades prodigiosas de material y energía de carácter externalizado. Probablemente no comemos significativamente mejor que nuestros ancestros cazadoresrecolectores, pero usamos 60 veces la energía per cápita que ellos usaron. De esta forma, el proceso de metabolización del Estado tiene profundas consecuencias ambientales, sociales y de otros tipos, no siempre obvias.
+
+---
+
+_Sólo si somos capaces de habitar,_ 
+_podemos construir_
+
+
+
+_Utilizando un lápiz duro, se dibujan sobre una pared durante un minuto líneas
+paralelas de 30 cm de largo separadas entre sí por cerca de 30 mm. Bajo esta fila
+de líneas, se dibuja otra fila por un espacio de diez minutos. Bajo de esta fila de
+líneas se dibuja otra fila por un espacio de una hora.
+
+con un lapiz negro se dibuja durante diez minutos desde el punto cero 120 lineas .
+
+ _Topología de lo irreal, [...] un lugar catastrófico de aparición y neutralización de lo diagramático_
+
+
+ objetos
+ 1. radio AM
