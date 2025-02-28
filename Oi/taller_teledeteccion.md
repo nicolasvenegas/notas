@@ -1,41 +1,32 @@
-pirogeografia > geografia del fuego
+## pirogeografia > geografia del fuego > factores:
+
 1. Combustible
 2. ignicion
 3. clima
 4. topografia
 
-TROPOMI sensor europeo calculo monoxido de carbono (humo de incendios)
-
-tormenta de fuego > mega-giga-tera fire
-
-dosel: altura de la vegetacion
-
-global canopy height: dosel a 1mt de resolucion
-
-teledeteccion o percepcion remota: conjunto de tecnicas de adquisicion y tratamiento de informacion de cubiertas terrestres a partir de sensores instalados en plataformas espaciales o aeroportadas
-
-ftos en infrarojo cercano para detectar vegetacion(!)
-
-existen sensores pasivos y activos (RADAR, LIDAR)
-
-VENTAJAS
-1. cobertura periodica y global
-2. homogeneidad en la toma de datos
-3. informacion en el rango no visible
-
-espectro electromagnetico
-1. visible
-2. infrarrojo cercano (distinguir masas forestales, alteraciones celulares)
-3. short wave infrared SWIR (contenido de humedad)
-4. infarrojo medio (focos de altas temperaturas, actividad industrial)
-
-reflectividad: cantidad de energia que refleja un pixel
-absorcion
-
-mayor reflectividad: la nieve, en el rango visible
-
-respuesta espectral
-firma espectral o signatura espectral
+## Apuntes
+1. TROPOMI sensor europeo calculo monoxido de carbono (humo de incendios)
+2. tormenta de fuego > mega-giga-tera fire
+3. dosel: altura de la vegetacion
+4. global canopy height: dosel a 1mt de resolucion
+5. teledeteccion o percepcion remota: conjunto de tecnicas de adquisicion y tratamiento de informacion de cubiertas terrestres a partir de sensores instalados en plataformas espaciales o aeroportadas
+6. se usan fotos en infrarojo cercano para detectar vegetacion(!)
+7. existen sensores pasivos y activos (RADAR, LIDAR)
+8. VENTAJAS TELEDETECCION
+    1. cobertura periodica y global
+    2.  homogeneidad en la toma de datos
+    3. informacion en el rango no visible
+9. espectro electromagnético 
+    1. visible
+    2. infrarrojo cercano (distinguir masas forestales, alteraciones celulares)
+    3. short wave infrared SWIR (contenido de humedad)
+    4. infarrojo medio (focos de altas temperaturas, actividad industrial)
+10. reflectividad: cantidad de energia que refleja un pixel
+11. absorcion (por definir)
+12. mayor reflectividad: la nieve, en el rango visible
+13. respuesta espectral (por definir)
+14. firma espectral o signatura espectral (por definir)
 
 PARA INCENDIOS: 
 infrarojo cercano (vegetacion), SWIR (humedad)
