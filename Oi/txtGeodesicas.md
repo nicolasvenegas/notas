@@ -12,3 +12,5 @@ el terremoto del 2010 en chile, modificó las condiciones geodesicas del planeta
 - **20 de noviembre 2024**
     1. _Eratóstenes_, mediciones con sombras
 
+
+
