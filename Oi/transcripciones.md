@@ -15,4 +15,4 @@ Establecemos un lugar desde donde se obervan y figuran relaciones. Porque la pol
 
 ## Miraflores _11/02/2025_
 
-Esta atravesado por otras cosas. Hay que puntualizar más la mirada. La idea del rango, la parametrización del espacio al cual uno va a buscar. 
+Esta atravesado por otras cosas. Hay que puntualizar más la mirada. La idea del rango, la parametrización del espacio al cual uno va a buscar. Es rango se puede flexibilizar, sobre todo en búsquedas como éstas. 
