@@ -7,7 +7,7 @@ Tenemos relaciones metabólicas y urbanas [...] las personas y las cosas están 
 
 ---
 
-# __26-01-2025__
+# Pasaje A6 __26-01-2025__
 
 ![](Proyeccion.JPG)
 
@@ -18,3 +18,5 @@ La mirada construye objetos dentro de objetos orientando accesos, la imagen devi
 Al final tiene que ver con el propio despliegue. Si nosotros vamos a la feria cuando empiece a llover, probablemente los vamos a encontrar. Porque no es la ciudad patrimonial. Es la ciudad en la que se vive y sus futuros posibles, imaginados. Un continuo, en el que la ciudad, o el lugar desde el que se mira, se sitúa en el presente. Estos ejercicios nos pueden llevar a entender la tensión que nos genera este presente continuo, desde los propios materiales de la ciudad. No hay nada que dar cuenta, no hay nada que visibilizar. No hay nada que ir a buscar. Es la propia consecutividad en la aproximación a partir de distintos campos desde donde uno mira y espacializa la ciudad, que te dice sobre la ciudad. No nos iremos a sentar a la feria a esperar hasta que algo acontezca ahí, quedaría fijo. Si nosotras decimos ahora, ¿salgamos, vamos al almacén? es ese trecho. El asunto trata de cómo miramos lo que está en el presente. Cómo lo fijamos.
 
 Haber puesto la cámara a la altura de los pájaros permite entrar al régimen de lo que se intenta observar. Uno podría listar la cantidad de cositas que hay, se ven en el agua. Se hizo una declaración: Temuco, ciudad verde del _sur de Chile_, proyectos de transformación, pensando en esos conceptos. Más verde que Cochamó, que La Junta, que Coyhaique. Pero claro, no lo tenemos. Entonces tenemos que llegar a eso, interviniendo arquitectónicamente. Entre las personas que piensan esto dicen _vamos a convertir la ciudad en eso_. Nos vemos atravesados por el presente. No hay nada que invite a recordar o a soñar. Cada vez que comíamos, estaba el nido ahí. Y ya no está. Y tenemos imágenes de que estuvo ahí. ¿lo desarmaron? Se va fijando una forma de estudios de gestos, de una naturaleza muy simple, que permiten elaborar modos de entender la ciudad. La imagen deja de ser una imagen en cuanto discurso visual, y pasa a ser un recordatorio, cambia en su estatuto de representación. Se transforma en un repositorio de indicios, de relaciones en distinción segun su materialidad.
+
+Es como una vertiente. 
