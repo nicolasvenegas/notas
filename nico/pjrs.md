@@ -19,3 +19,19 @@ Al final tiene que ver con el propio despliegue. Si nosotros vamos a la feria cu
 
 Haber puesto la cámara a la altura de los pájaros permite entrar al régimen de lo que se intenta observar. Uno podría listar la cantidad de cositas que hay, se ven en el agua. Se hizo una declaración: Temuco, ciudad verde del _sur de Chile_, proyectos de transformación, pensando en esos conceptos. Más verde que Cochamó, que La Junta, que Coyhaique. Pero claro, no lo tenemos. Entonces tenemos que llegar a eso, interviniendo arquitectónicamente. Entre las personas que piensan esto dicen _vamos a convertir la ciudad en eso_. Nos vemos atravesados por el presente. No hay nada que invite a recordar o a soñar. Cada vez que comíamos, estaba el nido ahí. Y ya no está. Y tenemos imágenes de que estuvo ahí. ¿lo desarmaron? Se va fijando una forma de estudios de gestos, de una naturaleza muy simple, que permiten elaborar modos de entender la ciudad. La imagen deja de ser una imagen en cuanto discurso visual, y pasa a ser un recordatorio, cambia en su estatuto de representación. Se transforma en un repositorio de indicios, de relaciones en distinción segun su materialidad.
 
+"Es el cíborg, en particular, el que personifica la mediación entre estos dos tipos de evolución humana, la biológica y la cultural, ya que es la afirmación de una adaptación natural del individuo [el ave] a los productos de la cultura material... Los individuos son cíborgs en su __interacción__ con las tecnologías"
+
+el cíborg no es un producto que se piensa hoy y que espera una po sible realización en un futuro próximo, sino un proceso que ya ha comenzado y que ve su realización progresiva, a menudo inconsciente, a través de la tecnologización de la sociedad: hoy asistimos a un proceso de ciborgización implementado por las progresivas olas de innovación tecnológica que convergen hacia la realización [el automovil] de la mejora tecnológica [un desplazamiento descontinuado en el espacio] del hombre 
+
+el simbionte da lugar a la indiferenciación: lo humano y las TIC evolucionan intercambiando influencias mutuas: esto lleva a su simbiosis y luego a la singularidad... Se asiste a una convergencia de dos entidades diferentes, que se puede leer como una humanización [pajarizacion] de la máquina y como una maquinización del hombre [pajaro] 
+
+bio-mejora consiste en mejorar al ser humano de diferentes maneras. Haciéndolo más inteligente, más longevo, inmune a las enfermedades, genéticamente superior (o programable) y por diferentes medios (prótesis tecnológicas, fármacos, estimulación cerebral, manipulación genética, etc.). Hacerlo de forma permanente y potencialmente heredable.
+
+"especismo proviene de especie como racismo de raza”, sandra baquedano, filosofa uchile
+https://orcid.org/0000-0001-5408-5204
+https://repositorio.uchile.cl/bitstream/handle/2250/151280/Aporias-antiespecistas.pdf?sequence=1
+
+
+---
+
+el libro como objeto unico, que potencial y tacticamente puede ser desplazado a esquemas reproductivos (serializacion)
