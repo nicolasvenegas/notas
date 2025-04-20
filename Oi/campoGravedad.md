@@ -6,6 +6,8 @@ modified: '2024-07-21T01:33:43.739Z'
 ---
 
 ![falla lanalhue](falla_lanalhue.jpg)
+![falla lanalhue](falla_hospital.jpg)
+![falla lanalhue](falla_elevacion.png)
 
 
 # gravedad
