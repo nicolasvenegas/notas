@@ -5,6 +5,9 @@ created: '2024-07-20T22:12:48.659Z'
 modified: '2024-07-21T01:33:43.739Z'
 ---
 
+![falla lanalhue](falla_lanalhue.jpg)
+
+
 # gravedad
 
 - la red geodesica es un conjunto de vertices y estaciones distribuidas homogeneas por chile.
