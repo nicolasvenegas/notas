@@ -135,7 +135,7 @@ _podemos construir_
 
 ---
 
-()[https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BirdWingFeatherSketch-es.svg/640px-BirdWingFeatherSketch-es.svg.png]
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BirdWingFeatherSketch-es.svg/640px-BirdWingFeatherSketch-es.svg.png)
 
 Las plumas primarias y secundarias
 son rémiges (plumas de vuelo) en las alas de las aves, diferenciadas por su ubicación y función: las primarias son largas y están en la punta del ala (parte de la "mano"), dando propulsión y velocidad; las secundarias se unen al cúbito (el "antebrazo") y crean la superficie aerodinámica para la sustentación y el planeo. Juntas, las primarias y secundarias (y a veces las terciarias) forman las "plumas de vuelo" esenciales para el movimiento aéreo de las aves
