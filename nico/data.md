@@ -140,12 +140,14 @@ _podemos construir_
 Las plumas primarias y secundarias
 son rémiges (plumas de vuelo) en las alas de las aves, diferenciadas por su ubicación y función: las primarias son largas y están en la punta del ala (parte de la "mano"), dando propulsión y velocidad; las secundarias se unen al cúbito (el "antebrazo") y crean la superficie aerodinámica para la sustentación y el planeo. Juntas, las primarias y secundarias (y a veces las terciarias) forman las "plumas de vuelo" esenciales para el movimiento aéreo de las aves
 
+---
+
 _Utilizando un lápiz duro, se dibujan sobre una pared durante un minuto líneas
 paralelas de 30 cm de largo separadas entre sí por cerca de 30 mm. Bajo esta fila
 de líneas, se dibuja otra fila por un espacio de diez minutos. Bajo de esta fila de
 líneas se dibuja otra fila por un espacio de una hora.
 
-con un lapiz negro se dibuja durante diez minutos desde el punto cero 120 lineas .
+con un lapiz negro se dibuja durante diez minutos desde el punto cero 120 lineas.
 
  _Topología de lo irreal, [...] un lugar catastrófico de aparición y neutralización de lo diagramático_
 
