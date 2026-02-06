@@ -4,15 +4,17 @@ title: discusiones conceptuales
 created: '2024-05-10T22:14:36.690Z'
 modified: '2024-05-19T22:57:54.159Z'
 ---
-
 # discusiones conceptuales
+
+
+El proyecto transhumano se basa en la idea de _ehnhancment_ del individuo contemporáneo, hasta el punto de trascender sus límites. Así, en la práctica, se trata de _reparar_ el organismo cuando funciona mal y, por otro lado, de _procesarlo_ de forma que aumente su capacidad de rendimiento. En este contexto, tanto la victoria sobre la enfermedad y la muerte como las prácticas de empoderamiento expresan diferentes modulaciones del mismo enfoque mecanicista.
 
 ## sobre **Objeto Imposible**:
 
 ### ideas iniciales
 
 - Entender la idea de __archivo expandido__.
-- Trabajar con __materiales__ diversos. Los materiales entendidos, como cualquier __vestigio de entrada__ posible que permita problematizar lo que se esta mirando, pensando. Pueden ser datos, dibujos, caminatas, mapas, cosas que no quedan registradas como conversaciones. Existen cuatro posibilidaddes de partida: lo sonoro, lo visual, lo textual, lo háptico. 
+- Trabajar con __materiales__ diversos. Los materiales entendidos, como cualquier __vestigio de entrada__ posible que permita problematizar lo que se esta mirando, pensando. Pueden ser datos, dibujos, caminatas, mapas, cosas que no quedan registradas como conversaciones. Existen cuatro posibilidaddes de partida: lo sonoro, lo visual, lo textual, lo háptico.
 - En el __gesto de la disección__ surge la posibilidad de __busqueda interseccional__.
 - __Gestos alquímicos__ como procesos de transformación: algo entra, le suceden distintas cosas, y emerge algo; un __programa__.
 - Dueña de casa, costurera, orfebre, gasfiter digital.
@@ -46,7 +48,7 @@ modified: '2024-05-19T22:57:54.159Z'
 - donde estan puestos los ojos y las energías
 - hay una __relacion con las sustancias de los materiales__
 - los procesos como el foco de atención del trabajo
-- una mirada más estratégica en términos de las dinámicas de circulación de los _objetos culturales_  
+- una mirada más estratégica en términos de las dinámicas de circulación de los _objetos culturales_
 - al principio del camino tiene que ver con voluntad, autogestión, pero pensando en términos tácticos los hitos de apertura o muestra de resultado de las investigaciones, que permitan tener un campo diversificado de espacios de acción, para así también diversificar las posibilidades de exhibición de obras
 - la exhibición, el espacio de lo vivo ya madurado en el ámbito de la música, es el lugar hacia donde se expandirán las formas de financiación de las prácticas artísticas en contextos locales
 
@@ -78,11 +80,12 @@ modified: '2024-05-19T22:57:54.159Z'
 #### actualizacion de campos 17nov2024
 
 - paulina
+
   - (pendiente)
 - nico
+
   - (pendiente)
 
-  
   ### procesos e ideas
 - agua
   -- áridos
@@ -92,7 +95,7 @@ modified: '2024-05-19T22:57:54.159Z'
   -- minga por fuego
 - islas
   -- observatorio antártica
-  -- imágenes para cuando se acabe Chile 
+  -- imágenes para cuando se acabe Chile
 
 ### herramientas
 
@@ -108,16 +111,20 @@ modified: '2024-05-19T22:57:54.159Z'
 - Enrique Ramirez
 - Alfredo Jaar
 - Harun Farocki
-<<<<<<< HEAD
-=======
+  <<<<<<< HEAD
+  =======
 
 ### Conversaciones pendientes
+
 - bitacorizar el proceso: cuadernos, notas, registros de viajes
 
-
-
 >>>>>>> 1e0129808fbfb835a9bef97a5ea91f049e9129d7
-
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
 
 11 de agosto
 
@@ -126,9 +133,9 @@ I. Campos del hacer:
 Corto plazo
 
 1. Cuerpos de agua en la ciudad (rio, canales, pozas, humedales)
-trazabilidades, relaciones, intersecciones. 
+   trazabilidades, relaciones, intersecciones.
 
-Se considera al rio cautin (considerar los materiales levantados hasta el momento)como la coordenada 1, por su condicion morfologica dentro de la ciudad de temuco y por, como cuerpo de agua y sus especificidades, nos permite ir venir hacia otros fenomenos vinculados con el agua en la ciudad mencionados anteriormente. 
+Se considera al rio cautin (considerar los materiales levantados hasta el momento)como la coordenada 1, por su condicion morfologica dentro de la ciudad de temuco y por, como cuerpo de agua y sus especificidades, nos permite ir venir hacia otros fenomenos vinculados con el agua en la ciudad mencionados anteriormente.
 
 2. Fuego (incedio en temuco 1908, relacion con los incedios forestales)
 
@@ -140,46 +147,47 @@ II. Puntos de observacion compartidos:
 
 AGUA:
 
-rio: las lineas de medicion, la cota. 
-aguas percoladas- relacion inter especies 
-geo posicionar las aguas percoladas 
-ficciones mobiliarias- ventas de las aguas de los cuerpos de agua 
-sonidos 
+rio: las lineas de medicion, la cota.
+aguas percoladas- relacion inter especies
+geo posicionar las aguas percoladas
+ficciones mobiliarias- ventas de las aguas de los cuerpos de agua
+sonidos
 tratamiento de aguas servida: piscina en el cerro
 
 GEODESICA:
 
-ir a los puntos geodésicos 
-instructivos geodesicos 
-mapas- cartografias 
-muestras materiales 
+ir a los puntos geodésicos
+instructivos geodesicos
+mapas- cartografias
+muestras materiales
 foto muestra- foto ampliada de detalle- lugar
-eje de la tierra en funcion de los terremotos. observacion de fallas. 
+eje de la tierra en funcion de los terremotos. observacion de fallas.
 
 FUEGO:
 
-bosque rucamavida 
+bosque rucamavida
 
-suelo nativo- suelo monocultivo 
+suelo nativo- suelo monocultivo
 
+MARCO ÉTICO POLÍTICO
 
-MARCO ÉTICO POLÍTICO 
-- no afectación de seres vivos 
-- muestras de todos los lugares sin generar modificaciones 
+- no afectación de seres vivos
+- muestras de todos los lugares sin generar modificaciones
 
 MODOS DE APROXIMACIÓN / la idea de forma
 
 GEODÉSICA:
 Trabajo mixto, cartografear- ficcionar/terrenos
 fijar, pensar una relacion ficcional entre los lugares, zonas limitrofes urbano-rural
-sonidos. 
+sonidos.
+
 - cartografear puntos geodesicos en base a tres escalas (humana, cientifica y cultural)
 - cartografear puntos geodesicos por operacion de traslado
 - terreno como gesto
 
 AGUA:
-mapear cuerpos de agua activos y no activos 
-sonorizar cuerpos de agua y las relaciones interespecies pajaros 
+mapear cuerpos de agua activos y no activos
+sonorizar cuerpos de agua y las relaciones interespecies pajaros
 sensorizacion- terreno
 ir a terreno para mapear-mapear cuerpos de agua activos y no activos
 ficciones inmobiliarias-COMPLETAR CONSULTORIA PLAN MAESTRO RIO CAUTIN Y SUS BORDES
@@ -189,42 +197,45 @@ INCEDIO 1908- REVISION DOCUMENTAL-TRAZABILIDAD MEDIANTE MAPEO- TERRENOS
 GEOREFERENCIAR CASAS QUEMADAS DE TEMUCO
 
 Terrenos:
+
 - BITACORAS COMPARTIDAS
 - BITACORAS EXPANDIDAS
-- REGISTRO AUDIOVISUAL 
+- REGISTRO AUDIOVISUAL
 - REGISTRO SONORO
 - REGISTRO FOTOGRAFICO
 - SENSORIZACION
-- MUESTRAS 
+- MUESTRAS
 
-* PENSAR EN LAS VISTAS DE REGISTRO 
+* PENSAR EN LAS VISTAS DE REGISTRO
 
 GEODESICA
+
 - cartografear puntos geodesicos en base a tres escalas (humana, cientifica y cultural)
 - cartografear puntos geodesicos por operacion de traslado
 - terreno como gesto
 
-
---- 
-
+---
 
 1. proceso de mapeo & proceso de realizacion
 2. la cartografía audiovisual como metodología de realización cinematográfica > mapeo cartográfico territorial
 3. el mapeo es un método específico
+
 - se fundamenta en la micropolitica territorial
-- entrega un diagnostico sobre un territorio, una comunidad, o fenomenos especificos asociados 
+- entrega un diagnostico sobre un territorio, una comunidad, o fenomenos especificos asociados
 - es un conocimiento teorico/empirico
 - tiene herramientas tecnicas: una metodología y herramientas de reconocimiento
 - el territorio es una conceción, una porcion de espacio sobre la que no hay demarcacion. tiene que ver con el control, se define por limites fisicos y imaginarios (cultural), que definen las relaciones de dominio. Hace sentir pertenencia, es mas que una simple colección de objetos.
 - los territorios y el habitar son cuestiones simbólicas
-- desde las representaciones visuales, estas pueden interpretar narrativas, formas de contar el territorio. 
+- desde las representaciones visuales, estas pueden interpretar narrativas, formas de contar el territorio.
 - micropolíticas, aspectos sociales culturales y politicos que ocurren localmente dentro de una cultura o un grupo cultural. (rodnik)
+
 4. la cartografia es el soporte abierto a cualquier forma posible
 
 ## Metodología
+
 1. marco cero: una circunferencia de 500mt alrededor del marco cero (punto cero, ampliable a 1km y 2km)
 2. levantamiento de datos micropoliticos en el área de trabajo a partir de 4 dimensiones fijas: recursos locales (amnbientales, infraestructura, conocimiento), expresiones culturales, perfiles claves, dinámicas sociales
-3. fases del mapeo: 1. premapeo 2. taller de consulta con agentes del territorio 3. investigacion de campo 4. organizacion y sistematizacion > elaboracion de cartografías 
+3. fases del mapeo: 1. premapeo 2. taller de consulta con agentes del territorio 3. investigacion de campo 4. organizacion y sistematizacion > elaboracion de cartografías
 4. socialización de la investigación
 
 Actualización dde la metodología segun criterios formales propuestas:
@@ -235,10 +246,8 @@ Actualización dde la metodología segun criterios formales propuestas:
 4. Trabajo de escritorio (3 jornadas)
 5. Presentación de resultados (1 jornada)
 
-
 ## Bibliografía
 
 1. cartografias criticas > Aluizo Marino
-
 
 don este
