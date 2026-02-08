@@ -164,7 +164,7 @@ Código OACI 	SCTE
 Código WIGOS 	0-20000-0-85799
 Nombre de la Estación 	El Tepual Puerto Montt Ap.
 Fecha de Creación 	01-06-1963 00:00
-(Estacion El Tepual)[https://climatologia.meteochile.gob.cl/application/informacion/fichaDeEstacion/410005]
+[Estacion El Tepual](https://climatologia.meteochile.gob.cl/application/informacion/fichaDeEstacion/410005)
 
 
 ## Objetos posibles
