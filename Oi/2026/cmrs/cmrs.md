@@ -146,7 +146,22 @@ Ciclo 6: Recopilar datos de gravedad de alta resolución y realizar experimentos
 Experimento del molino de viento: Observar el comportamiento de las moléculas en la atmósfera superior. 
 Experimento de terminación: 11 de octubre de 1994 (1986 dias total de la misión)
 ```
+4. 17 de agosto de 2017 (STRUENDO EN LA ARAUCANÍA SERÍA UN METEORO; AUNQUE “NO HAY CERTEZA” ASEGURAN EN ASTRONOMÍA UD)[https://noticias.cfm.cl/estruendo-en-la-araucania-seria-un-meteoro-aunque-no-hay-certeza-aseguran-en-astronomia-udec/]
+https://www.youtube.com/watch?v=HA1ZZz5qYZs
+https://pousta.com/cielomoto-meteorito-sur/
 
+5. Enviar un objeto a la estratosfera (a más de 20 km de altura) se logra comúnmente mediante un globo meteorológico de helio equipado con una carga útil, paracaídas y un rastreador GPS. El globo asciende hasta explotar por la baja presión, permitiendo que la carga descienda para ser recuperada. 
+6. "Quizás no podré ser astronauta,pero sí llevar cosas al espacio" https://www.youtube.com/watch?v=R_uIylS1zAE
+7. La red de sondas meteorológicas mundial, coordinada principalmente por la Organización Meteorológica Mundial (OMM) a través del Sistema Mundial de Observación (SMO), lanza diariamente más de 1400 radiosondas para medir la atmósfera hasta 30 km de altura. Estos globos sonda proporcionan datos críticos de temperatura, humedad, presión y viento, esenciales para modelos meteorológicos globales.
+
+8. (Mapa predicciones ultimos lanzamientos sondas meteorologicas RS41 todos los dias a las 12UTC desde Puerto Montt)[image/001.png]
+
+![Código Nacional 	410005
+Código OMM 	85799
+Código OACI 	SCTE
+Código WIGOS 	0-20000-0-85799
+Nombre de la Estación 	El Tepual Puerto Montt Ap.
+Fecha de Creación 	01-06-1963 00:00](002.png)
 
 
 ## Objetos posibles
