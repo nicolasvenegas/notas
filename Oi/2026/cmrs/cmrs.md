@@ -2,25 +2,25 @@
 
 ## Vadim Yusov
 
-![1770319897047](image/cmrs/1770319897047.png)
+![1770319897047](image/1770319897047.png)
 
 vadim yusom y andrei tarkovsky
 
-![1770320201404](image/cmrs/1770320201404.png)
+![1770320201404](image/1770320201404.png)
 
 Solaris, Andrei tarkovsky
 
 
 ## Estación Espacial MIR
 
-![1770320149279](image/cmrs/1770320149279.png)
+![1770320149279](image/1770320149279.png)
 
-![1770320154851](image/cmrs/1770320154851.png)
+![1770320154851](image/1770320154851.png)
 
 Siegfried Zielinski, Arqueologia de los medios
 
 
-![1770320431534](image/cmrs/1770320431534.png)
+![1770320431534](image/1770320431534.png)
 
 Vista Estacion Espacial MIR (Rusia)
 
@@ -36,16 +36,16 @@ La estación espacial rusa [Mir](https://es.wikipedia.org/wiki/Mir_(estaci%C3%B3
 La Mir fue la primera estación espacial modular, ensamblada entre 1986 y 1996, y __sirvió como base tecnológica para la Estación Espacial Internacional (EEI)__.
 
 
-![1770321964942](image/cmrs/1770321964942.png)
+![1770321964942](image/1770321964942.png)
 
     [Mir Space Station Re-Entry And Burnup Over The Pacific Ocean](https://www.youtube.com/watch?v=h902KJb0cfE)
 
 
 ## Apogeo y Perigeo
 
-![1770321294573](image/cmrs/1770321294573.png)
+![1770321294573](image/1770321294573.png)
 
-![1770321083720](image/cmrs/1770321083720.png)
+![1770321083720](image/1770321083720.png)
 
 [Out of Present](https://www.youtube.com/watch?v=L1In8pfdxv4) (Ujica, 1997). Narra la historia del cosmonauta __Sergei Krikalev__, quien quedó atrapado en la estación espacial MIR durante 10 meses (1991-1992) mientras la Unión Soviética colapsaba en la Tierra, convirtiéndose en el último ciudadano soviético en el espacio.
 
@@ -59,13 +59,13 @@ astronáutica.
 
 Su altura fue estimada en 100 [km](https://es.wikipedia.org/wiki/Km "Km") sobre el nivel del mar. También se obtiene calculando la altura a la que la [densidad](https://es.wikipedia.org/wiki/Densidad "Densidad") de la atmósfera se vuelve tan baja que la velocidad de una aeronave para conseguir [sustentación aerodinámica](https://es.wikipedia.org/wiki/Sustentaci%C3%B3n_aerodin%C3%A1mica "Sustentación aerodinámica") mediante [alas](https://es.wikipedia.org/wiki/Ala_(aeron%C3%A1utica)) "Ala (aeronáutica)") y [hélices](https://es.wikipedia.org/wiki/H%C3%A9lice_(dispositivo)) "Hélice (dispositivo)") debería ser equiparable a la [velocidad orbital](https://es.wikipedia.org/wiki/Velocidad_orbital "Velocidad orbital") para esa misma altura, por lo que alcanzada esa altura por esos medios las alas ya no serían válidas para mantener la nave.
 
-![1770322084755](image/cmrs/1770322084755.png)
+![1770322084755](image/1770322084755.png)
 
-![1770335719154](image/cmrs/1770335719154.png)
+![1770335719154](image/1770335719154.png)
 
 **[Meteorito Kapper ](https://www.facebook.com/photo/?fbid=1579993632433316&set=a.210572714032073), hallado por el Perito Moreno en 1896 en la provincia de Chubut (Museo de Ciencias Naturales)**
 
-![1770341406002](image/cmrs/1770341406002.png)
+![1770341406002](image/1770341406002.png)
 
 [Imagen Venus, Sonda Magallanes](https://pds-geosciences.wustl.edu/mgn/urn-nasa-pds-magellan_midr/browse/)
 
@@ -86,7 +86,7 @@ Cuando se mezcla con oxígeno en una variedad de proporciones, de hidrógeno exp
 el aire; se produce la ignición automáticamente a una temperatura de 560 °C. ^[[28]](https://es.wikipedia.org/wiki/Hidr%C3%B3geno#cite_note-29)^  Llamas de hidrógeno-oxígeno puros se queman en la gama del color [ultravioleta](https://es.wikipedia.org/wiki/Radiaci%C3%B3n_ultravioleta "Radiación ultravioleta") y son casi invisibles a simple vista, como lo demuestra la debilidad de la llama de los motores principales del [transbordador espacial](https://es.wikipedia.org/wiki/Transbordador_espacial "Transbordador espacial") (a diferencia de las llamas fácilmente visibles del [cohete acelerador del sólido](https://es.wikipedia.org/wiki/Cohete_de_combustible_s%C3%B3lido "Cohete de combustible sólido")). Así que se necesita un detector de llama para detectar si una fuga de hidrógeno está ardiendo. La [explosión del dirigible Hindenburg](https://es.wikipedia.org/wiki/Dirigible_Hindenburg#El_último_vuelo_del_Hindenburg)  fue un caso infame de combustión de hidrógeno. La causa fue debatida, pero los materiales combustibles en la cubierta de la aeronave fueron los responsables del color de las llamas.  Otra característica de los fuegos de hidrógeno es que las llamas tienden a ascender rápidamente con el gas en el aire, como ilustraron las llamas del  *Hindenburg* , causando menos daño que los fuegos de hidrocarburos. Dos terceras partes de los pasajeros del *Hindenburg* sobrevivieron al incendio, y muchas de las muertes que se produjeron fueron por caída o fuego del combustible [diésel](https://es.wikipedia.org/wiki/Gas%C3%B3leo "Gasóleo").
 
 
-![1770322844111](image/cmrs/1770322844111.png)
+![1770322844111](image/1770322844111.png)
 
     [El desastre del Hindenburg - Imágenes reales (1937) | British Pathé](https://www.youtube.com/watch?v=fURATK5Yt30)
 
