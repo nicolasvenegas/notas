@@ -154,8 +154,17 @@ https://pousta.com/cielomoto-meteorito-sur/
 7. La red de sondas meteorológicas mundial, coordinada principalmente por la Organización Meteorológica Mundial (OMM) a través del Sistema Mundial de Observación (SMO), lanza diariamente más de 1400 radiosondas para medir la atmósfera hasta 30 km de altura. Estos globos sonda proporcionan datos críticos de temperatura, humedad, presión y viento, esenciales para modelos meteorológicos globales.
 
 8. ![Mapa predicciones ultimos lanzamientos sondas meteorologicas RS41 todos los dias a las 12UTC desde Puerto Montt](image/001.png)
+Mapa predicciones ultimos lanzamientos sondas meteorologicas RS41 todos los dias a las 12UTC desde Puerto Montt
+---
 
-![El Tepual Puerto Montt Ap.](image/002.png)
+9. ![El Tepual Puerto Montt Ap.](image/002.png)
+Código Nacional 	410005
+Código OMM 	85799
+Código OACI 	SCTE
+Código WIGOS 	0-20000-0-85799
+Nombre de la Estación 	El Tepual Puerto Montt Ap.
+Fecha de Creación 	01-06-1963 00:00
+---
 
 
 ## Objetos posibles
