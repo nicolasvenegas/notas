@@ -22,7 +22,7 @@ Siegfried Zielinski, Arqueologia de los medios
 
 ![1770320431534](image/1770320431534.png)
 
-![Vista Estacion Espacial MIR (Rusia)](003.png)
+![Vista Estacion Espacial MIR (Rusia)](image/003.png)
 
 
 
