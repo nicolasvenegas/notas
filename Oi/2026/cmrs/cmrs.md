@@ -19,9 +19,6 @@ Solaris, Andrei tarkovsky
 
 Siegfried Zielinski, Arqueologia de los medios
 
-
-![1770320431534](image/1770320431534.png)
-
 ![Vista Estacion Espacial MIR (Rusia)](image/003.png)
 
 
@@ -158,12 +155,7 @@ https://pousta.com/cielomoto-meteorito-sur/
 
 8. (Mapa predicciones ultimos lanzamientos sondas meteorologicas RS41 todos los dias a las 12UTC desde Puerto Montt)[image/001.png]
 
-![Código Nacional 	410005
-Código OMM 	85799
-Código OACI 	SCTE
-Código WIGOS 	0-20000-0-85799
-Nombre de la Estación 	El Tepual Puerto Montt Ap.
-Fecha de Creación 	01-06-1963 00:00](002.png)
+![Código Nacional 	410005Código OMM 	85799 Código OACI 	SCTE Código WIGOS 	0-20000-0-85799 Nombre de la Estación 	El Tepual Puerto Montt Ap. Fecha de Creación 	01-06-1963 00:00](image/002.png)
 
 
 ## Objetos posibles
