@@ -153,7 +153,7 @@ https://pousta.com/cielomoto-meteorito-sur/
 6. "Quizás no podré ser astronauta,pero sí llevar cosas al espacio" https://www.youtube.com/watch?v=R_uIylS1zAE
 7. La red de sondas meteorológicas mundial, coordinada principalmente por la Organización Meteorológica Mundial (OMM) a través del Sistema Mundial de Observación (SMO), lanza diariamente más de 1400 radiosondas para medir la atmósfera hasta 30 km de altura. Estos globos sonda proporcionan datos críticos de temperatura, humedad, presión y viento, esenciales para modelos meteorológicos globales.
 
-8. (Mapa predicciones ultimos lanzamientos sondas meteorologicas RS41 todos los dias a las 12UTC desde Puerto Montt)[image/001.png]
+8. ![Mapa predicciones ultimos lanzamientos sondas meteorologicas RS41 todos los dias a las 12UTC desde Puerto Montt](image/001.png)
 
 ![El Tepual Puerto Montt Ap.](image/002.png)
 
