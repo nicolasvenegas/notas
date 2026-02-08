@@ -168,6 +168,8 @@ Fecha de Creación 	01-06-1963 00:00
 
 10. [https://sondehub.org/ - webapp for tracking radiosondes](https://sondehub.org/#!mt=Mapnik&mz=8&qm=3h&mc=-41.8266,-72.21313&box=aboutbox) 
 
+11. ![80 años aniversario del Instituto de Física Nuclear Skobeltsyn. Received images SSTV satellite MONITOR-3 (RS58S), Orbit 14338. ](image/004.png)
+
 
 ## Objetos posibles
 
