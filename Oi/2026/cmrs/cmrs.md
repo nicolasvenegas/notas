@@ -22,7 +22,9 @@ Siegfried Zielinski, Arqueologia de los medios
 
 ![1770320431534](image/1770320431534.png)
 
-Vista Estacion Espacial MIR (Rusia)
+![Vista Estacion Espacial MIR (Rusia)](003.png)
+
+
 
 
 La estación espacial rusa [Mir](https://es.wikipedia.org/wiki/Mir_(estaci%C3%B3n_espacial))  operó en una órbita terrestre baja, con una inclinación de 51,6º respecto al ecuador y una altitud típica entre **300 y 400 km** (perigeo/apogeo ~385-393 km). Completó más de **86.000 órbitas** (**33.454.000**km) a unos 27.000 km/h, **siendo destruida de forma controlada en el Océano Pacífico Sur en 2001**.
