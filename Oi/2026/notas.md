@@ -1,4 +1,23 @@
-        
+   
+# notas 2026
+     
+## pjrs editorial
+
+### Métodos para Reproducir Audio
+
+1. DFPlayer Mini (Recomendado): Calidad/Uso: Alta calidad, reproduce MP3, WAV y WMA desde microSD. Componentes: Arduino (Uno/Nano), DFPlayer Mini, Tarjeta SD, Parlante (3W máx), Resistencias de.
+2. Funcionamiento: Se conecta vía serial (TX/RX) y maneja el sonido directamente. Librería PCM (Sonidos básicos): Calidad/Uso: Baja, ideal para sonidos, voces simples o efectos cortos. Funcionamiento: Convierte archivos a código array (8-bit) almacenado en la memoria del Arduino.
+
+### Altavoces (Speakers): 
+Los mejores parlantes pequeños son los de 8 o 4ohms y potencias de 0.5W a 3W, extraídos de juguetes o radios viejas.
+
+### Mejorar la Calidad:
+
+1. Convertir audios a formato PCM de 16 bits y 8 kHz para mejor compatibilidad.
+2. Utilizar un condensador de o mayor en serie con el altavoz para eliminar componentes de corriente continua y mejorar el sonido.
+
+
+### Módulos
 
 ![GC03-tarjeta de grabación con movimiento, caja de regalo creativa, tarjeta de cumpleaños de Navidad, cubierta de música, pared, MP3, descarga, módulo de voz, TYPE-C](assets/001.png "Modulo GC03")
 
